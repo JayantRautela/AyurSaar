@@ -1,0 +1,250 @@
+[
+  {
+    "therapy_name": "Cold Hip Bath",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "The patient sits in a specially designed tub filled with cold water up to the navel, while keeping the feet outside and the upper body dry.",
+    "treats_symptoms": [
+      "PCOS",
+      "Urinary Tract Infection (UTI)",
+      "Hemorrhoids (Piles)",
+      "Constipation",
+      "Leucorrhea"
+    ],
+    "contraindications": "Avoid during active menstruation, acute asthma, and severe lower back pain."
+  },
+  {
+    "therapy_name": "Hot Hip Bath",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "Similar to the cold hip bath, but uses comfortably hot water (around 40°C) to relieve pelvic spasms and increase local circulation.",
+    "treats_symptoms": [
+      "Menstrual Cramps",
+      "Prostate Enlargement (BPH)",
+      "Sciatica"
+    ],
+    "contraindications": "Avoid in cases of heavy menstrual bleeding, bleeding piles, and acute pelvic inflammation."
+  },
+  {
+    "therapy_name": "Hot Foot Bath",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "The patient's feet and calves are immersed in a bucket of hot water. A cold wet towel is often placed on the head to draw congested blood away from the brain.",
+    "treats_symptoms": [
+      "Migraine",
+      "Tension Headache",
+      "Asthma",
+      "Common Cold",
+      "Insomnia"
+    ],
+    "contraindications": "Avoid if suffering from deep vein thrombosis (DVT), severe varicose veins, or peripheral neuropathy with loss of heat sensation."
+  },
+  {
+    "therapy_name": "Spinal Bath",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "The patient lies in a specially shaped shallow tub so that only the spine and back are immersed in water (can be cold, neutral, or hot).",
+    "treats_symptoms": [
+      "Stress",
+      "Anxiety",
+      "Insomnia",
+      "Backache",
+      "High Blood Pressure"
+    ],
+    "contraindications": "Avoid cold spinal baths during high fever or acute chest infections."
+  },
+  {
+    "therapy_name": "Warm Water Enema",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "Introduction of pure, lukewarm water into the rectum to flush out accumulated fecal matter and toxins from the colon.",
+    "treats_symptoms": [
+      "Constipation",
+      "Indigestion",
+      "Migraine",
+      "Acne",
+      "Obesity"
+    ],
+    "contraindications": "Strictly avoid in acute appendicitis, severe bleeding piles, intestinal obstruction, and rectal prolapse."
+  },
+  {
+    "therapy_name": "Cold Compress",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "A thick cotton cloth is soaked in cold water, wrung out, and placed over a specific body part (like the forehead, abdomen, or throat).",
+    "treats_symptoms": [
+      "Mild Fever",
+      "Viral Fever",
+      "Nausea",
+      "Eye Strain",
+      "Hives (Urticaria)"
+    ],
+    "contraindications": "Avoid applying to the chest during deep chest colds or severe bronchitis."
+  },
+  {
+    "therapy_name": "Steam Bath",
+    "element_category": "Water & Fire (Hydrotherapy / Thermotherapy)",
+    "description": "The patient sits in a closed wooden cabinet with their head exposed outside, while the body is subjected to herbal steam to induce heavy sweating.",
+    "treats_symptoms": [
+      "Obesity",
+      "Joint Pain",
+      "Rheumatoid Arthritis",
+      "Lymphatic Congestion",
+      "Sluggish Metabolism"
+    ],
+    "contraindications": "Avoid in high blood pressure, heart disease, extreme physical weakness, and pregnancy."
+  },
+  {
+    "therapy_name": "Abdominal Mud Pack",
+    "element_category": "Earth (Mud Therapy)",
+    "description": "Clean, purified clay is soaked in water, spread on a cotton cloth, and placed over the abdomen to cool the digestive system and absorb toxins.",
+    "treats_symptoms": [
+      "Indigestion",
+      "Constipation",
+      "Acidity",
+      "Irritable Bowel Syndrome (IBS)",
+      "Fatty Liver"
+    ],
+    "contraindications": "Avoid during severe stomach cramps, active diarrhea, and extremely cold weather."
+  },
+  {
+    "therapy_name": "Facial Mud Pack",
+    "element_category": "Earth (Mud Therapy)",
+    "description": "A fine paste of purified mud (like Multani Mitti) mixed with rose water or neem water applied directly to the face.",
+    "treats_symptoms": [
+      "Acne",
+      "Pigmentation",
+      "Eczema"
+    ],
+    "contraindications": "Avoid applying over open, bleeding, or severely infected wounds."
+  },
+  {
+    "therapy_name": "Full Body Mud Bath",
+    "element_category": "Earth (Mud Therapy)",
+    "description": "Purified mud is applied all over the body. The patient sits in the sun until it dries, followed by a cold shower to invigorate the skin.",
+    "treats_symptoms": [
+      "Psoriasis",
+      "Ringworm",
+      "General Toxemia",
+      "Stress"
+    ],
+    "contraindications": "Avoid during high fever, extreme cold, or severe respiratory congestion."
+  },
+  {
+    "therapy_name": "Sun Bath (Heliotherapy)",
+    "element_category": "Fire (Heliotherapy)",
+    "description": "Exposing the bare skin to the gentle morning or late afternoon sun to absorb Vitamin D and stimulate deep cellular healing.",
+    "treats_symptoms": [
+      "Weak Immunity",
+      "Underweight",
+      "Psoriasis",
+      "General Weakness",
+      "Mild Depression"
+    ],
+    "contraindications": "Avoid during peak afternoon hours (11 AM - 3 PM), sunstroke, or if suffering from severe skin burns."
+  },
+  {
+    "therapy_name": "Infrared Fomentation",
+    "element_category": "Fire (Thermotherapy)",
+    "description": "Using an infrared lamp to apply dry, penetrating heat to a specific localized area of pain or stiffness.",
+    "treats_symptoms": [
+      "Frozen Shoulder",
+      "Knee Pain",
+      "Muscle Cramps",
+      "Neck Pain"
+    ],
+    "contraindications": "Do not use over acute, hot, swollen inflammatory joints (like a fresh gout flare-up) or open wounds."
+  },
+  {
+    "therapy_name": "Lemon-Honey Water Fasting",
+    "element_category": "Space/Akash (Fasting Therapy)",
+    "description": "Total abstinence from solid food. The patient consumes only diluted fresh lemon juice with a spoonful of raw honey and water for 1-3 days.",
+    "treats_symptoms": [
+      "Obesity",
+      "High Cholesterol",
+      "Sluggish Metabolism",
+      "Halitosis",
+      "General Detoxification"
+    ],
+    "contraindications": "Avoid in advanced diabetes, severe gastric ulcers, extreme emaciation (underweight), and pregnancy."
+  },
+  {
+    "therapy_name": "Juice Diet (Liquid Fasting)",
+    "element_category": "Space/Akash (Diet Therapy)",
+    "description": "Replacing heavy solid meals with freshly extracted, diluted, unsweetened vegetable and fruit juices (like Ash Gourd, Carrot, or Citrus).",
+    "treats_symptoms": [
+      "High Blood Pressure",
+      "Fatty Liver",
+      "Gout",
+      "Kidney Stones"
+    ],
+    "contraindications": "Diabetics must avoid high-sugar fruit juices; kidney disease patients must monitor potassium-rich juices."
+  },
+  {
+    "therapy_name": "Air Bath",
+    "element_category": "Air (Vayu Therapy)",
+    "description": "Walking or performing light exercises in fresh, unpolluted morning air while wearing minimal, loose-fitting cotton clothing.",
+    "treats_symptoms": [
+      "Stress",
+      "Brain Fog",
+      "Anxiety",
+      "Chronic Fatigue Syndrome"
+    ],
+    "contraindications": "None, though one should dress appropriately if the weather is extremely cold."
+  },
+  {
+    "therapy_name": "Dry Friction Massage (Udvartana)",
+    "element_category": "Physical Therapy / Earth",
+    "description": "Vigorous upward rubbing of the body using a dry, rough towel, a soft brush, or dry herbal powders to stimulate the lymphatic system.",
+    "treats_symptoms": [
+      "Obesity",
+      "Poor Circulation",
+      "Sluggish Metabolism",
+      "Cold Extremities"
+    ],
+    "contraindications": "Avoid in eczema, psoriasis, severe varicose veins, and highly sensitive skin."
+  },
+  {
+    "therapy_name": "Full Body Relaxation Massage",
+    "element_category": "Physical Therapy",
+    "description": "Gentle, rhythmic manipulation of the body's soft tissues using natural oils like sesame, coconut, or mustard oil.",
+    "treats_symptoms": [
+      "Stress",
+      "Insomnia",
+      "Anxiety",
+      "Dry Skin",
+      "General Weakness"
+    ],
+    "contraindications": "Avoid immediately after heavy meals, during acute fever, or over deep vein thrombosis (DVT)."
+  },
+  {
+    "therapy_name": "Wet Sheet Pack",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "The patient is wrapped entirely in a cold, wet cotton sheet, followed tightly by a dry woolen blanket to trap body heat and induce deep sweating.",
+    "treats_symptoms": [
+      "High Fever",
+      "Eczema",
+      "Severe Toxemia",
+      "Obesity"
+    ],
+    "contraindications": "Avoid in severe heart conditions, extreme physical weakness, or asthma."
+  },
+  {
+    "therapy_name": "Chest Pack",
+    "element_category": "Water (Hydrotherapy)",
+    "description": "A localized pack around the chest consisting of a wet cotton cloth wrapped over the ribcage, covered by a dry woolen cloth.",
+    "treats_symptoms": [
+      "Asthma",
+      "Bronchitis",
+      "Wet Cough",
+      "Palpitations"
+    ],
+    "contraindications": "Do not apply tightly enough to restrict breathing."
+  },
+  {
+    "therapy_name": "Epsom Salt Bath",
+    "element_category": "Water & Earth",
+    "description": "Immersing the body in a warm bath dissolved with Magnesium Sulfate (Epsom salts) to draw out lactic acid and relax muscles.",
+    "treats_symptoms": [
+      "Joint Pain",
+      "Muscle Cramps",
+      "Edema (Water Retention)",
+      "Tremors"
+    ],
+    "contraindications": "Avoid in severe open skin conditions or if the patient is severely dehydrated."
+  }
+]

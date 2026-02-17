@@ -1,0 +1,2400 @@
+[
+  {
+    "symptom": "Acidity",
+    "herbs": [
+      "Amla",
+      "Jeera"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Sheetali Pranayama"
+    ],
+    "diet": [
+      "Avoid spicy food",
+      "Drink coconut water"
+    ],
+    "unani": [
+      "Jawarish Kamuni",
+      "Arq Badiyan (Fennel distillate)"
+    ],
+    "siddha": [
+      "Eladi Choornam",
+      "Seeraga Choornam"
+    ],
+    "naturopathy": [
+      "Cold abdominal compress",
+      "Ash gourd juice on empty stomach"
+    ],
+    "homeopathy": [
+      "Nux Vomica 30C",
+      "Robinia 30C"
+    ]
+  },
+  {
+    "symptom": "Constipation",
+    "herbs": [
+      "Haritaki",
+      "Triphala",
+      "Isabgol"
+    ],
+    "yoga": [
+      "Malasana",
+      "Pawanmuktasana"
+    ],
+    "diet": [
+      "Increase fiber intake",
+      "Drink warm water upon waking"
+    ],
+    "unani": [
+      "Itrifal Mulayyan",
+      "Roghan Badam Shireen (Almond oil) in milk"
+    ],
+    "siddha": [
+      "Nilavagai Choornam",
+      "Thiripala Choornam"
+    ],
+    "naturopathy": [
+      "Warm water enema",
+      "Mud pack on the abdomen"
+    ],
+    "homeopathy": [
+      "Bryonia Alba 30C",
+      "Alumina 30C"
+    ]
+  },
+  {
+    "symptom": "Indigestion",
+    "herbs": [
+      "Ginger",
+      "Black Pepper",
+      "Pippali"
+    ],
+    "yoga": [
+      "Ardha Matsyendrasana",
+      "Surya Namaskar"
+    ],
+    "diet": [
+      "Eat only when hungry",
+      "Include ginger tea before meals"
+    ],
+    "unani": [
+      "Majoon Nankhwah",
+      "Arq Pudina"
+    ],
+    "siddha": [
+      "Panchadeepakkini Choornam",
+      "Inji Rasam (Ginger soup)"
+    ],
+    "naturopathy": [
+      "Fasting on lemon-honey water",
+      "Hot and cold fomentation to abdomen"
+    ],
+    "homeopathy": [
+      "Pulsatilla 30C",
+      "Lycopodium 30C"
+    ]
+  },
+  {
+    "symptom": "Common Cold",
+    "herbs": [
+      "Tulsi",
+      "Ginger",
+      "Black Pepper"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Jal Neti (Kriya)"
+    ],
+    "diet": [
+      "Drink warm herbal teas",
+      "Avoid cold foods and ice water"
+    ],
+    "unani": [
+      "Joshanda (Herbal decoction)",
+      "Laooq Sapistan"
+    ],
+    "siddha": [
+      "Thaleesathi Vadagam",
+      "Kabasura Kudineer"
+    ],
+    "naturopathy": [
+      "Hot foot bath",
+      "Eucalyptus steam inhalation"
+    ],
+    "homeopathy": [
+      "Aconitum Napellus 30C",
+      "Allium Cepa 30C"
+    ]
+  },
+  {
+    "symptom": "Dry Cough",
+    "herbs": [
+      "Mulethi",
+      "Vamsha",
+      "Tulsi"
+    ],
+    "yoga": [
+      "Matsyasana",
+      "Ujjayi Pranayama"
+    ],
+    "diet": [
+      "Drink warm milk with turmeric",
+      "Avoid dry and crunchy foods"
+    ],
+    "unani": [
+      "Laooq Badam",
+      "Sharbat Toot Siyah"
+    ],
+    "siddha": [
+      "Adathodai Manapagu",
+      "Thaleesathi Choornam"
+    ],
+    "naturopathy": [
+      "Warm chest pack",
+      "Gargling with warm saline water"
+    ],
+    "homeopathy": [
+      "Drosera 30C",
+      "Rumex Crispus 30C"
+    ]
+  },
+  {
+    "symptom": "Asthma",
+    "herbs": [
+      "Pushkarmool",
+      "Kantakari",
+      "Vasaka"
+    ],
+    "yoga": [
+      "Gomukhasana",
+      "Anulom Vilom Pranayama"
+    ],
+    "diet": [
+      "Avoid mucus-forming foods like yogurt",
+      "Eat warm, light meals"
+    ],
+    "unani": [
+      "Sharbat Zoofa Murakkab",
+      "Habbe Hindi Asthmatic"
+    ],
+    "siddha": [
+      "Swasakudori Maathirai",
+      "Thoothuvalai Ney"
+    ],
+    "naturopathy": [
+      "Asthma bath (Neutral immersion)",
+      "Chest mud pack"
+    ],
+    "homeopathy": [
+      "Arsenicum Album 30C",
+      "Spongia Tosta 30C"
+    ]
+  },
+  {
+    "symptom": "Joint Pain",
+    "herbs": [
+      "Shallaki",
+      "Nirgundi",
+      "Guggul"
+    ],
+    "yoga": [
+      "Pawanmuktasana (Joint rotation)",
+      "Trikonasana"
+    ],
+    "diet": [
+      "Avoid cold and sour foods",
+      "Include ginger and turmeric"
+    ],
+    "unani": [
+      "Habbe Asgand",
+      "Roghan Surkh (Topical oil)"
+    ],
+    "siddha": [
+      "Amukkara Choornam",
+      "Pindathailam (External)"
+    ],
+    "naturopathy": [
+      "Infrared heat therapy",
+      "Epsom salt bath"
+    ],
+    "homeopathy": [
+      "Rhus Toxicodendron 30C",
+      "Bryonia Alba 30C"
+    ]
+  },
+  {
+    "symptom": "Backache",
+    "herbs": [
+      "Ashwagandha",
+      "Rasna",
+      "Eranda"
+    ],
+    "yoga": [
+      "Marjaryasana-Bitilasana",
+      "Bhujangasana"
+    ],
+    "diet": [
+      "Eat warm, lubricating foods like ghee",
+      "Avoid dry, airy foods"
+    ],
+    "unani": [
+      "Majoon Suranjan",
+      "Roghan Malkangni"
+    ],
+    "siddha": [
+      "Kukkil Bhasmam",
+      "Ulundhu Thailam (External)"
+    ],
+    "naturopathy": [
+      "Spinal bath",
+      "Hot fomentation on the lower back"
+    ],
+    "homeopathy": [
+      "Aesculus Hippocastanum 30C",
+      "Calcarea Fluorica 6X"
+    ]
+  },
+  {
+    "symptom": "Stress",
+    "herbs": [
+      "Ashwagandha",
+      "Brahmi",
+      "Tulsi"
+    ],
+    "yoga": [
+      "Shavasana",
+      "Balasana"
+    ],
+    "diet": [
+      "Include warm milk and ghee",
+      "Avoid excessive caffeine"
+    ],
+    "unani": [
+      "Khamira Gaozaban Ambari",
+      "Arq Gulab"
+    ],
+    "siddha": [
+      "Vallarai Choornam",
+      "Amukkara Kizhangu"
+    ],
+    "naturopathy": [
+      "Full body relaxation massage",
+      "Neutral spinal bath"
+    ],
+    "homeopathy": [
+      "Kali Phosphoricum 6X",
+      "Ignatia Amara 30C"
+    ]
+  },
+  {
+    "symptom": "Insomnia",
+    "herbs": [
+      "Tagar",
+      "Jatamansi",
+      "Nutmeg"
+    ],
+    "yoga": [
+      "Viparita Karani",
+      "Yoga Nidra"
+    ],
+    "diet": [
+      "Drink warm milk with nutmeg",
+      "Avoid heavy dinners"
+    ],
+    "unani": [
+      "Roghan Kadu (Head massage)",
+      "Dawa-ul-Misk"
+    ],
+    "siddha": [
+      "Jathikkai (Nutmeg) with milk",
+      "Santhana Thailam (Head massage)"
+    ],
+    "naturopathy": [
+      "Hot foot bath before bed",
+      "Cold compress to the head"
+    ],
+    "homeopathy": [
+      "Coffea Cruda 30C",
+      "Passiflora Incarnata Q"
+    ]
+  },
+  {
+    "symptom": "Migraine",
+    "herbs": [
+      "Godanti Bhasma",
+      "Brahmi",
+      "Ginger"
+    ],
+    "yoga": [
+      "Adho Mukha Svanasana",
+      "Shavasana"
+    ],
+    "diet": [
+      "Avoid aged cheeses and chocolate",
+      "Maintain regular meal times"
+    ],
+    "unani": [
+      "Itrifal Ustukhuddus",
+      "Roghan Chameli"
+    ],
+    "siddha": [
+      "Neerkovai Mathirai (External application)",
+      "Thiripala Choornam"
+    ],
+    "naturopathy": [
+      "Hot foot and arm bath with cold compress to head",
+      "Enema for detox"
+    ],
+    "homeopathy": [
+      "Belladonna 30C",
+      "Iris Versicolor 30C"
+    ]
+  },
+  {
+    "symptom": "Acne",
+    "herbs": [
+      "Neem",
+      "Manjistha",
+      "Aloe Vera"
+    ],
+    "yoga": [
+      "Sarvangasana",
+      "Sheetali Pranayama"
+    ],
+    "diet": [
+      "Avoid spicy and fried foods",
+      "Drink plenty of water"
+    ],
+    "unani": [
+      "Safi (Blood purifier)",
+      "Marham Kafoori (Topical)"
+    ],
+    "siddha": [
+      "Parangipattai Choornam",
+      "Arugan Thailam"
+    ],
+    "naturopathy": [
+      "Facial steam",
+      "Neem and clay mud mask"
+    ],
+    "homeopathy": [
+      "Berberis Aquifolium Q (Topical)",
+      "Sulphur 30C"
+    ]
+  },
+  {
+    "symptom": "Hair Fall",
+    "herbs": [
+      "Bhringraj",
+      "Amla",
+      "Brahmi"
+    ],
+    "yoga": [
+      "Sirsasana",
+      "Balasana"
+    ],
+    "diet": [
+      "Include sesame seeds and almonds",
+      "Avoid excessive salt"
+    ],
+    "unani": [
+      "Roghan Baiza Murgh",
+      "Roghan Amla Khaas"
+    ],
+    "siddha": [
+      "Ponnanganni Thailam",
+      "Karisalai Karpam"
+    ],
+    "naturopathy": [
+      "Scalp massage with coconut oil",
+      "Cold head bath"
+    ],
+    "homeopathy": [
+      "Weisbaden 30C",
+      "Phosphorus 30C"
+    ]
+  },
+  {
+    "symptom": "Obesity",
+    "herbs": [
+      "Guggul",
+      "Vidanga",
+      "Chitrak"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Navasana"
+    ],
+    "diet": [
+      "Avoid heavy, cold foods",
+      "Drink warm water with honey and lemon"
+    ],
+    "unani": [
+      "Safoof Mahzool",
+      "Arq Zeera"
+    ],
+    "siddha": [
+      "Khasakhasa Choornam",
+      "Inji (Ginger) Thaen (Honey)"
+    ],
+    "naturopathy": [
+      "Fasting therapy",
+      "Vigorous dry friction massage (Udvartana)"
+    ],
+    "homeopathy": [
+      "Phytolacca Berry Q",
+      "Fucus Vesiculosus Q"
+    ]
+  },
+  {
+    "symptom": "Type 2 Diabetes Support",
+    "herbs": [
+      "Gudmar",
+      "Karela",
+      "Jamun"
+    ],
+    "yoga": [
+      "Mandukasana",
+      "Ardha Matsyendrasana"
+    ],
+    "diet": [
+      "Avoid refined sugars",
+      "Include bitter vegetables"
+    ],
+    "unani": [
+      "Qurs Ziabetus",
+      "Arq Kasni"
+    ],
+    "siddha": [
+      "Sirukurinjan Choornam",
+      "Avarai Kudineer"
+    ],
+    "naturopathy": [
+      "Sun bath",
+      "Bitter gourd and Indian gooseberry juice"
+    ],
+    "homeopathy": [
+      "Syzygium Jambolanum Q",
+      "Uranium Nitricum 30C"
+    ]
+  },
+  {
+    "symptom": "High Blood Pressure",
+    "herbs": [
+      "Arjuna",
+      "Sarpagandha",
+      "Brahmi"
+    ],
+    "yoga": [
+      "Shavasana",
+      "Bhramari Pranayama"
+    ],
+    "diet": [
+      "Reduce sodium intake",
+      "Avoid stimulants like caffeine"
+    ],
+    "unani": [
+      "Dawa-ush-Shifa",
+      "Arq Gaozaban"
+    ],
+    "siddha": [
+      "Sivanar Amirtham",
+      "Venthamarai Poo (White Lotus) Decoction"
+    ],
+    "naturopathy": [
+      "Neutral immersion bath",
+      "Garlic and celery juice"
+    ],
+    "homeopathy": [
+      "Rauwolfia Serpentina Q",
+      "Crataegus Oxyacantha Q"
+    ]
+  },
+  {
+    "symptom": "Menstrual Cramps",
+    "herbs": [
+      "Ashoka",
+      "Aloe Vera",
+      "Ajwain"
+    ],
+    "yoga": [
+      "Balasana",
+      "Baddha Konasana"
+    ],
+    "diet": [
+      "Drink warm ajwain water",
+      "Avoid cold and heavy foods"
+    ],
+    "unani": [
+      "Habbe Mudir",
+      "Arq Mako"
+    ],
+    "siddha": [
+      "Sathavari Leghyam",
+      "Kumari (Aloe) Leghyam"
+    ],
+    "naturopathy": [
+      "Hot hip bath",
+      "Hot water bag on lower abdomen"
+    ],
+    "homeopathy": [
+      "Magnesia Phosphorica 6X",
+      "Colocynthis 30C"
+    ]
+  },
+  {
+    "symptom": "Urinary Tract Infection (UTI)",
+    "herbs": [
+      "Gokshura",
+      "Coriander",
+      "Chandan"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Baddha Konasana"
+    ],
+    "diet": [
+      "Drink plenty of tender coconut water",
+      "Strictly avoid spicy foods"
+    ],
+    "unani": [
+      "Sharbat Bazoori Motadil",
+      "Qurs Kushta Hajrul Yahood"
+    ],
+    "siddha": [
+      "Neermulli Kudineer",
+      "Sirupeelai Choornam"
+    ],
+    "naturopathy": [
+      "Cold hip bath",
+      "Barley water fasting"
+    ],
+    "homeopathy": [
+      "Cantharis 30C",
+      "Sarsaparilla 30C"
+    ]
+  },
+  {
+    "symptom": "Fatigue",
+    "herbs": [
+      "Ashwagandha",
+      "Shilajit",
+      "Bala"
+    ],
+    "yoga": [
+      "Tadasana",
+      "Ustrasana"
+    ],
+    "diet": [
+      "Eat warm, nourishing stews",
+      "Avoid processed junk food"
+    ],
+    "unani": [
+      "Kushta Faulad",
+      "Majoon Arad Khurma"
+    ],
+    "siddha": [
+      "Amukkara Leghyam",
+      "Karisalai Choornam"
+    ],
+    "naturopathy": [
+      "Sun gazing at sunrise",
+      "Revitalizing cold shower"
+    ],
+    "homeopathy": [
+      "Acidum Phosphoricum 30C",
+      "Avena Sativa Q"
+    ]
+  },
+  {
+    "symptom": "Anemia",
+    "herbs": [
+      "Punarnava",
+      "Amla",
+      "Shatavari"
+    ],
+    "yoga": [
+      "Sarvangasana",
+      "Surya Namaskar"
+    ],
+    "diet": [
+      "Cook in iron vessels",
+      "Include pomegranate and spinach"
+    ],
+    "unani": [
+      "Sharbat Faulad",
+      "Kushta Khabsul Hadeed"
+    ],
+    "siddha": [
+      "Annapethi Chenduram",
+      "Karisalai juice"
+    ],
+    "naturopathy": [
+      "Wheatgrass juice",
+      "Sun bath for vitamin D absorption"
+    ],
+    "homeopathy": [
+      "Ferrum Metallicum 30C",
+      "Ferrum Phosphoricum 6X"
+    ]
+  },
+  {
+    "symptom": "PCOS",
+    "herbs": [
+      "Shatavari",
+      "Kanchanar",
+      "Aloe Vera"
+    ],
+    "yoga": [
+      "Baddha Konasana",
+      "Bhujangasana"
+    ],
+    "diet": [
+      "Avoid dairy and refined sugar",
+      "Eat a low-glycemic diet"
+    ],
+    "unani": [
+      "Majoon Supari Pak",
+      "Arq Shahatara"
+    ],
+    "siddha": [
+      "Kalamegha Narayana Chenduram",
+      "Kumari (Aloe Vera) Juice"
+    ],
+    "naturopathy": [
+      "Hip bath (Neutral)",
+      "Mud pack to the pelvis"
+    ],
+    "homeopathy": [
+      "Pulsatilla 30C",
+      "Apis Mellifica 30C"
+    ]
+  },
+  {
+    "symptom": "Toothache",
+    "herbs": [
+      "Clove",
+      "Khadira",
+      "Babool"
+    ],
+    "yoga": [
+      "Simhasana",
+      "Relaxation techniques"
+    ],
+    "diet": [
+      "Avoid extremely hot or cold foods",
+      "Avoid sugary sweets"
+    ],
+    "unani": [
+      "Roghan Qaranful (Clove oil)",
+      "Sunun Zard"
+    ],
+    "siddha": [
+      "Kirambu (Clove) Thailam",
+      "Palthodi Choornam (Tooth powder)"
+    ],
+    "naturopathy": [
+      "Salt water gargle",
+      "Cold compress on the cheek"
+    ],
+    "homeopathy": [
+      "Plantago Major Q",
+      "Chamomilla 30C"
+    ]
+  },
+  {
+    "symptom": "Hemorrhoids (Piles)",
+    "herbs": [
+      "Lajjalu",
+      "Surana",
+      "Triphala"
+    ],
+    "yoga": [
+      "Viparita Karani",
+      "Malasana"
+    ],
+    "diet": [
+      "Eat easily digestible warm meals",
+      "Avoid extremely spicy foods"
+    ],
+    "unani": [
+      "Habbe Bawasir",
+      "Marham Bawasir (Topical)"
+    ],
+    "siddha": [
+      "Nathai Choori",
+      "Karunai Kizhangu (Yam)"
+    ],
+    "naturopathy": [
+      "Cold sitz bath",
+      "Fiber-rich diet and hydration"
+    ],
+    "homeopathy": [
+      "Aesculus Hippocastanum 30C",
+      "Aloe Socotrina 30C"
+    ]
+  },
+  {
+    "symptom": "Dandruff",
+    "herbs": [
+      "Neem",
+      "Bhringraj",
+      "Aloe Vera"
+    ],
+    "yoga": [
+      "Adho Mukha Svanasana",
+      "Sarvangasana"
+    ],
+    "diet": [
+      "Avoid excessive sugar and yeast",
+      "Include healthy fats"
+    ],
+    "unani": [
+      "Roghan Zarareeh",
+      "Washing hair with Arithaa (Soapnut)"
+    ],
+    "siddha": [
+      "Poduthalai Thailam",
+      "Vellai Milagu (White Pepper) paste"
+    ],
+    "naturopathy": [
+      "Lemon and curd scalp pack",
+      "Sun exposure to the scalp"
+    ],
+    "homeopathy": [
+      "Sanicula Aqua 30C",
+      "Thuja Occidentalis 30C"
+    ]
+  },
+  {
+    "symptom": "Mild Fever",
+    "herbs": [
+      "Giloy",
+      "Tulsi",
+      "Musta"
+    ],
+    "yoga": [
+      "Shavasana",
+      "Nadi Shodhana Pranayama"
+    ],
+    "diet": [
+      "Eat a very light liquid diet",
+      "Drink warm water"
+    ],
+    "unani": [
+      "Habbe Bukhar",
+      "Arq Gaozaban"
+    ],
+    "siddha": [
+      "Nilavembu Kudineer",
+      "Brahmananda Bairavam"
+    ],
+    "naturopathy": [
+      "Cold compress to forehead and abdomen",
+      "Complete rest and fasting"
+    ],
+    "homeopathy": [
+      "Belladonna 30C",
+      "Ferrum Phosphoricum 6X"
+    ]
+  },
+  {
+    "symptom": "Dry Skin",
+    "herbs": [
+      "Aloe Vera",
+      "Shatavari",
+      "Almond Oil (Topical)"
+    ],
+    "yoga": [
+      "Bhujangasana",
+      "Surya Bhedana Pranayama"
+    ],
+    "diet": [
+      "Include ghee and healthy oils",
+      "Avoid dry, rough foods"
+    ],
+    "unani": [
+      "Roghan Badam Shireen (Internal and External)",
+      "Marham Kafoori"
+    ],
+    "siddha": [
+      "Kungumadi Thailam",
+      "Nannari (Sarsaparilla) Syrup"
+    ],
+    "naturopathy": [
+      "Full body oil massage",
+      "Hydrating mud pack"
+    ],
+    "homeopathy": [
+      "Petroleum 30C",
+      "Alumina 30C"
+    ]
+  },
+  {
+    "symptom": "Hives (Urticaria)",
+    "herbs": [
+      "Haridra",
+      "Giloy",
+      "Neem"
+    ],
+    "yoga": [
+      "Shavasana",
+      "Anulom Vilom Pranayama"
+    ],
+    "diet": [
+      "Avoid sour, salty, and spicy foods",
+      "Drink coriander water"
+    ],
+    "unani": [
+      "Sharbat Unnab",
+      "Safi"
+    ],
+    "siddha": [
+      "Parangipattai Choornam",
+      "Arugan Thailam (External)"
+    ],
+    "naturopathy": [
+      "Cold compress",
+      "Neem water bath"
+    ],
+    "homeopathy": [
+      "Apis Mellifica 30C",
+      "Urtica Urens Q"
+    ]
+  },
+  {
+    "symptom": "Ringworm",
+    "herbs": [
+      "Neem",
+      "Karanja",
+      "Garlic"
+    ],
+    "yoga": [
+      "Trikonasana",
+      "Kapalabhati Pranayama"
+    ],
+    "diet": [
+      "Avoid damp, heavy, and sweet foods",
+      "Keep the diet light and dry"
+    ],
+    "unani": [
+      "Marham Kharish",
+      "Roghan Neem"
+    ],
+    "siddha": [
+      "Arugan Thailam",
+      "Gandhaka Rasayanam"
+    ],
+    "naturopathy": [
+      "Sun exposure to the affected area",
+      "Garlic paste application"
+    ],
+    "homeopathy": [
+      "Tellurium 30C",
+      "Sepia 30C"
+    ]
+  },
+  {
+    "symptom": "Premature Graying",
+    "herbs": [
+      "Amla",
+      "Bhringraj",
+      "Curry Leaves"
+    ],
+    "yoga": [
+      "Sarvangasana",
+      "Matsyasana"
+    ],
+    "diet": [
+      "Avoid excessive tea/coffee",
+      "Eat Pitta-pacifying foods"
+    ],
+    "unani": [
+      "Roghan Baiza Murgh",
+      "Itrifal Sagheer"
+    ],
+    "siddha": [
+      "Karisalai Karpam",
+      "Ponnanganni Thailam"
+    ],
+    "naturopathy": [
+      "Amla and shikakai hair pack",
+      "Cold head bath"
+    ],
+    "homeopathy": [
+      "Lycopodium Clavatum 30C",
+      "Phosphoricum Acidum 30C"
+    ]
+  },
+  {
+    "symptom": "Underweight",
+    "herbs": [
+      "Ashwagandha",
+      "Shatavari",
+      "Vidari Kand"
+    ],
+    "yoga": [
+      "Surya Namaskar (Slow pace)",
+      "Vajrasana"
+    ],
+    "diet": [
+      "Eat nourishing, heavy foods like milk, ghee, and dates",
+      "Avoid fasting"
+    ],
+    "unani": [
+      "Majoon Arad Khurma",
+      "Kushta Nuqra"
+    ],
+    "siddha": [
+      "Amukkara Kizhangu Leghyam",
+      "Sathavari Leghyam"
+    ],
+    "naturopathy": [
+      "Sun bath",
+      "Banana and milk diet therapy"
+    ],
+    "homeopathy": [
+      "Alfalfa Q",
+      "Calcarea Phosphorica 6X"
+    ]
+  },
+  {
+    "symptom": "Hypothyroidism",
+    "herbs": [
+      "Kanchanar",
+      "Guggul",
+      "Ashwagandha"
+    ],
+    "yoga": [
+      "Sarvangasana",
+      "Halasana",
+      "Ujjayi Pranayama"
+    ],
+    "diet": [
+      "Avoid cold foods and raw cabbage/broccoli",
+      "Use iodized salt in moderation"
+    ],
+    "unani": [
+      "Majoon Suranjan",
+      "Habbe Asgand"
+    ],
+    "siddha": [
+      "Kanchanara Guggulu (Siddha equivalent)",
+      "Amukkara Choornam"
+    ],
+    "naturopathy": [
+      "Hot and cold neck compress",
+      "Mud pack to the throat"
+    ],
+    "homeopathy": [
+      "Thyroidinum 30C",
+      "Calcarea Carbonica 30C"
+    ]
+  },
+  {
+    "symptom": "High Cholesterol",
+    "herbs": [
+      "Guggul",
+      "Arjuna",
+      "Garlic"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Kapalabhati Pranayama"
+    ],
+    "diet": [
+      "Avoid trans fats and excessive dairy",
+      "Include oats and fenugreek"
+    ],
+    "unani": [
+      "Safoof Muhazzil",
+      "Arq Zeera"
+    ],
+    "siddha": [
+      "Seeraga Choornam",
+      "Inji (Ginger) Rasam"
+    ],
+    "naturopathy": [
+      "Fasting on lemon and honey water",
+      "Sun bath"
+    ],
+    "homeopathy": [
+      "Cholesterinum 3X",
+      "Allium Sativum Q"
+    ]
+  },
+  {
+    "symptom": "High Triglycerides",
+    "herbs": [
+      "Guggul",
+      "Cinnamon",
+      "Fenugreek"
+    ],
+    "yoga": [
+      "Paschimottanasana",
+      "Navasana"
+    ],
+    "diet": [
+      "Strictly avoid alcohol and refined carbs",
+      "Eat regular, light meals"
+    ],
+    "unani": [
+      "Jawarish Kamuni",
+      "Safoof Muhazzil"
+    ],
+    "siddha": [
+      "Khasakhasa Choornam",
+      "Vellai Poondu (Garlic) Milk"
+    ],
+    "naturopathy": [
+      "Warm water therapy",
+      "Dry friction massage"
+    ],
+    "homeopathy": [
+      "Fucus Vesiculosus Q",
+      "Crataegus Oxyacantha Q"
+    ]
+  },
+  {
+    "symptom": "Low Energy",
+    "herbs": [
+      "Shilajit",
+      "Ashwagandha",
+      "Amla"
+    ],
+    "yoga": [
+      "Urdhva Hastasana",
+      "Bhastrika Pranayama"
+    ],
+    "diet": [
+      "Eat fresh, energetic (Pranic) foods",
+      "Avoid stale or leftover food"
+    ],
+    "unani": [
+      "Kushta Faulad",
+      "Dawa-ul-Misk Moatadil Jawahar Wali"
+    ],
+    "siddha": [
+      "Amukkara Leghyam",
+      "Ayakantha Chenduram"
+    ],
+    "naturopathy": [
+      "Revitalizing cold shower",
+      "Sun gazing"
+    ],
+    "homeopathy": [
+      "Acidum Phosphoricum 30C",
+      "China Officinalis 30C"
+    ]
+  },
+  {
+    "symptom": "Sugar Cravings",
+    "herbs": [
+      "Gudmar",
+      "Cinnamon",
+      "Cardamom"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Nadi Shodhana Pranayama"
+    ],
+    "diet": [
+      "Include naturally sweet foods like sweet potatoes",
+      "Ensure adequate protein intake"
+    ],
+    "unani": [
+      "Qurs Ziabetus",
+      "Arq Kasni"
+    ],
+    "siddha": [
+      "Sirukurinjan Choornam",
+      "Avarai Kudineer"
+    ],
+    "naturopathy": [
+      "Chewing fennel seeds",
+      "Fasting on diluted fruit juices"
+    ],
+    "homeopathy": [
+      "Argentum Nitricum 30C",
+      "Saccharum Officinale 30C"
+    ]
+  },
+  {
+    "symptom": "Sluggish Metabolism",
+    "herbs": [
+      "Chitrak",
+      "Pippali",
+      "Ginger"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Agnisar Kriya"
+    ],
+    "diet": [
+      "Drink warm water throughout the day",
+      "Avoid heavy meals at night"
+    ],
+    "unani": [
+      "Jawarish Bisbasa",
+      "Majoon Nankhwah"
+    ],
+    "siddha": [
+      "Panchadeepakkini Choornam",
+      "Chukku (Dry Ginger) Water"
+    ],
+    "naturopathy": [
+      "Hot abdominal pack",
+      "Vigorous dry massage"
+    ],
+    "homeopathy": [
+      "Calcarea Carbonica 30C",
+      "Graphites 30C"
+    ]
+  },
+  {
+    "symptom": "Low Blood Pressure",
+    "herbs": [
+      "Ashwagandha",
+      "Mulethi",
+      "Tulsi"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Surya Bhedana Pranayama"
+    ],
+    "diet": [
+      "Ensure adequate salt intake",
+      "Eat small, frequent meals"
+    ],
+    "unani": [
+      "Khamira Abresham Hakim Arshad Wala",
+      "Habbe Jawahir"
+    ],
+    "siddha": [
+      "Sivanar Amirtham",
+      "Amukkara Leghyam"
+    ],
+    "naturopathy": [
+      "Cold friction bath",
+      "Beetroot and carrot juice"
+    ],
+    "homeopathy": [
+      "Gelsemium Sempervirens 30C",
+      "Carbo Vegetabilis 30C"
+    ]
+  },
+  {
+    "symptom": "Palpitations",
+    "herbs": [
+      "Arjuna",
+      "Kamala",
+      "Jatamansi"
+    ],
+    "yoga": [
+      "Sukhasana",
+      "Anulom Vilom Pranayama"
+    ],
+    "diet": [
+      "Avoid caffeine and heavy spices",
+      "Eat grounding meals"
+    ],
+    "unani": [
+      "Khamira Marwareed",
+      "Arq Gaozaban"
+    ],
+    "siddha": [
+      "Thamari (Lotus) Poo Choornam",
+      "Seeraga (Cumin) Water"
+    ],
+    "naturopathy": [
+      "Cold chest pack",
+      "Deep relaxation techniques"
+    ],
+    "homeopathy": [
+      "Aconitum Napellus 30C",
+      "Spigelia Anthelmia 30C"
+    ]
+  },
+  {
+    "symptom": "Poor Circulation",
+    "herbs": [
+      "Cinnamon",
+      "Ginger",
+      "Guggul"
+    ],
+    "yoga": [
+      "Viparita Karani",
+      "Tadasana"
+    ],
+    "diet": [
+      "Include warming spices in food",
+      "Avoid excessively cold foods"
+    ],
+    "unani": [
+      "Roghan Malkangni (Massage)",
+      "Majoon Azaraqi"
+    ],
+    "siddha": [
+      "Milagu (Black Pepper) Rasam",
+      "Vathakesari Thailam (Massage)"
+    ],
+    "naturopathy": [
+      "Hot and cold alternate bath",
+      "Dry brushing"
+    ],
+    "homeopathy": [
+      "Carbo Vegetabilis 30C",
+      "Secale Cornutum 30C"
+    ]
+  },
+  {
+    "symptom": "Varicose Veins",
+    "herbs": [
+      "Mandukaparni",
+      "Guggul",
+      "Kanchanar"
+    ],
+    "yoga": [
+      "Viparita Karani",
+      "Sarvangasana"
+    ],
+    "diet": [
+      "Avoid standing for long periods after eating",
+      "Include high-fiber foods"
+    ],
+    "unani": [
+      "Majoon Ushba",
+      "Roghan Babuna (Gentle application)"
+    ],
+    "siddha": [
+      "Sangu Parpam",
+      "Vallarai Choornam"
+    ],
+    "naturopathy": [
+      "Cold leg pack",
+      "Elevating legs while resting"
+    ],
+    "homeopathy": [
+      "Hamamelis Virginiana 30C",
+      "Calcarea Fluorica 6X"
+    ]
+  },
+  {
+    "symptom": "Edema (Water Retention)",
+    "herbs": [
+      "Punarnava",
+      "Gokshura",
+      "Coriander"
+    ],
+    "yoga": [
+      "Pawanmuktasana",
+      "Viparita Karani"
+    ],
+    "diet": [
+      "Reduce salt intake",
+      "Drink coriander and cumin seed tea"
+    ],
+    "unani": [
+      "Sharbat Bazoori Motadil",
+      "Arq Mako"
+    ],
+    "siddha": [
+      "Neermulli Kudineer",
+      "Sirupeelai Choornam"
+    ],
+    "naturopathy": [
+      "Epsom salt bath",
+      "Hot water bag on kidneys"
+    ],
+    "homeopathy": [
+      "Apis Mellifica 30C",
+      "Natrum Muriaticum 30C"
+    ]
+  },
+  {
+    "symptom": "Cold Extremities",
+    "herbs": [
+      "Ginger",
+      "Cinnamon",
+      "Black Pepper"
+    ],
+    "yoga": [
+      "Utkatasana",
+      "Bhastrika Pranayama"
+    ],
+    "diet": [
+      "Eat warm, spiced meals",
+      "Avoid cold drinks"
+    ],
+    "unani": [
+      "Majoon Azaraqi",
+      "Roghan Surkh (Massage)"
+    ],
+    "siddha": [
+      "Chukku (Dry Ginger) paste applied externally",
+      "Amukkara Choornam"
+    ],
+    "naturopathy": [
+      "Hot foot and arm bath",
+      "Vigorous dry friction"
+    ],
+    "homeopathy": [
+      "Silicea 30C",
+      "Carbo Vegetabilis 30C"
+    ]
+  },
+  {
+    "symptom": "General Weakness",
+    "herbs": [
+      "Ashwagandha",
+      "Shatavari",
+      "Bala"
+    ],
+    "yoga": [
+      "Tadasana",
+      "Vrikshasana"
+    ],
+    "diet": [
+      "Include dates, ghee, and milk",
+      "Eat balanced, nourishing meals"
+    ],
+    "unani": [
+      "Dawa-ul-Misk Moatadil",
+      "Kushta Khabsul Hadeed"
+    ],
+    "siddha": [
+      "Amukkara Kizhangu Leghyam",
+      "Thetraan Kottai (Clearing nut) milk"
+    ],
+    "naturopathy": [
+      "Sun bath",
+      "Wheatgrass juice"
+    ],
+    "homeopathy": [
+      "Alfalfa Q",
+      "Ferrum Phosphoricum 6X"
+    ]
+  },
+  {
+    "symptom": "Heavy Menstrual Bleeding",
+    "herbs": [
+      "Ashoka",
+      "Lodhra",
+      "Nagkesar"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Shavasana"
+    ],
+    "diet": [
+      "Avoid spicy and heating foods",
+      "Eat cooling, astringent foods"
+    ],
+    "unani": [
+      "Habbe Ral",
+      "Sharbat Anjabar"
+    ],
+    "siddha": [
+      "Padikara Parpam",
+      "Ashoka Bark Decoction"
+    ],
+    "naturopathy": [
+      "Cold hip bath",
+      "Ice pack on lower abdomen"
+    ],
+    "homeopathy": [
+      "Sabina 30C",
+      "Trillium Pendulum 30C"
+    ]
+  },
+  {
+    "symptom": "Irregular Periods",
+    "herbs": [
+      "Shatavari",
+      "Aloe Vera",
+      "Kumari"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Bhujangasana"
+    ],
+    "diet": [
+      "Include sesame seeds and jaggery",
+      "Maintain a consistent daily routine"
+    ],
+    "unani": [
+      "Majoon Supari Pak",
+      "Arq Mako"
+    ],
+    "siddha": [
+      "Kumari Leghyam",
+      "Sathavari Leghyam"
+    ],
+    "naturopathy": [
+      "Hot hip bath",
+      "Mud pack to the pelvis"
+    ],
+    "homeopathy": [
+      "Pulsatilla 30C",
+      "Sepia 30C"
+    ]
+  },
+  {
+    "symptom": "Leucorrhea",
+    "herbs": [
+      "Lodhra",
+      "Ashoka",
+      "Shatavari"
+    ],
+    "yoga": [
+      "Baddha Konasana",
+      "Mula Bandha"
+    ],
+    "diet": [
+      "Avoid excessive sweets and heavy dairy",
+      "Eat a light, astringent diet"
+    ],
+    "unani": [
+      "Majoon Supari Pak",
+      "Kushta Baiza Murgh"
+    ],
+    "siddha": [
+      "Padikara Parpam",
+      "Triphala Decoction wash"
+    ],
+    "naturopathy": [
+      "Cold hip bath",
+      "Neem water douche"
+    ],
+    "homeopathy": [
+      "Kreosotum 30C",
+      "Borax 30C"
+    ]
+  },
+  {
+    "symptom": "Menopausal Hot Flashes",
+    "herbs": [
+      "Shatavari",
+      "Brahmi",
+      "Sariva"
+    ],
+    "yoga": [
+      "Sheetali Pranayama",
+      "Shavasana"
+    ],
+    "diet": [
+      "Avoid spicy, salty, and sour foods",
+      "Include cooling foods like coconut and cucumber"
+    ],
+    "unani": [
+      "Sharbat Bazoori",
+      "Khamira Gaozaban"
+    ],
+    "siddha": [
+      "Sathavari Leghyam",
+      "Nannari Syrup"
+    ],
+    "naturopathy": [
+      "Neutral immersion bath",
+      "Cold towel rub"
+    ],
+    "homeopathy": [
+      "Lachesis 30C",
+      "Sepia 30C"
+    ]
+  },
+  {
+    "symptom": "Kidney Stones",
+    "herbs": [
+      "Pashanbhed",
+      "Varuna",
+      "Gokshura"
+    ],
+    "yoga": [
+      "Pawanmuktasana",
+      "Bhujangasana"
+    ],
+    "diet": [
+      "Drink adequate water",
+      "Avoid spinach, tomatoes, and excess dairy"
+    ],
+    "unani": [
+      "Qurs Kushta Hajrul Yahood",
+      "Sharbat Bazoori Motadil"
+    ],
+    "siddha": [
+      "Sirupeelai Kudineer",
+      "Nerunjil (Gokshura) Decoction"
+    ],
+    "naturopathy": [
+      "Hot fomentation to the kidney area",
+      "Banana stem juice"
+    ],
+    "homeopathy": [
+      "Berberis Vulgaris Q",
+      "Lycopodium Clavatum 30C"
+    ]
+  },
+  {
+    "symptom": "Burning Micturition",
+    "herbs": [
+      "Coriander",
+      "Sariva",
+      "Gokshura"
+    ],
+    "yoga": [
+      "Sheetali Pranayama",
+      "Vajrasana"
+    ],
+    "diet": [
+      "Drink barley water",
+      "Avoid hot spices and alcohol"
+    ],
+    "unani": [
+      "Sharbat Bazoori Motadil",
+      "Arq Kasni"
+    ],
+    "siddha": [
+      "Neermulli Kudineer",
+      "Nannari Syrup"
+    ],
+    "naturopathy": [
+      "Cold hip bath",
+      "Tender coconut water fasting"
+    ],
+    "homeopathy": [
+      "Cantharis 30C",
+      "Sarsaparilla 30C"
+    ]
+  },
+  {
+    "symptom": "Lymphatic Congestion",
+    "herbs": [
+      "Kanchanar",
+      "Manjistha",
+      "Guggul"
+    ],
+    "yoga": [
+      "Viparita Karani",
+      "Surya Namaskar"
+    ],
+    "diet": [
+      "Avoid cold dairy and sweets",
+      "Include warming spices like black pepper"
+    ],
+    "unani": [
+      "Sharbat Ushba",
+      "Itrifal Shahtara"
+    ],
+    "siddha": [
+      "Kanchanara Guggulu",
+      "Parangipattai Choornam"
+    ],
+    "naturopathy": [
+      "Dry brush massage",
+      "Hot and cold contrast shower"
+    ],
+    "homeopathy": [
+      "Phytolacca Decandra 30C",
+      "Calcarea Fluorica 6X"
+    ]
+  },
+  {
+    "symptom": "Low Libido",
+    "herbs": [
+      "Safed Musli",
+      "Ashwagandha",
+      "Shilajit"
+    ],
+    "yoga": [
+      "Paschimottanasana",
+      "Baddha Konasana"
+    ],
+    "diet": [
+      "Include nourishing foods like milk, ghee, and almonds",
+      "Avoid high stress"
+    ],
+    "unani": [
+      "Majoon Arad Khurma",
+      "Labub Kabir"
+    ],
+    "siddha": [
+      "Amukkara Choornam",
+      "Sathavari Leghyam"
+    ],
+    "naturopathy": [
+      "Cold friction bath",
+      "Sun bath"
+    ],
+    "homeopathy": [
+      "Agnus Castus 30C",
+      "Nuphar Luteum Q"
+    ]
+  },
+  {
+    "symptom": "Prostate Enlargement (BPH)",
+    "herbs": [
+      "Gokshura",
+      "Varuna",
+      "Kanchanar"
+    ],
+    "yoga": [
+      "Baddha Konasana",
+      "Vajrasana"
+    ],
+    "diet": [
+      "Avoid holding urine",
+      "Reduce intake of heavy, cold foods"
+    ],
+    "unani": [
+      "Qurs Kushta Hajrul Yahood",
+      "Sharbat Bazoori"
+    ],
+    "siddha": [
+      "Sirupeelai Kudineer",
+      "Neermulli Kudineer"
+    ],
+    "naturopathy": [
+      "Hot and cold alternate hip bath",
+      "Pumpkin seeds in diet"
+    ],
+    "homeopathy": [
+      "Sabal Serrulata Q",
+      "Conium Maculatum 30C"
+    ]
+  },
+  {
+    "symptom": "Weak Immunity",
+    "herbs": [
+      "Giloy",
+      "Amla",
+      "Tulsi"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Anulom Vilom Pranayama"
+    ],
+    "diet": [
+      "Include regular intake of Chyawanprash",
+      "Eat seasonal fruits and vegetables"
+    ],
+    "unani": [
+      "Khamira Marwareed",
+      "Arq Tulsi"
+    ],
+    "siddha": [
+      "Nellikai (Amla) Leghyam",
+      "Nilavembu Kudineer"
+    ],
+    "naturopathy": [
+      "Sun bath",
+      "Fasting on fruit juices"
+    ],
+    "homeopathy": [
+      "Echinacea Angustifolia Q",
+      "Arsenicum Album 30C"
+    ]
+  },
+  {
+    "symptom": "Viral Fever",
+    "herbs": [
+      "Kalmegh",
+      "Giloy",
+      "Tulsi"
+    ],
+    "yoga": [
+      "Restorative Yoga",
+      "Shavasana"
+    ],
+    "diet": [
+      "Drink ginger and coriander tea",
+      "Avoid heavy solid foods until appetite returns"
+    ],
+    "unani": [
+      "Joshanda",
+      "Habbe Bukhar"
+    ],
+    "siddha": [
+      "Nilavembu Kudineer",
+      "Brahmananda Bairavam"
+    ],
+    "naturopathy": [
+      "Cold compress to forehead",
+      "Liquid diet (warm water and lemon)"
+    ],
+    "homeopathy": [
+      "Rhus Toxicodendron 30C",
+      "Eupatorium Perfoliatum 30C"
+    ]
+  },
+  {
+    "symptom": "Post-Fever Weakness",
+    "herbs": [
+      "Amla",
+      "Ashwagandha",
+      "Shatavari"
+    ],
+    "yoga": [
+      "Vajrasana",
+      "Sukhasana"
+    ],
+    "diet": [
+      "Gradually reintroduce solid foods",
+      "Include nourishing moong dal soup"
+    ],
+    "unani": [
+      "Khamira Gaozaban Ambari Jawahar Wala",
+      "Sharbat Faulad"
+    ],
+    "siddha": [
+      "Amukkara Kizhangu",
+      "Eladi Choornam"
+    ],
+    "naturopathy": [
+      "Sun gazing",
+      "Pomegranate and sweet lime juice"
+    ],
+    "homeopathy": [
+      "China Officinalis 30C",
+      "Acidum Phosphoricum 30C"
+    ]
+  },
+  {
+    "symptom": "Chronic Fatigue Syndrome",
+    "herbs": [
+      "Shilajit",
+      "Ashwagandha",
+      "Guduchi"
+    ],
+    "yoga": [
+      "Yoga Nidra",
+      "Gentle Surya Namaskar"
+    ],
+    "diet": [
+      "Eat warm, freshly cooked meals",
+      "Avoid processed foods"
+    ],
+    "unani": [
+      "Kushta Faulad",
+      "Majoon Azaraqi"
+    ],
+    "siddha": [
+      "Ayakantha Chenduram",
+      "Sathavari Leghyam"
+    ],
+    "naturopathy": [
+      "Revitalizing cold shower",
+      "Full body relaxation massage"
+    ],
+    "homeopathy": [
+      "Kali Phosphoricum 6X",
+      "Gelsemium Sempervirens 30C"
+    ]
+  },
+  {
+    "symptom": "Oral Thrush",
+    "herbs": [
+      "Neem",
+      "Khadira",
+      "Haridra"
+    ],
+    "yoga": [
+      "Sheetali Pranayama",
+      "Simhasana"
+    ],
+    "diet": [
+      "Avoid all forms of sugar and yeast",
+      "Use coconut oil for oil pulling"
+    ],
+    "unani": [
+      "Qurs Kushta Qalai",
+      "Gharghara (Alum gargle)"
+    ],
+    "siddha": [
+      "Padikara Parpam",
+      "Triphala Decoction mouthwash"
+    ],
+    "naturopathy": [
+      "Salt water gargle",
+      "Sunlight exposure"
+    ],
+    "homeopathy": [
+      "Borax 30C",
+      "Candida Albicans 30C"
+    ]
+  },
+  {
+    "symptom": "Earache",
+    "herbs": [
+      "Garlic (infused oil)",
+      "Apamarga",
+      "Tulsi"
+    ],
+    "yoga": [
+      "Griva Sanchalana (Neck rolls)",
+      "Bhramari Pranayama"
+    ],
+    "diet": [
+      "Avoid cold foods and exposure to cold wind",
+      "Chew food thoroughly"
+    ],
+    "unani": [
+      "Roghan Qaranful",
+      "Roghan Badam Shireen (Ear drops)"
+    ],
+    "siddha": [
+      "Poondu (Garlic) Thailam",
+      "Chukku (Ginger) paste externally"
+    ],
+    "naturopathy": [
+      "Hot compress over the ear",
+      "Onion juice drops"
+    ],
+    "homeopathy": [
+      "Chamomilla 30C",
+      "Pulsatilla 30C"
+    ]
+  },
+  {
+    "symptom": "Bleeding Gums",
+    "herbs": [
+      "Babool",
+      "Triphala",
+      "Khadira"
+    ],
+    "yoga": [
+      "Sheetali Pranayama",
+      "Sukhasana"
+    ],
+    "diet": [
+      "Eat foods rich in Vitamin C like Amla",
+      "Avoid crunchy, sharp foods"
+    ],
+    "unani": [
+      "Sunun Zard",
+      "Gharghara with Alum water"
+    ],
+    "siddha": [
+      "Palthodi Choornam",
+      "Khadirādi Vadagam"
+    ],
+    "naturopathy": [
+      "Lemon juice gum massage",
+      "Salt water rinse"
+    ],
+    "homeopathy": [
+      "Merc Sol 30C",
+      "Phosphorus 30C"
+    ]
+  },
+  {
+    "symptom": "Dry Eyes",
+    "herbs": [
+      "Amla",
+      "Triphala (Eye wash)",
+      "Rose Water"
+    ],
+    "yoga": [
+      "Trataka (Candle gazing)",
+      "Palming"
+    ],
+    "diet": [
+      "Include ghee in your diet",
+      "Stay hydrated"
+    ],
+    "unani": [
+      "Arq Gulab (Pure rose water drops)",
+      "Itrifal Kishneezi"
+    ],
+    "siddha": [
+      "Nandhiyavattai (Crape Jasmine) flower extract drops",
+      "Triphala wash"
+    ],
+    "naturopathy": [
+      "Cold eye packs",
+      "Blinking exercises"
+    ],
+    "homeopathy": [
+      "Alumina 30C",
+      "Euphrasia Officinalis Q"
+    ]
+  },
+  {
+    "symptom": "Eye Strain",
+    "herbs": [
+      "Triphala",
+      "Fennel",
+      "Amla"
+    ],
+    "yoga": [
+      "Trataka",
+      "Palming"
+    ],
+    "diet": [
+      "Avoid excessive screen time without breaks",
+      "Eat carrots and green leafy greens"
+    ],
+    "unani": [
+      "Khamira Abresham",
+      "Arq Gulab (Topical)"
+    ],
+    "siddha": [
+      "Ponnanganni Keerai (Greens) in diet",
+      "Vallarai Choornam"
+    ],
+    "naturopathy": [
+      "Cold water eye wash",
+      "Palming with warm hands"
+    ],
+    "homeopathy": [
+      "Ruta Graveolens 30C",
+      "Natrum Muriaticum 30C"
+    ]
+  },
+  {
+    "symptom": "Cataract Support",
+    "herbs": [
+      "Amla",
+      "Triphala",
+      "Punarnava"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Netra Vyayama (Eye exercises)"
+    ],
+    "diet": [
+      "Eat a diet high in antioxidants",
+      "Avoid excessive salt"
+    ],
+    "unani": [
+      "Itrifal Ustukhuddus",
+      "Arq Badiyan"
+    ],
+    "siddha": [
+      "Kanmai (Herbal Kajal)",
+      "Ponnanganni Thailam (Head bath)"
+    ],
+    "naturopathy": [
+      "Carrot juice fasting",
+      "Eye wash with triphala water"
+    ],
+    "homeopathy": [
+      "Calcarea Fluorica 6X",
+      "Cineraria Maritima (Eye drops)"
+    ]
+  },
+  {
+    "symptom": "Blurred Vision",
+    "herbs": [
+      "Amla",
+      "Brahmi",
+      "Triphala"
+    ],
+    "yoga": [
+      "Trataka",
+      "Anulom Vilom Pranayama"
+    ],
+    "diet": [
+      "Ensure adequate intake of Vitamin A rich foods",
+      "Use ghee in cooking"
+    ],
+    "unani": [
+      "Itrifal Kishneezi",
+      "Roghan Badam (Head massage)"
+    ],
+    "siddha": [
+      "Karisalai Choornam",
+      "Ponnanganni Keerai"
+    ],
+    "naturopathy": [
+      "Sun gazing at dawn",
+      "Palming"
+    ],
+    "homeopathy": [
+      "Physostigma 30C",
+      "Gelsemium Sempervirens 30C"
+    ]
+  },
+  {
+    "symptom": "Tinnitus",
+    "herbs": [
+      "Ashwagandha",
+      "Brahmi",
+      "Vacha"
+    ],
+    "yoga": [
+      "Karna Pidasana",
+      "Bhramari Pranayama"
+    ],
+    "diet": [
+      "Avoid caffeine and loud noises",
+      "Follow a Vata-pacifying diet"
+    ],
+    "unani": [
+      "Majoon Azaraqi",
+      "Roghan Badam (Ear drops)"
+    ],
+    "siddha": [
+      "Amukkara Choornam",
+      "Chukku Thailam"
+    ],
+    "naturopathy": [
+      "Hot and cold compress to neck",
+      "Relaxation massage"
+    ],
+    "homeopathy": [
+      "Chininum Sulphuricum 30C",
+      "Chenopodium Anthelminticum 30C"
+    ]
+  },
+  {
+    "symptom": "Vertigo",
+    "herbs": [
+      "Amla",
+      "Coriander",
+      "Brahmi"
+    ],
+    "yoga": [
+      "Tadasana",
+      "Shavasana"
+    ],
+    "diet": [
+      "Avoid sudden movements",
+      "Eat light, grounding meals"
+    ],
+    "unani": [
+      "Khamira Gaozaban",
+      "Itrifal Ustukhuddus"
+    ],
+    "siddha": [
+      "Sivanar Amirtham",
+      "Thiripala Choornam"
+    ],
+    "naturopathy": [
+      "Cold compress to the head",
+      "Rest in a dark room"
+    ],
+    "homeopathy": [
+      "Conium Maculatum 30C",
+      "Cocculus Indicus 30C"
+    ]
+  },
+  {
+    "symptom": "Loss of Smell",
+    "herbs": [
+      "Vacha",
+      "Anu Taila (Nasya)",
+      "Tulsi"
+    ],
+    "yoga": [
+      "Jal Neti",
+      "Bhastrika Pranayama"
+    ],
+    "diet": [
+      "Include pungent spices like mustard and black pepper",
+      "Avoid cold foods"
+    ],
+    "unani": [
+      "Bakhour (Herbal smoke)",
+      "Roghan Chameli (Nasal drops)"
+    ],
+    "siddha": [
+      "Peenisa Thailam",
+      "Thaleesathi Vadagam"
+    ],
+    "naturopathy": [
+      "Facial steam",
+      "Eucalyptus inhalation"
+    ],
+    "homeopathy": [
+      "Pulsatilla 30C",
+      "Natrum Muriaticum 30C"
+    ]
+  },
+  {
+    "symptom": "Loss of Taste",
+    "herbs": [
+      "Ginger",
+      "Black Pepper",
+      "Rock Salt"
+    ],
+    "yoga": [
+      "Simhasana",
+      "Kapalabhati Pranayama"
+    ],
+    "diet": [
+      "Chew a slice of fresh ginger with rock salt before meals",
+      "Avoid heavy, tasteless foods"
+    ],
+    "unani": [
+      "Jawarish Bisbasa",
+      "Majoon Nankhwah"
+    ],
+    "siddha": [
+      "Inji (Ginger) Leghyam",
+      "Panchadeepakkini Choornam"
+    ],
+    "naturopathy": [
+      "Tongue scraping",
+      "Lemon and ginger juice"
+    ],
+    "homeopathy": [
+      "Pulsatilla 30C",
+      "Sulphur 30C"
+    ]
+  },
+  {
+    "symptom": "Mouth Ulcers",
+    "herbs": [
+      "Mulethi",
+      "Khadira",
+      "Coriander"
+    ],
+    "yoga": [
+      "Sheetali Pranayama",
+      "Shavasana"
+    ],
+    "diet": [
+      "Avoid spicy and acidic foods",
+      "Chew licorice root or drink coriander tea"
+    ],
+    "unani": [
+      "Gharghara with Arq Gulab",
+      "Qurs Kushta Qalai"
+    ],
+    "siddha": [
+      "Padikara Parpam",
+      "Manathakkali (Black Nightshade) greens"
+    ],
+    "naturopathy": [
+      "Coconut milk gargle",
+      "Cold mud pack to the abdomen"
+    ],
+    "homeopathy": [
+      "Merc Sol 30C",
+      "Borax 30C"
+    ]
+  },
+  {
+    "symptom": "Halitosis (Bad Breath)",
+    "herbs": [
+      "Cardamom",
+      "Clove",
+      "Fennel"
+    ],
+    "yoga": [
+      "Surya Namaskar",
+      "Simhasana"
+    ],
+    "diet": [
+      "Scrape tongue daily",
+      "Chew fennel seeds after meals"
+    ],
+    "unani": [
+      "Jawarish Amla",
+      "Chewing Cardamom/Clove"
+    ],
+    "siddha": [
+      "Eladi Vadagam",
+      "Thiripala Choornam (for digestion)"
+    ],
+    "naturopathy": [
+      "Fasting to clear gut toxins",
+      "Lemon water drinking"
+    ],
+    "homeopathy": [
+      "Merc Sol 30C",
+      "Pulsatilla 30C"
+    ]
+  },
+  {
+    "symptom": "Muscle Cramps",
+    "herbs": [
+      "Ashwagandha",
+      "Shatavari"
+    ],
+    "yoga": [
+      "Janu Sirsasana",
+      "Supta Padangusthasana"
+    ],
+    "diet": [
+      "Ensure adequate salt and potassium intake",
+      "Stay hydrated"
+    ],
+    "unani": [
+      "Majoon Suranjan",
+      "Roghan Babuna (Massage)"
+    ],
+    "siddha": [
+      "Amukkara Choornam",
+      "Vathakesari Thailam"
+    ],
+    "naturopathy": [
+      "Hot fomentation",
+      "Epsom salt bath"
+    ],
+    "homeopathy": [
+      "Cuprum Metallicum 30C",
+      "Magnesia Phosphorica 6X"
+    ]
+  },
+  {
+    "symptom": "Neck Pain",
+    "herbs": [
+      "Bala",
+      "Nirgundi (Oil massage)"
+    ],
+    "yoga": [
+      "Gomukhasana",
+      "Brahma Mudra (Neck rotations)"
+    ],
+    "diet": [
+      "Avoid cold exposure",
+      "Eat anti-inflammatory foods"
+    ],
+    "unani": [
+      "Roghan Surkh",
+      "Majoon Chobchini"
+    ],
+    "siddha": [
+      "Ulundhu Thailam",
+      "Kandaungai Thailam"
+    ],
+    "naturopathy": [
+      "Hot and cold compress to the neck",
+      "Spinal bath"
+    ],
+    "homeopathy": [
+      "Lachnanthes Tinctoria 30C",
+      "Cimicifuga Racemosa 30C"
+    ]
+  },
+  {
+    "symptom": "Memory Loss",
+    "herbs": [
+      "Brahmi",
+      "Shankhpushpi",
+      "Mandukaparni"
+    ],
+    "yoga": [
+      "Padmasana",
+      "Trataka (Gazing meditation)"
+    ],
+    "diet": [
+      "Include walnuts and almonds",
+      "Use ghee in cooking"
+    ],
+    "unani": [
+      "Majoon Nisyan",
+      "Itrifal Kishneezi"
+    ],
+    "siddha": [
+      "Vallarai Choornam",
+      "Santhana Thailam (Head bath)"
+    ],
+    "naturopathy": [
+      "Cold head bath",
+      "Stress management counseling"
+    ],
+    "homeopathy": [
+      "Baryta Carbonica 30C",
+      "Anacardium Orientale 30C"
+    ]
+  },
+  {
+    "symptom": "Headache (Tension)",
+    "herbs": [
+      "Brahmi",
+      "Mint",
+      "Sandalwood (Topical)"
+    ],
+    "yoga": [
+      "Balasana",
+      "Paschimottanasana"
+    ],
+    "diet": [
+      "Stay hydrated",
+      "Avoid skipping meals"
+    ],
+    "unani": [
+      "Roghan Chameli",
+      "Khamira Gaozaban"
+    ],
+    "siddha": [
+      "Neerkovai Mathirai (External paste)",
+      "Amukkara Choornam"
+    ],
+    "naturopathy": [
+      "Cold compress to the forehead",
+      "Hot foot bath"
+    ],
+    "homeopathy": [
+      "Belladonna 30C",
+      "Natrum Muriaticum 30C"
+    ]
+  },
+  {
+    "symptom": "Numbness and Tingling (Neuropathy)",
+    "herbs": [
+      "Bala",
+      "Ashwagandha",
+      "Kapikacchu"
+    ],
+    "yoga": [
+      "Tadasana",
+      "Anulom Vilom Pranayama"
+    ],
+    "diet": [
+      "Include Vitamin B12 rich foods",
+      "Ensure adequate healthy fats"
+    ],
+    "unani": [
+      "Majoon Azaraqi",
+      "Roghan Malkangni"
+    ],
+    "siddha": [
+      "Siddha Makara Dhwajam",
+      "Amukkara Kizhangu Leghyam"
+    ],
+    "naturopathy": [
+      "Alternate hot and cold compress to extremities",
+      "Sun bath"
+    ],
+    "homeopathy": [
+      "Hypericum Perforatum 30C",
+      "Aconitum Napellus 30C"
+    ]
+  },
+  {
+    "symptom": "Motion Sickness",
+    "herbs": [
+      "Ginger",
+      "Mint",
+      "Cardamom"
+    ],
+    "yoga": [
+      "Deep Belly Breathing",
+      "Shavasana (Before travel)"
+    ],
+    "diet": [
+      "Chew a small piece of ginger",
+      "Avoid heavy meals before travel"
+    ],
+    "unani": [
+      "Arq Pudina",
+      "Chewing Cardamom"
+    ],
+    "siddha": [
+      "Inji (Ginger) Rasam",
+      "Eladi Vadagam"
+    ],
+    "naturopathy": [
+      "Sipping cold lemon water",
+      "Cold compress to the back of the neck"
+    ],
+    "homeopathy": [
+      "Cocculus Indicus 30C",
+      "Tabacum 30C"
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Jawarish Kamuni",
+    "form": "Paste / Jawarish (Digestive Electuary)",
+    "primary_uses": [
+      "Acidity",
+      "Bloating",
+      "High Triglycerides"
+    ],
+    "key_ingredients": [
+      "Zeera (Cumin)",
+      "Pepper",
+      "Ginger"
+    ],
+    "administration": "Oral, usually taken after meals with warm water"
+  },
+  {
+    "name": "Arq Badiyan",
+    "form": "Distillate (Arq)",
+    "primary_uses": [
+      "Acidity",
+      "Bloating",
+      "Indigestion"
+    ],
+    "key_ingredients": [
+      "Badiyan (Fennel)"
+    ],
+    "administration": "Oral, taken alone or mixed with water"
+  },
+  {
+    "name": "Itrifal Mulayyan",
+    "form": "Electuary (Itrifal)",
+    "primary_uses": [
+      "Constipation",
+      "Headache"
+    ],
+    "key_ingredients": [
+      "Halela (Chebulic Myrobalan)",
+      "Sana (Senna)"
+    ],
+    "administration": "Oral, taken at bedtime with warm water or milk"
+  },
+  {
+    "name": "Roghan Badam Shireen",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Constipation",
+      "Dry Skin",
+      "Earache",
+      "Blurred Vision"
+    ],
+    "key_ingredients": [
+      "Sweet Almonds"
+    ],
+    "administration": "Internal (mixed with warm milk) or Topical (massage/ear drops)"
+  },
+  {
+    "name": "Majoon Nankhwah",
+    "form": "Paste (Majoon)",
+    "primary_uses": [
+      "Indigestion",
+      "Loss of Appetite",
+      "Sluggish Metabolism"
+    ],
+    "key_ingredients": [
+      "Nankhwah (Ajwain/Carom seeds)"
+    ],
+    "administration": "Oral, taken after meals"
+  },
+  {
+    "name": "Arq Pudina",
+    "form": "Distillate (Arq)",
+    "primary_uses": [
+      "Indigestion",
+      "Nausea",
+      "Motion Sickness"
+    ],
+    "key_ingredients": [
+      "Pudina (Mint)"
+    ],
+    "administration": "Oral, taken as a quick-acting liquid digestive"
+  },
+  {
+    "name": "Joshanda",
+    "form": "Herbal Decoction",
+    "primary_uses": [
+      "Common Cold",
+      "Bronchitis",
+      "Viral Fever"
+    ],
+    "key_ingredients": [
+      "Mulethi (Licorice)",
+      "Unnab (Jujube)",
+      "Tulsi"
+    ],
+    "administration": "Oral, boiled in water and sipped warm like tea"
+  },
+  {
+    "name": "Laooq Sapistan",
+    "form": "Linctus (Laooq)",
+    "primary_uses": [
+      "Common Cold",
+      "Wet Cough",
+      "Tonsillitis"
+    ],
+    "key_ingredients": [
+      "Sapistan (Lasoda/Assyrian Plum)"
+    ],
+    "administration": "Oral, slowly licked and swallowed to soothe the throat"
+  },
+  {
+    "name": "Laooq Badam",
+    "form": "Linctus (Laooq)",
+    "primary_uses": [
+      "Dry Cough"
+    ],
+    "key_ingredients": [
+      "Badam (Almond paste)"
+    ],
+    "administration": "Oral, licked slowly"
+  },
+  {
+    "name": "Sharbat Toot Siyah",
+    "form": "Syrup (Sharbat)",
+    "primary_uses": [
+      "Dry Cough",
+      "Sore Throat"
+    ],
+    "key_ingredients": [
+      "Toot Siyah (Black Mulberry)"
+    ],
+    "administration": "Oral, taken directly or mixed with warm water"
+  },
+  {
+    "name": "Sharbat Zoofa Murakkab",
+    "form": "Syrup (Sharbat)",
+    "primary_uses": [
+      "Asthma",
+      "Breathlessness"
+    ],
+    "key_ingredients": [
+      "Zoofa (Hyssop)"
+    ],
+    "administration": "Oral, acts as an expectorant and bronchodilator"
+  },
+  {
+    "name": "Habbe Hindi Asthmatic",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Asthma",
+      "Breathlessness"
+    ],
+    "key_ingredients": [
+      "Various Unani bronchodilator herbs"
+    ],
+    "administration": "Oral, swallowed with water"
+  },
+  {
+    "name": "Habbe Asgand",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Joint Pain",
+      "Hypothyroidism",
+      "Gout"
+    ],
+    "key_ingredients": [
+      "Asgand (Ashwagandha)"
+    ],
+    "administration": "Oral, swallowed with water or milk"
+  },
+  {
+    "name": "Roghan Surkh",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Joint Pain",
+      "Frozen Shoulder",
+      "Cold Extremities",
+      "Neck Pain"
+    ],
+    "key_ingredients": [
+      "Rai (Mustard)",
+      "Qaranful (Clove)",
+      "Darchini (Cinnamon)"
+    ],
+    "administration": "Topical, vigorously massaged into the affected area"
+  },
+  {
+    "name": "Majoon Suranjan",
+    "form": "Paste (Majoon)",
+    "primary_uses": [
+      "Backache",
+      "Sciatica",
+      "Muscle Cramps",
+      "Hypothyroidism"
+    ],
+    "key_ingredients": [
+      "Suranjan (Colchicum/Autumn Crocus)"
+    ],
+    "administration": "Oral, taken with water (Note: Acts strongly on joints)"
+  },
+  {
+    "name": "Roghan Malkangni",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Backache",
+      "Tremors",
+      "Poor Circulation",
+      "Neuropathy"
+    ],
+    "key_ingredients": [
+      "Malkangni (Celastrus/Intellect Tree)"
+    ],
+    "administration": "Topical, used for deep nerve and muscle massage"
+  },
+  {
+    "name": "Khamira Gaozaban Ambari",
+    "form": "Electuary (Khamira)",
+    "primary_uses": [
+      "Stress",
+      "Anxiety",
+      "Palpitations",
+      "Post-Fever Weakness"
+    ],
+    "key_ingredients": [
+      "Gaozaban (Borage)",
+      "Amber"
+    ],
+    "administration": "Oral, taken in small doses (often morning on an empty stomach)"
+  },
+  {
+    "name": "Arq Gulab",
+    "form": "Distillate (Arq)",
+    "primary_uses": [
+      "Stress",
+      "Dry Eyes",
+      "Eye Strain",
+      "Mouth Ulcers"
+    ],
+    "key_ingredients": [
+      "Gulab (Rose Petals)"
+    ],
+    "administration": "Internal (drank for cooling/stress) or Topical (eye drops/gargle)"
+  },
+  {
+    "name": "Dawa-ul-Misk Moatadil",
+    "form": "Paste / Electuary",
+    "primary_uses": [
+      "Insomnia",
+      "Low Energy",
+      "General Weakness"
+    ],
+    "key_ingredients": [
+      "Misk (Musk)",
+      "Zafran (Saffron)"
+    ],
+    "administration": "Oral, used as a potent cardiac and brain tonic"
+  },
+  {
+    "name": "Itrifal Ustukhuddus",
+    "form": "Electuary (Itrifal)",
+    "primary_uses": [
+      "Migraine",
+      "Sinusitis",
+      "Vertigo",
+      "Cataract Support"
+    ],
+    "key_ingredients": [
+      "Ustukhuddus (Lavender)",
+      "Triphala"
+    ],
+    "administration": "Oral, often known as the 'Broom of the Brain' for clearing toxins"
+  },
+  {
+    "name": "Roghan Chameli",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Migraine",
+      "Tension Headache",
+      "Loss of Smell"
+    ],
+    "key_ingredients": [
+      "Chameli (Jasmine)"
+    ],
+    "administration": "Topical, massaged on the forehead or used as nasal drops"
+  },
+  {
+    "name": "Safi",
+    "form": "Syrup",
+    "primary_uses": [
+      "Acne",
+      "Eczema",
+      "Hives (Urticaria)"
+    ],
+    "key_ingredients": [
+      "Neem",
+      "Sana (Senna)",
+      "Chirayata"
+    ],
+    "administration": "Oral, taken with a full glass of water to purify the blood"
+  },
+  {
+    "name": "Marham Kafoori",
+    "form": "Ointment (Marham)",
+    "primary_uses": [
+      "Acne",
+      "Eczema",
+      "Dry Skin"
+    ],
+    "key_ingredients": [
+      "Kafoor (Camphor)"
+    ],
+    "administration": "Topical application"
+  },
+  {
+    "name": "Roghan Baiza Murgh",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Hair Fall",
+      "Premature Graying"
+    ],
+    "key_ingredients": [
+      "Baiza Murgh (Egg Yolk extract)"
+    ],
+    "administration": "Topical, applied to the scalp"
+  },
+  {
+    "name": "Safoof Muhazzil",
+    "form": "Powder (Safoof)",
+    "primary_uses": [
+      "Obesity",
+      "High Cholesterol",
+      "High Triglycerides"
+    ],
+    "key_ingredients": [
+      "Lak (Lac)",
+      "Zeera (Cumin)",
+      "Ajwain"
+    ],
+    "administration": "Oral, taken with Arq Zeera or warm water"
+  },
+  {
+    "name": "Arq Zeera",
+    "form": "Distillate (Arq)",
+    "primary_uses": [
+      "Obesity",
+      "High Cholesterol"
+    ],
+    "key_ingredients": [
+      "Zeera (Cumin)"
+    ],
+    "administration": "Oral, aids in fat metabolism"
+  },
+  {
+    "name": "Qurs Ziabetus",
+    "form": "Tablet (Qurs)",
+    "primary_uses": [
+      "Type 2 Diabetes Support",
+      "Sugar Cravings"
+    ],
+    "key_ingredients": [
+      "Gurmar (Gymnema)",
+      "Jamun seeds"
+    ],
+    "administration": "Oral, swallowed before meals"
+  },
+  {
+    "name": "Arq Kasni",
+    "form": "Distillate (Arq)",
+    "primary_uses": [
+      "Diabetes Support",
+      "Burning Micturition"
+    ],
+    "key_ingredients": [
+      "Kasni (Chicory)"
+    ],
+    "administration": "Oral, excellent for liver and kidney cooling"
+  },
+  {
+    "name": "Dawa-ush-Shifa",
+    "form": "Tablet / Paste",
+    "primary_uses": [
+      "High Blood Pressure"
+    ],
+    "key_ingredients": [
+      "Asrol (Sarpagandha/Indian Snakeroot)"
+    ],
+    "administration": "Oral, strictly under physician supervision"
+  },
+  {
+    "name": "Habbe Mudir",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Menstrual Cramps",
+      "Irregular Periods"
+    ],
+    "key_ingredients": [
+      "Sibr (Aloe)",
+      "Zafran (Saffron)"
+    ],
+    "administration": "Oral, promotes menstrual flow (Emmenagogue)"
+  },
+  {
+    "name": "Sharbat Bazoori Motadil",
+    "form": "Syrup (Sharbat)",
+    "primary_uses": [
+      "Urinary Tract Infection (UTI)",
+      "Edema",
+      "Kidney Stones",
+      "BPH"
+    ],
+    "key_ingredients": [
+      "Kasni (Chicory)",
+      "Tukhm Kheera (Cucumber seeds)"
+    ],
+    "administration": "Oral, mixed with water as a cooling diuretic"
+  },
+  {
+    "name": "Qurs Kushta Hajrul Yahood",
+    "form": "Tablet containing Calx (Kushta)",
+    "primary_uses": [
+      "Kidney Stones",
+      "Urinary Tract Infection (UTI)",
+      "BPH"
+    ],
+    "key_ingredients": [
+      "Hajrul Yahood (Fossil Encrinite/Lapis Judaicus)"
+    ],
+    "administration": "Oral, acts as a potent lithotriptic (stone breaker)"
+  },
+  {
+    "name": "Kushta Faulad",
+    "form": "Calx (Kushta)",
+    "primary_uses": [
+      "Fatigue",
+      "Low Energy",
+      "Chronic Fatigue Syndrome"
+    ],
+    "key_ingredients": [
+      "Faulad (Purified Iron)"
+    ],
+    "administration": "Oral, taken in micro-doses mixed with honey or Majoon"
+  },
+  {
+    "name": "Majoon Arad Khurma",
+    "form": "Paste (Majoon)",
+    "primary_uses": [
+      "Fatigue",
+      "Underweight",
+      "Low Libido"
+    ],
+    "key_ingredients": [
+      "Khurma (Dates)",
+      "Badam (Almonds)"
+    ],
+    "administration": "Oral, taken with warm milk for physical strengthening"
+  },
+  {
+    "name": "Sharbat Faulad",
+    "form": "Syrup (Sharbat)",
+    "primary_uses": [
+      "Anemia",
+      "Post-Fever Weakness"
+    ],
+    "key_ingredients": [
+      "Faulad (Iron) extract"
+    ],
+    "administration": "Oral, haematinic syrup"
+  },
+  {
+    "name": "Majoon Supari Pak",
+    "form": "Paste (Majoon)",
+    "primary_uses": [
+      "PCOS",
+      "Irregular Periods",
+      "Leucorrhea"
+    ],
+    "key_ingredients": [
+      "Supari (Betel Nut)",
+      "Various astringent herbs"
+    ],
+    "administration": "Oral, taken with milk; acts as a uterine tonic"
+  },
+  {
+    "name": "Roghan Qaranful",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Toothache",
+      "Earache"
+    ],
+    "key_ingredients": [
+      "Qaranful (Clove)"
+    ],
+    "administration": "Topical, applied with a cotton swab to the tooth or ear"
+  },
+  {
+    "name": "Sunun Zard",
+    "form": "Tooth Powder (Sunun)",
+    "primary_uses": [
+      "Toothache",
+      "Bleeding Gums"
+    ],
+    "key_ingredients": [
+      "Phitkari (Alum)",
+      "Filfil Siyah (Black Pepper)"
+    ],
+    "administration": "Topical, rubbed onto the gums and teeth"
+  },
+  {
+    "name": "Habbe Bawasir",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Hemorrhoids (Piles)"
+    ],
+    "key_ingredients": [
+      "Maghz Nimboli (Neem seeds)",
+      "Rasaut (Berberis extract)"
+    ],
+    "administration": "Oral, swallowed with water"
+  },
+  {
+    "name": "Roghan Zarareeh",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Dandruff",
+      "Alopecia (Hair loss)"
+    ],
+    "key_ingredients": [
+      "Zarareeh (Cantharidin/Blister Beetle extract)"
+    ],
+    "administration": "Topical, stimulates the scalp; strictly external use"
+  },
+  {
+    "name": "Habbe Bukhar",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Mild Fever",
+      "Viral Fever"
+    ],
+    "key_ingredients": [
+      "Cinchona bark extract"
+    ],
+    "administration": "Oral, swallowed with water to break fevers"
+  },
+  {
+    "name": "Habbe Pechish",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Diarrhea",
+      "Dysentery"
+    ],
+    "key_ingredients": [
+      "Kutaja (Holarrhena antidysenterica)"
+    ],
+    "administration": "Oral, taken with water or buttermilk"
+  },
+  {
+    "name": "Jawarish Bisbasa",
+    "form": "Paste (Jawarish)",
+    "primary_uses": [
+      "Loss of Appetite",
+      "Sluggish Metabolism",
+      "Loss of Taste"
+    ],
+    "key_ingredients": [
+      "Bisbasa (Mace/Nutmeg aril)"
+    ],
+    "administration": "Oral, taken after meals to stimulate digestion"
+  },
+  {
+    "name": "Habbe Kabid Naushadari",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Irritable Bowel Syndrome (IBS)",
+      "Indigestion"
+    ],
+    "key_ingredients": [
+      "Naushadar (Sal Ammoniac)",
+      "Black Salt"
+    ],
+    "administration": "Oral, excellent hepatoprotective and digestive pill"
+  },
+  {
+    "name": "Majoon Dabeedul Ward",
+    "form": "Paste (Majoon)",
+    "primary_uses": [
+      "Fatty Liver",
+      "Liver and Spleen enlargement"
+    ],
+    "key_ingredients": [
+      "Gul Surkh (Rose petals)",
+      "Mastic gum"
+    ],
+    "administration": "Oral, premium liver tonic"
+  },
+  {
+    "name": "Tiryaq Nazla",
+    "form": "Paste (Tiryaq)",
+    "primary_uses": [
+      "Allergic Rhinitis",
+      "Chronic Catarrh"
+    ],
+    "key_ingredients": [
+      "Traditional antihistamine Unani herbs"
+    ],
+    "administration": "Oral, taken at bedtime to prevent morning sneezing"
+  },
+  {
+    "name": "Khamira Abresham",
+    "form": "Electuary (Khamira)",
+    "primary_uses": [
+      "Mild Depression",
+      "Eye Strain",
+      "Palpitations"
+    ],
+    "key_ingredients": [
+      "Abresham (Silk Cocoon)"
+    ],
+    "administration": "Oral, highly regarded as a brain and heart tonic"
+  },
+  {
+    "name": "Habbe Azaraqi",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Tremors",
+      "Paralysis",
+      "Nerve Pain",
+      "Cold Extremities"
+    ],
+    "key_ingredients": [
+      "Azaraqi (Purified Nux Vomica)"
+    ],
+    "administration": "Oral, potent nerve stimulant; requires strict medical supervision"
+  },
+  {
+    "name": "Habbe Irq-un-Nisa",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Sciatica"
+    ],
+    "key_ingredients": [
+      "Suranjan (Colchicum)",
+      "Hanzal (Colocynth)"
+    ],
+    "administration": "Oral, targets sciatic nerve pain and inflammation"
+  },
+  {
+    "name": "Majoon Chobchini",
+    "form": "Paste (Majoon)",
+    "primary_uses": [
+      "Rheumatoid Arthritis",
+      "Knee Pain",
+      "Neck Pain"
+    ],
+    "key_ingredients": [
+      "Chobchini (China Root)"
+    ],
+    "administration": "Oral, blood purifier and joint anti-inflammatory"
+  },
+  {
+    "name": "Roghan Babuna",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Knee Pain",
+      "Varicose Veins",
+      "Muscle Cramps"
+    ],
+    "key_ingredients": [
+      "Babuna (Chamomile)"
+    ],
+    "administration": "Topical, gently massaged into the affected area"
+  },
+  {
+    "name": "Marham Khushk",
+    "form": "Ointment (Marham)",
+    "primary_uses": [
+      "Psoriasis",
+      "Dry Skin lesions"
+    ],
+    "key_ingredients": [
+      "Jast Bhasma (Zinc oxide)"
+    ],
+    "administration": "Topical, applied to dry, scaling skin"
+  },
+  {
+    "name": "Sharbat Unnab",
+    "form": "Syrup (Sharbat)",
+    "primary_uses": [
+      "Pigmentation",
+      "Hives (Urticaria)",
+      "Blood Purification"
+    ],
+    "key_ingredients": [
+      "Unnab (Jujube)"
+    ],
+    "administration": "Oral, mixed with water"
+  },
+  {
+    "name": "Roghan Neem",
+    "form": "Oil (Roghan)",
+    "primary_uses": [
+      "Ringworm",
+      "Skin Infections"
+    ],
+    "key_ingredients": [
+      "Neem seeds"
+    ],
+    "administration": "Topical, applied directly to fungal infections"
+  },
+  {
+    "name": "Itrifal Shahtara",
+    "form": "Electuary (Itrifal)",
+    "primary_uses": [
+      "Lymphatic Congestion",
+      "Psoriasis",
+      "Skin Diseases"
+    ],
+    "key_ingredients": [
+      "Shahtara (Fumitory)",
+      "Triphala"
+    ],
+    "administration": "Oral, blood purifier for chronic skin issues"
+  },
+  {
+    "name": "Habbe Ral",
+    "form": "Pill (Habbe)",
+    "primary_uses": [
+      "Heavy Menstrual Bleeding"
+    ],
+    "key_ingredients": [
+      "Ral (Resin of Shorea robusta)"
+    ],
+    "administration": "Oral, acts as a strong hemostatic (stops bleeding)"
+  },
+  {
+    "name": "Sharbat Anjabar",
+    "form": "Syrup (Sharbat)",
+    "primary_uses": [
+      "Heavy Menstrual Bleeding",
+      "Diarrhea with blood"
+    ],
+    "key_ingredients": [
+      "Anjabar (Knotweed root)"
+    ],
+    "administration": "Oral, highly astringent and cooling"
+  },
+  {
+    "name": "Labub Kabir",
+    "form": "Paste (Majoon/Labub)",
+    "primary_uses": [
+      "Low Libido",
+      "General Weakness"
+    ],
+    "key_ingredients": [
+      "Mixed Nuts",
+      "Zafran (Saffron)",
+      "Amber"
+    ],
+    "administration": "Oral, eaten with warm milk as an aphrodisiac and tonic"
+  },
+  {
+    "name": "Qurs Kushta Qalai",
+    "form": "Tablet containing Calx (Kushta)",
+    "primary_uses": [
+      "Oral Thrush",
+      "Mouth Ulcers",
+      "Male Reproductive Health"
+    ],
+    "key_ingredients": [
+      "Qalai (Purified Tin)"
+    ],
+    "administration": "Oral, taken in micro-doses with butter or milk"
+  },
+  {
+    "name": "Majoon Nisyan",
+    "form": "Paste (Majoon)",
+    "primary_uses": [
+      "Memory Loss",
+      "Brain Fog"
+    ],
+    "key_ingredients": [
+      "Kundur (Frankincense)",
+      "Vacha (Sweet Flag)"
+    ],
+    "administration": "Oral, eaten to stimulate cognitive function"
+  }
+]

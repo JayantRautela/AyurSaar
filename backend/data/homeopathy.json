@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Nux Vomica 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Acidity",
+      "Nausea",
+      "Indigestion"
+    ],
+    "key_ingredients": [
+      "Poison Nut (Highly diluted)"
+    ],
+    "administration": "Oral, 4-5 sugar pills or liquid drops on the tongue"
+  },
+  {
+    "name": "Bryonia Alba 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Constipation",
+      "Joint Pain",
+      "Bronchitis",
+      "Knee Pain"
+    ],
+    "key_ingredients": [
+      "White Bryony / Wild Hops"
+    ],
+    "administration": "Oral, indicated when symptoms worsen with movement"
+  },
+  {
+    "name": "Pulsatilla 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Indigestion",
+      "PCOS",
+      "Irregular Periods",
+      "Earache",
+      "Loss of Taste",
+      "Halitosis"
+    ],
+    "key_ingredients": [
+      "Wind Flower / Pasque Flower"
+    ],
+    "administration": "Oral, suited for individuals seeking fresh air and cool foods"
+  },
+  {
+    "name": "Lycopodium Clavatum 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Indigestion",
+      "Bloating",
+      "Kidney Stones",
+      "Premature Graying"
+    ],
+    "key_ingredients": [
+      "Club Moss Spores"
+    ],
+    "administration": "Oral, primarily acts on the right side of the body and digestive tract"
+  },
+  {
+    "name": "Aconitum Napellus 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Common Cold",
+      "Anxiety",
+      "Palpitations",
+      "Neuropathy"
+    ],
+    "key_ingredients": [
+      "Monkshood (Highly diluted)"
+    ],
+    "administration": "Oral, best used at the sudden, very first onset of symptoms"
+  },
+  {
+    "name": "Allium Cepa 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Common Cold"
+    ],
+    "key_ingredients": [
+      "Red Onion extract"
+    ],
+    "administration": "Oral, targets watery eyes and clear nasal discharge"
+  },
+  {
+    "name": "Arsenicum Album 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Asthma",
+      "Psoriasis",
+      "Weak Immunity"
+    ],
+    "key_ingredients": [
+      "Arsenic Trioxide (Highly diluted)"
+    ],
+    "administration": "Oral, indicated for burning pain and restlessness"
+  },
+  {
+    "name": "Rhus Toxicodendron 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Joint Pain",
+      "Rheumatoid Arthritis",
+      "Viral Fever"
+    ],
+    "key_ingredients": [
+      "Poison Ivy (Highly diluted)"
+    ],
+    "administration": "Oral, excellent for joint stiffness that improves with motion"
+  },
+  {
+    "name": "Aesculus Hippocastanum 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Backache",
+      "Hemorrhoids (Piles)"
+    ],
+    "key_ingredients": [
+      "Horse Chestnut"
+    ],
+    "administration": "Oral, specific for lower back pain associated with piles"
+  },
+  {
+    "name": "Calcarea Fluorica 6X",
+    "form": "Biochemic Salt (Tablet)",
+    "primary_uses": [
+      "Backache",
+      "Knee Pain",
+      "Varicose Veins",
+      "Cataract Support",
+      "Lymphatic Congestion"
+    ],
+    "key_ingredients": [
+      "Calcium Fluoride"
+    ],
+    "administration": "Oral, 4 tablets dissolved under the tongue for tissue elasticity"
+  },
+  {
+    "name": "Kali Phosphoricum 6X",
+    "form": "Biochemic Salt (Tablet)",
+    "primary_uses": [
+      "Stress",
+      "Chronic Fatigue Syndrome"
+    ],
+    "key_ingredients": [
+      "Potassium Phosphate"
+    ],
+    "administration": "Oral, acts as an excellent nerve tonic for mental fatigue"
+  },
+  {
+    "name": "Ignatia Amara 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Stress",
+      "Mild Depression"
+    ],
+    "key_ingredients": [
+      "St. Ignatius Bean"
+    ],
+    "administration": "Oral, indicated for acute grief or emotional stress"
+  },
+  {
+    "name": "Coffea Cruda 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Insomnia"
+    ],
+    "key_ingredients": [
+      "Unroasted Coffee Bean (Highly diluted)"
+    ],
+    "administration": "Oral, used when the mind is overactive with racing thoughts"
+  },
+  {
+    "name": "Belladonna 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Migraine",
+      "Sore Throat",
+      "Mild Fever",
+      "Tension Headache"
+    ],
+    "key_ingredients": [
+      "Deadly Nightshade (Highly diluted)"
+    ],
+    "administration": "Oral, indicated for sudden, throbbing pain and redness"
+  },
+  {
+    "name": "Berberis Aquifolium Q",
+    "form": "Mother Tincture (Liquid)",
+    "primary_uses": [
+      "Acne"
+    ],
+    "key_ingredients": [
+      "Oregon Grape"
+    ],
+    "administration": "Topical, 10-15 drops mixed with rose water applied to the face"
+  },
+  {
+    "name": "Sulphur 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Acne",
+      "IBS",
+      "Eczema",
+      "Loss of Taste"
+    ],
+    "key_ingredients": [
+      "Sublimated Sulphur"
+    ],
+    "administration": "Oral, deep-acting remedy for skin and chronic conditions"
+  },
+  {
+    "name": "Phosphorus 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Hair Fall",
+      "Bleeding Gums"
+    ],
+    "key_ingredients": [
+      "Phosphorus (Highly diluted)"
+    ],
+    "administration": "Oral, indicated for hair loss in handfuls and easily bleeding tissues"
+  },
+  {
+    "name": "Phytolacca Berry Q",
+    "form": "Mother Tincture / Tablet",
+    "primary_uses": [
+      "Obesity"
+    ],
+    "key_ingredients": [
+      "Poke Root Berry"
+    ],
+    "administration": "Oral, taken before meals to stimulate fat metabolism"
+  },
+  {
+    "name": "Syzygium Jambolanum Q",
+    "form": "Mother Tincture",
+    "primary_uses": [
+      "Type 2 Diabetes Support"
+    ],
+    "key_ingredients": [
+      "Jambul / Indian Blackberry seeds"
+    ],
+    "administration": "Oral, 15-20 drops in water to help regulate blood sugar"
+  },
+  {
+    "name": "Rauwolfia Serpentina Q",
+    "form": "Mother Tincture",
+    "primary_uses": [
+      "High Blood Pressure"
+    ],
+    "key_ingredients": [
+      "Indian Snakeroot"
+    ],
+    "administration": "Oral, liquid drops; requires monitoring by a physician"
+  },
+  {
+    "name": "Magnesia Phosphorica 6X",
+    "form": "Biochemic Salt (Tablet)",
+    "primary_uses": [
+      "Menstrual Cramps",
+      "Muscle Cramps"
+    ],
+    "key_ingredients": [
+      "Magnesium Phosphate"
+    ],
+    "administration": "Oral, dissolved in warm water; acts as a natural antispasmodic"
+  },
+  {
+    "name": "Colocynthis 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Menstrual Cramps",
+      "Sciatica"
+    ],
+    "key_ingredients": [
+      "Bitter Apple / Bitter Cucumber"
+    ],
+    "administration": "Oral, specific for severe, cramping pain relieved by hard pressure"
+  },
+  {
+    "name": "Cantharis 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Urinary Tract Infection (UTI)",
+      "Burning Micturition"
+    ],
+    "key_ingredients": [
+      "Spanish Fly (Highly diluted)"
+    ],
+    "administration": "Oral, indicated for intense burning before, during, or after urination"
+  },
+  {
+    "name": "Acidum Phosphoricum 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Fatigue",
+      "Low Energy",
+      "Premature Graying",
+      "Post-Fever Weakness",
+      "Brain Fog"
+    ],
+    "key_ingredients": [
+      "Phosphoric Acid (Diluted)"
+    ],
+    "administration": "Oral, excellent for debilitating fatigue and mental exhaustion"
+  },
+  {
+    "name": "Ferrum Metallicum 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Anemia",
+      "Frozen Shoulder"
+    ],
+    "key_ingredients": [
+      "Iron (Highly potentized)"
+    ],
+    "administration": "Oral, aids in iron absorption and helps right-sided shoulder pain"
+  },
+  {
+    "name": "Apis Mellifica 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "PCOS",
+      "Hives (Urticaria)",
+      "Edema"
+    ],
+    "key_ingredients": [
+      "Honey Bee extract (Highly diluted)"
+    ],
+    "administration": "Oral, targets stinging pain, swelling, and fluid retention"
+  },
+  {
+    "name": "Plantago Major Q",
+    "form": "Mother Tincture",
+    "primary_uses": [
+      "Toothache"
+    ],
+    "key_ingredients": [
+      "Plantain"
+    ],
+    "administration": "Topical, applied directly to the aching tooth with a cotton swab"
+  },
+  {
+    "name": "Aloe Socotrina 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Hemorrhoids (Piles)",
+      "Diarrhea"
+    ],
+    "key_ingredients": [
+      "Socotrine Aloe"
+    ],
+    "administration": "Oral, indicated for a sense of insecurity in the rectum"
+  },
+  {
+    "name": "Carbo Vegetabilis 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Bloating",
+      "Breathlessness",
+      "Low Blood Pressure",
+      "Cold Extremities"
+    ],
+    "key_ingredients": [
+      "Vegetable Charcoal"
+    ],
+    "administration": "Oral, known as a 'corpse reviver' in homeopathy for extreme sluggishness and gas"
+  },
+  {
+    "name": "China Officinalis 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Loss of Appetite",
+      "Low Energy",
+      "Post-Fever Weakness"
+    ],
+    "key_ingredients": [
+      "Peruvian Bark / Cinchona"
+    ],
+    "administration": "Oral, targets exhaustion resulting from loss of vital fluids or fever"
+  },
+  {
+    "name": "Chelidonium Majus Q",
+    "form": "Mother Tincture",
+    "primary_uses": [
+      "Fatty Liver"
+    ],
+    "key_ingredients": [
+      "Greater Celandine"
+    ],
+    "administration": "Oral, primarily acts as a liver tonic (especially right-sided liver pain)"
+  },
+  {
+    "name": "Antimonium Tartaricum 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Wet Cough",
+      "Bronchitis"
+    ],
+    "key_ingredients": [
+      "Tartar Emetic (Highly diluted)"
+    ],
+    "administration": "Oral, indicated when there is heavy rattling of mucus in the chest"
+  },
+  {
+    "name": "Silicea 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Sinusitis",
+      "Cold Extremities"
+    ],
+    "key_ingredients": [
+      "Pure Silica"
+    ],
+    "administration": "Oral, constitutional remedy for poor assimilation and chronic infections"
+  },
+  {
+    "name": "Gelsemium Sempervirens 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Tremors",
+      "Low Blood Pressure",
+      "Blurred Vision",
+      "Chronic Fatigue"
+    ],
+    "key_ingredients": [
+      "Yellow Jasmine"
+    ],
+    "administration": "Oral, targets dullness, dizziness, drowsiness, and trembling"
+  },
+  {
+    "name": "Graphites 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Eczema",
+      "Sluggish Metabolism"
+    ],
+    "key_ingredients": [
+      "Plumbago / Black Lead"
+    ],
+    "administration": "Oral, excellent for skin eruptions that ooze a sticky, honey-like fluid"
+  },
+  {
+    "name": "Sepia 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Pigmentation",
+      "Irregular Periods",
+      "Menopausal Hot Flashes",
+      "Ringworm"
+    ],
+    "key_ingredients": [
+      "Cuttlefish Ink"
+    ],
+    "administration": "Oral, a primary female hormone regulator and skin remedy"
+  },
+  {
+    "name": "Thuja Occidentalis 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Dandruff",
+      "Pigmentation"
+    ],
+    "key_ingredients": [
+      "Arbor Vitae / Tree of Life"
+    ],
+    "administration": "Oral, targets skin growths, white scaly dandruff, and fungal conditions"
+  },
+  {
+    "name": "Alfalfa Q",
+    "form": "Mother Tincture / Tonic",
+    "primary_uses": [
+      "Loss of Appetite",
+      "General Weakness",
+      "Underweight"
+    ],
+    "key_ingredients": [
+      "Alfalfa / Lucerne"
+    ],
+    "administration": "Oral, taken mixed with water or as a commercial tonic syrup for weight gain"
+  },
+  {
+    "name": "Sabal Serrulata Q",
+    "form": "Mother Tincture",
+    "primary_uses": [
+      "Prostate Enlargement (BPH)"
+    ],
+    "key_ingredients": [
+      "Saw Palmetto"
+    ],
+    "administration": "Oral, 10-15 drops in water to reduce prostate gland hypertrophy"
+  },
+  {
+    "name": "Echinacea Angustifolia Q",
+    "form": "Mother Tincture",
+    "primary_uses": [
+      "Weak Immunity"
+    ],
+    "key_ingredients": [
+      "Purple Coneflower"
+    ],
+    "administration": "Oral, acts as a homeopathic antibiotic and immune booster"
+  },
+  {
+    "name": "Borax 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Leucorrhea",
+      "Oral Thrush",
+      "Mouth Ulcers"
+    ],
+    "key_ingredients": [
+      "Sodium Biborate"
+    ],
+    "administration": "Oral, very effective for aphthous ulcers and fungal infections"
+  },
+  {
+    "name": "Merc Sol 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Bleeding Gums",
+      "Mouth Ulcers",
+      "Halitosis"
+    ],
+    "key_ingredients": [
+      "Quicksilver / Mercury (Highly potentized/safe)"
+    ],
+    "administration": "Oral, indicated for excessive salivation and spongy gums"
+  },
+  {
+    "name": "Cineraria Maritima Q",
+    "form": "Mother Tincture (Eye Drops form)",
+    "primary_uses": [
+      "Cataract Support"
+    ],
+    "key_ingredients": [
+      "Dusty Miller plant extract"
+    ],
+    "administration": "Topical, 1-2 drops directly into the eyes (must use sterile commercial eye drop prep)"
+  },
+  {
+    "name": "Euphrasia Officinalis Q",
+    "form": "Mother Tincture (Eye Drops form)",
+    "primary_uses": [
+      "Dry Eyes"
+    ],
+    "key_ingredients": [
+      "Eyebright"
+    ],
+    "administration": "Topical, sterile eye drops used to clear conjunctival redness and dryness"
+  },
+  {
+    "name": "Crataegus Oxyacantha Q",
+    "form": "Mother Tincture",
+    "primary_uses": [
+      "High Blood Pressure",
+      "High Triglycerides"
+    ],
+    "key_ingredients": [
+      "Hawthorn Berries"
+    ],
+    "administration": "Oral, acts as a premier cardiac tonic; dissolves fat deposits in arteries"
+  },
+  {
+    "name": "Natrum Muriaticum 30C",
+    "form": "Dilution",
+    "primary_uses": [
+      "Allergic Rhinitis",
+      "Edema",
+      "Eye Strain",
+      "Loss of Smell",
+      "Tension Headache"
+    ],
+    "key_ingredients": [
+      "Sodium Chloride (Potentized table salt)"
+    ],
+    "administration": "Oral, targets fluid imbalances, grief, and watery mucous membranes"
+  }
+]

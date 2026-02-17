@@ -1,0 +1,553 @@
+[
+  {
+    "name": "Eladi Choornam / Vadagam",
+    "form": "Powder / Lozenge",
+    "primary_uses": [
+      "Acidity",
+      "Nausea",
+      "Motion Sickness",
+      "Halitosis"
+    ],
+    "key_ingredients": [
+      "Elakkai (Cardamom)",
+      "Chukku (Dry Ginger)",
+      "Milagu (Black Pepper)"
+    ],
+    "administration": "Oral, chewed slowly or taken with honey"
+  },
+  {
+    "name": "Seeraga Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Acidity",
+      "Bloating",
+      "High Cholesterol",
+      "Palpitations"
+    ],
+    "key_ingredients": [
+      "Seeragam (Cumin)"
+    ],
+    "administration": "Oral, mixed with warm water or ghee"
+  },
+  {
+    "name": "Nilavagai Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Constipation"
+    ],
+    "key_ingredients": [
+      "Nilavagai (Indian Senna)"
+    ],
+    "administration": "Oral, taken at bedtime with warm water"
+  },
+  {
+    "name": "Thiripala Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Constipation",
+      "IBS",
+      "Vertigo",
+      "Eye Strain"
+    ],
+    "key_ingredients": [
+      "Kadukkai",
+      "Thandrikkai",
+      "Nellikai (Triphala)"
+    ],
+    "administration": "Oral with warm water, or used externally as a wash"
+  },
+  {
+    "name": "Panchadeepakkini Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Indigestion",
+      "Loss of Appetite",
+      "Sluggish Metabolism",
+      "Loss of Taste"
+    ],
+    "key_ingredients": [
+      "Chukku (Ginger)",
+      "Milagu (Pepper)",
+      "Thippili (Long Pepper)",
+      "Elakkai",
+      "Seeragam"
+    ],
+    "administration": "Oral, mixed with ghee and taken before meals"
+  },
+  {
+    "name": "Inji Leghyam",
+    "form": "Herbal Jam (Leghyam)",
+    "primary_uses": [
+      "Indigestion",
+      "Loss of Appetite",
+      "Loss of Taste"
+    ],
+    "key_ingredients": [
+      "Inji (Fresh Ginger)",
+      "Jaggery",
+      "Ghee"
+    ],
+    "administration": "Oral, taken to ignite the digestive fire (Agni)"
+  },
+  {
+    "name": "Thaleesathi Vadagam",
+    "form": "Lozenge",
+    "primary_uses": [
+      "Common Cold",
+      "Dry Cough",
+      "Sore Throat",
+      "Loss of Smell"
+    ],
+    "key_ingredients": [
+      "Thaleesapathiri (Himalayan Silver Fir)",
+      "Thippili"
+    ],
+    "administration": "Oral, kept in the mouth and slowly dissolved"
+  },
+  {
+    "name": "Kabasura Kudineer",
+    "form": "Decoction (Kudineer)",
+    "primary_uses": [
+      "Common Cold",
+      "Wet Cough",
+      "Bronchitis",
+      "Allergic Rhinitis"
+    ],
+    "key_ingredients": [
+      "Nilavembu",
+      "Adathodai",
+      "Chukku",
+      "Thippili (15 herbal blend)"
+    ],
+    "administration": "Oral, powder boiled in water and reduced; highly antiviral"
+  },
+  {
+    "name": "Adathodai Manapagu",
+    "form": "Syrup",
+    "primary_uses": [
+      "Dry Cough",
+      "Wet Cough",
+      "Bronchitis"
+    ],
+    "key_ingredients": [
+      "Adathodai (Malabar Nut/Vasaka)"
+    ],
+    "administration": "Oral, powerful bronchodilator and expectorant"
+  },
+  {
+    "name": "Swasakudori Maathirai",
+    "form": "Tablet (Maathirai)",
+    "primary_uses": [
+      "Asthma",
+      "Breathlessness"
+    ],
+    "key_ingredients": [
+      "Purified Lingam (Cinnabar)",
+      "Milagu (Black Pepper)"
+    ],
+    "administration": "Oral, strictly under Siddha medical supervision"
+  },
+  {
+    "name": "Thoothuvalai Ney",
+    "form": "Medicated Ghee (Ney)",
+    "primary_uses": [
+      "Asthma",
+      "Breathlessness"
+    ],
+    "key_ingredients": [
+      "Thoothuvalai (Purple Fruited Pea Eggplant)"
+    ],
+    "administration": "Oral, taken with warm milk to clear the respiratory tract"
+  },
+  {
+    "name": "Amukkara Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Joint Pain",
+      "Stress",
+      "Tremors",
+      "Rheumatoid Arthritis",
+      "Low Libido"
+    ],
+    "key_ingredients": [
+      "Amukkara Kizhangu (Ashwagandha root)"
+    ],
+    "administration": "Oral, taken with warm milk"
+  },
+  {
+    "name": "Pindathailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Joint Pain",
+      "Knee Pain",
+      "Gout"
+    ],
+    "key_ingredients": [
+      "Manjistha",
+      "Sariva",
+      "Beeswax"
+    ],
+    "administration": "Topical, gentle application on inflamed joints"
+  },
+  {
+    "name": "Vathakesari Thailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Sciatica",
+      "Frozen Shoulder",
+      "Muscle Cramps",
+      "Poor Circulation"
+    ],
+    "key_ingredients": [
+      "Castor Oil",
+      "Mustard Oil",
+      "Garlic",
+      "Poison Nut (Purified)"
+    ],
+    "administration": "Topical, vigorous massage for deep muscle/nerve pain"
+  },
+  {
+    "name": "Santhana Thailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Insomnia",
+      "Mild Depression",
+      "Memory Loss"
+    ],
+    "key_ingredients": [
+      "Santhanam (Sandalwood) extract"
+    ],
+    "administration": "Topical, applied to the head for deep cooling and calming"
+  },
+  {
+    "name": "Vallarai Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Stress",
+      "Brain Fog",
+      "Memory Loss",
+      "Varicose Veins"
+    ],
+    "key_ingredients": [
+      "Vallarai (Gotu Kola/Centella asiatica)"
+    ],
+    "administration": "Oral, highly regarded brain tonic"
+  },
+  {
+    "name": "Neerkovai Mathirai",
+    "form": "Tablet",
+    "primary_uses": [
+      "Migraine",
+      "Sinusitis",
+      "Headache"
+    ],
+    "key_ingredients": [
+      "Chukku",
+      "Milagu",
+      "Arathai (Galangal)"
+    ],
+    "administration": "Topical ONLY; rubbed with water or breastmilk into a paste and applied to forehead"
+  },
+  {
+    "name": "Parangipattai Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Acne",
+      "Eczema",
+      "Psoriasis",
+      "Hives (Urticaria)"
+    ],
+    "key_ingredients": [
+      "Parangipattai (China Root)"
+    ],
+    "administration": "Oral, excellent blood purifier"
+  },
+  {
+    "name": "Arugan Thailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Acne",
+      "Eczema",
+      "Ringworm"
+    ],
+    "key_ingredients": [
+      "Arukampul (Bermuda Grass)",
+      "Coconut Oil"
+    ],
+    "administration": "Topical, applied to skin lesions and fungal infections"
+  },
+  {
+    "name": "Ponnanganni Thailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Hair Fall",
+      "Premature Graying",
+      "Eye Strain",
+      "Cataract Support"
+    ],
+    "key_ingredients": [
+      "Ponnanganni Keerai (Sessile Joyweed)"
+    ],
+    "administration": "Topical, used for head baths to cool the eyes and promote hair growth"
+  },
+  {
+    "name": "Karisalai Karpam",
+    "form": "Powder / Tablet",
+    "primary_uses": [
+      "Hair Fall",
+      "Fatty Liver",
+      "Fatigue",
+      "Blurred Vision"
+    ],
+    "key_ingredients": [
+      "Karisalankanni (Bhringraj/False Daisy)"
+    ],
+    "administration": "Oral, liver tonic and rejuvenator"
+  },
+  {
+    "name": "Sirukurinjan Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Type 2 Diabetes Support",
+      "Sugar Cravings"
+    ],
+    "key_ingredients": [
+      "Sirukurinjan (Gymnema sylvestre)"
+    ],
+    "administration": "Oral, destroys the taste for sugar and regulates insulin"
+  },
+  {
+    "name": "Sivanar Amirtham",
+    "form": "Powder / Tablet",
+    "primary_uses": [
+      "High Blood Pressure",
+      "Low Blood Pressure",
+      "Vertigo"
+    ],
+    "key_ingredients": [
+      "Purified heavy metals/minerals (Requires expert preparation)"
+    ],
+    "administration": "Oral, strictly prescribed in micro-doses by a Siddha physician"
+  },
+  {
+    "name": "Sathavari Leghyam",
+    "form": "Herbal Jam (Leghyam)",
+    "primary_uses": [
+      "Menstrual Cramps",
+      "Irregular Periods",
+      "Menopausal Hot Flashes",
+      "Low Libido"
+    ],
+    "key_ingredients": [
+      "Thanneer Vittan Kizhangu (Shatavari)"
+    ],
+    "administration": "Oral, female reproductive tonic"
+  },
+  {
+    "name": "Neermulli Kudineer",
+    "form": "Decoction (Kudineer)",
+    "primary_uses": [
+      "Urinary Tract Infection (UTI)",
+      "Edema",
+      "BPH",
+      "Burning Micturition"
+    ],
+    "key_ingredients": [
+      "Neermulli (Asteracantha longifolia)"
+    ],
+    "administration": "Oral, powerful diuretic"
+  },
+  {
+    "name": "Sirupeelai Kudineer",
+    "form": "Decoction (Kudineer)",
+    "primary_uses": [
+      "Kidney Stones",
+      "UTI",
+      "BPH"
+    ],
+    "key_ingredients": [
+      "Sirupeelai (Mountain Knotgrass)"
+    ],
+    "administration": "Oral, lithotriptic (breaks down urinary stones)"
+  },
+  {
+    "name": "Annapethi Chenduram",
+    "form": "Calcined Mineral (Chenduram)",
+    "primary_uses": [
+      "Anemia"
+    ],
+    "key_ingredients": [
+      "Annapethi (Green Vitriol/Ferrous Sulphate)"
+    ],
+    "administration": "Oral, taken with honey to rapidly increase hemoglobin"
+  },
+  {
+    "name": "Kalamegha Narayana Chenduram",
+    "form": "Calcined Mineral (Chenduram)",
+    "primary_uses": [
+      "PCOS",
+      "Uterine issues"
+    ],
+    "key_ingredients": [
+      "Purified metals and herbs"
+    ],
+    "administration": "Oral, strictly under medical supervision"
+  },
+  {
+    "name": "Kirambu Thailam",
+    "form": "Essential Oil",
+    "primary_uses": [
+      "Toothache"
+    ],
+    "key_ingredients": [
+      "Kirambu (Clove)"
+    ],
+    "administration": "Topical, applied directly to the cavity"
+  },
+  {
+    "name": "Palthodi Choornam",
+    "form": "Tooth Powder",
+    "primary_uses": [
+      "Toothache",
+      "Bleeding Gums"
+    ],
+    "key_ingredients": [
+      "Padikaram (Alum)",
+      "Khadira"
+    ],
+    "administration": "Topical, used to massage the gums"
+  },
+  {
+    "name": "Nilavembu Kudineer",
+    "form": "Decoction (Kudineer)",
+    "primary_uses": [
+      "Mild Fever",
+      "Viral Fever",
+      "Weak Immunity"
+    ],
+    "key_ingredients": [
+      "Nilavembu (Andrographis paniculata)",
+      "Papaya leaves (9 herbal blend)"
+    ],
+    "administration": "Oral, boiled and consumed fresh; famous for Dengue/Chikungunya recovery"
+  },
+  {
+    "name": "Keezhanelli Choornam",
+    "form": "Powder",
+    "primary_uses": [
+      "Fatty Liver",
+      "Gout"
+    ],
+    "key_ingredients": [
+      "Keezhanelli (Bhumyamalaki/Phyllanthus niruri)"
+    ],
+    "administration": "Oral, primary remedy for jaundice and liver protection"
+  },
+  {
+    "name": "Kumari Leghyam",
+    "form": "Herbal Jam",
+    "primary_uses": [
+      "Menstrual Cramps",
+      "Irregular Periods"
+    ],
+    "key_ingredients": [
+      "Kumari (Aloe Vera)",
+      "Palm Jaggery"
+    ],
+    "administration": "Oral, highly cooling uterine tonic"
+  },
+  {
+    "name": "Sangu Parpam",
+    "form": "Calcined Shell (Parpam)",
+    "primary_uses": [
+      "Gout",
+      "Varicose Veins",
+      "Acidity"
+    ],
+    "key_ingredients": [
+      "Sangu (Purified Conch Shell)"
+    ],
+    "administration": "Oral, taken with ghee or milk as a natural calcium/antacid source"
+  },
+  {
+    "name": "Kungumadi Thailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Pigmentation",
+      "Dry Skin"
+    ],
+    "key_ingredients": [
+      "Kungumappoo (Saffron)",
+      "Sandalwood"
+    ],
+    "administration": "Topical, applied to the face"
+  },
+  {
+    "name": "Nannari Syrup",
+    "form": "Syrup",
+    "primary_uses": [
+      "Pigmentation",
+      "Dry Skin",
+      "Menopausal Hot Flashes",
+      "Burning Micturition"
+    ],
+    "key_ingredients": [
+      "Nannari (Indian Sarsaparilla)"
+    ],
+    "administration": "Oral, mixed with water and lemon as a deep body coolant"
+  },
+  {
+    "name": "Ayakantha Chenduram",
+    "form": "Calcined Mineral (Chenduram)",
+    "primary_uses": [
+      "Low Energy",
+      "Chronic Fatigue",
+      "Anemia"
+    ],
+    "key_ingredients": [
+      "Ayam (Iron)",
+      "Kantham (Magnetic Iron)"
+    ],
+    "administration": "Oral, taken in micro-doses with honey"
+  },
+  {
+    "name": "Padikara Parpam",
+    "form": "Calcined Mineral (Parpam)",
+    "primary_uses": [
+      "Heavy Menstrual Bleeding",
+      "Leucorrhea",
+      "Oral Thrush",
+      "Mouth Ulcers"
+    ],
+    "key_ingredients": [
+      "Padikaram (Alum)"
+    ],
+    "administration": "Oral (with butter) or dissolved in water as a gargle/douche"
+  },
+  {
+    "name": "Peenisa Thailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Sinusitis",
+      "Loss of Smell"
+    ],
+    "key_ingredients": [
+      "Thumbai (Drooping Enum)",
+      "Chukku"
+    ],
+    "administration": "Topical/Nasal, used for Nasya (drops in the nose) or head massage"
+  },
+  {
+    "name": "Chukku Thailam",
+    "form": "Medicated Oil",
+    "primary_uses": [
+      "Cold Extremities",
+      "Tinnitus",
+      "Earache"
+    ],
+    "key_ingredients": [
+      "Chukku (Dry Ginger)"
+    ],
+    "administration": "Topical, applied around the ear or on extremities"
+  }
+]
