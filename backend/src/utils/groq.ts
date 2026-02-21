@@ -7,6 +7,11 @@ export const streamGroq = async (
   messages: any[],
   res: Response
 ) => {
+  res.setHeader("Content-Type", "text/event-stream");
+  res.setHeader("Cache-Control", "no-cache");
+  res.setHeader("Connection", "keep-alive");
+  res.flushHeaders();
+  
   const response = await axios({
     method: "post",
     url: GROQ_URL,
@@ -42,5 +47,9 @@ export const streamGroq = async (
         } catch {}
       }
     }
+  });
+  response.data.on("error", (err: any) => {
+    console.error(err);
+    res.end();
   });
 };
