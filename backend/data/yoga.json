@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Vajrasana (Thunderbolt Pose)",
+    "target_benefit": "Improves digestion, prevents acidity, and strengthens pelvic muscles.",
+    "video_url": "https://media.tenor.com/F9rKPugvM1IAAAA1/eijaz-eijaz-khan.webp",
+    "image_url": "https://yogajala.com/wp-content/uploads/2022/11/Yoga-Pose-How-To-Diagrams-26.jpg"
+  },
+  {
+    "name": "Sheetali Pranayama (Cooling Breath)",
+    "target_benefit": "Cools the body, reduces acidity, and calms the nervous system.",
+    "video_url": "https://media.tenor.com/aJW49KbUcmcAAAA1/moumita-yoga.webp",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMxmJrN7KQ0yKJ5b1jResW7eKMXK9qiv0tWg&s"
+  },
+  {
+    "name": "Malasana (Garland Pose)",
+    "target_benefit": "Stimulates metabolism, relieves constipation, and opens the hips.",
+    "video_url": "https://www.example-video-cdn.com/yoga/malasana-demo.mp4",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5008a3c6c4aa6450352d2303/1429194401502-91QP172U54J1XR4Q11LI/image-asset.jpeg?format=1500w"
+  },
+  {
+    "name": "Pawanmuktasana (Wind-Relieving Pose)",
+    "target_benefit": "Releases abdominal gas, improves digestion, and relieves lower back pain.",
+    "video_url": "https://www.example-video-cdn.com/yoga/pawanmuktasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTfNVBpOlasgCNXB7WOI_fPDPCv0LBrWwQQ&s"
+  },
+  {
+    "name": "Shavasana (Corpse Pose)",
+    "target_benefit": "Deeply relaxes the body, reduces stress, and lowers blood pressure.",
+    "video_url": "https://www.example-video-cdn.com/yoga/shavasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAow0JEe3rsRQZqcx7HtaWTy5CczJ91MBog&s"
+  },
+  {
+    "name": "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+    "target_benefit": "Massages abdominal organs, detoxifies the liver, and improves spinal mobility.",
+    "video_url": "https://www.example-video-cdn.com/yoga/ardha-matsyendrasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPaeWGYWK3FmnlkCc1zy92x_VwwSm2HKKxKQ&s"
+  },
+  {
+    "name": "Surya Namaskar (Sun Salutation)",
+    "target_benefit": "Full body cardiovascular workout, improves flexibility, and boosts immunity.",
+    "video_url": "https://www.example-video-cdn.com/yoga/surya-namaskar-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4YfRkd3TYeDzhhwoVMSzrHt_LTPW_F4YJw&s"
+  },
+  {
+    "name": "Paschimottanasana (Seated Forward Bend)",
+    "target_benefit": "Calms the mind, stimulates the liver and kidneys, and relieves stress.",
+    "video_url": "https://www.example-video-cdn.com/yoga/paschimottanasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YG2QvgeH7DgghmuyK2k0McIH76hlneEaZg&s"
+  },
+  {
+    "name": "Kapalabhati Pranayama (Skull Shining Breath)",
+    "target_benefit": "Clears the respiratory tract, boosts metabolism, and improves brain function.",
+    "video_url": "https://www.example-video-cdn.com/yoga/kapalabhati-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-aD6vAhZCJx-MdsxvzEAsv4mxi1fApyDkA&s"
+  },
+  {
+    "name": "Baddha Konasana (Butterfly Pose)",
+    "target_benefit": "Stimulates reproductive organs, relieves menstrual discomfort, and opens hips.",
+    "video_url": "https://www.example-video-cdn.com/yoga/baddha-konasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLr2kLC4mn_HidWJUvp3tb0imLokmiZ84Vg&s"
+  },
+  {
+    "name": "Viparita Karani (Legs-Up-The-Wall Pose)",
+    "target_benefit": "Improves blood circulation, reduces edema, and relieves tired legs.",
+    "video_url": "https://www.example-video-cdn.com/yoga/viparita-karani-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bv8l2EHSnlA1astg4cmYEy9j1L-_uVMb9w&s"
+  },
+  {
+    "name": "Balasana (Child's Pose)",
+    "target_benefit": "Releases tension in the back and shoulders, and relieves fatigue and anxiety.",
+    "video_url": "https://www.example-video-cdn.com/yoga/balasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2F3IsBHlckDCqWq9ob-zYQHNIP8LOMF0Mag&s"
+  },
+  {
+    "name": "Nadi Shodhana Pranayama (Alternate Nostril Breathing)",
+    "target_benefit": "Balances the left and right hemispheres of the brain, reduces anxiety.",
+    "video_url": "https://www.example-video-cdn.com/yoga/nadi-shodhana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIfYG3q5rvoRkyN18hsj4vqzlGjXN_cTgI7g&s"
+  },
+  {
+    "name": "Dhanurasana (Bow Pose)",
+    "target_benefit": "Expands the chest, stimulates abdominal organs, and improves posture.",
+    "video_url": "https://www.example-video-cdn.com/yoga/dhanurasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNG-rYTUDjbt2d352mr8zXCiht6alZmIFbw&s"
+  },
+  {
+    "name": "Bhujangasana (Cobra Pose)",
+    "target_benefit": "Strengthens the spine, opens the heart and lungs, and relieves asthma.",
+    "video_url": "https://www.example-video-cdn.com/yoga/bhujangasana-demo.mp4",
+    "image_url": "https://www.shutterstock.com/image-vector/woman-training-yoga-asana-cobra-600nw-2277302037.jpg"
+  },
+  {
+    "name": "Matsyasana (Fish Pose)",
+    "target_benefit": "Stretches the neck and chest, highly beneficial for respiratory issues.",
+    "video_url": "https://www.example-video-cdn.com/yoga/matsyasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gyEIm8GdeAB4FjznXSTN_bKcxKicDqWN3A&s"
+  },
+  {
+    "name": "Ujjayi Pranayama (Ocean Breath)",
+    "target_benefit": "Soothes the nervous system, warms the body, and regulates blood pressure.",
+    "video_url": "https://www.example-video-cdn.com/yoga/ujjayi-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHA-YECLVtRDghDmf9bMulvAcKJ6KZw50UVg&s"
+  },
+  {
+    "name": "Jal Neti (Nasal Cleansing Kriya)",
+    "target_benefit": "Clears nasal passages, relieves sinusitis, and improves breathing.",
+    "video_url": "https://www.example-video-cdn.com/yoga/jal-neti-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLrVIZ6F55OvmN-674nYRW3yWK8XNFBhHmA&s"
+  },
+  {
+    "name": "Gomukhasana (Cow Face Pose)",
+    "target_benefit": "Stretches shoulders and arms, relieves frozen shoulder and neck tension.",
+    "video_url": "https://www.example-video-cdn.com/yoga/gomukhasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSglasU0uIA_kKkuaeaPljhSS-TO7S2y4IQ&s"
+  },
+  {
+    "name": "Anulom Vilom Pranayama",
+    "target_benefit": "Clears blockages in energy channels, supports respiratory and mental health.",
+    "video_url": "https://www.example-video-cdn.com/yoga/anulom-vilom-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBRIpgIxKw3-lF_L8J7nMNJcBM8BQi6UOYA&s"
+  },
+  {
+    "name": "Adho Mukha Svanasana (Downward-Facing Dog)",
+    "target_benefit": "Energizes the body, stretches hamstrings, and relieves headache.",
+    "video_url": "https://www.example-video-cdn.com/yoga/adho-mukha-svanasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Ub836hFsGOXoQZNW7kc3H2mLVpQvLllNFg&s"
+  },
+  {
+    "name": "Bhastrika Pranayama (Bellows Breath)",
+    "target_benefit": "Generates internal heat, clears the lungs, and boosts immunity.",
+    "video_url": "https://www.example-video-cdn.com/yoga/bhastrika-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSief8C_b5a2nWamn9c2vJYr1IPS4mz1Asw&s"
+  },
+  {
+    "name": "Simhasana (Lion Pose)",
+    "target_benefit": "Relieves tension in the face and chest, excellent for sore throat and speech defects.",
+    "video_url": "https://www.example-video-cdn.com/yoga/simhasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8UGlLV6yBEwZNmVLzkhTubFs0bX-64pcvw&s"
+  },
+  {
+    "name": "Setu Bandhasana (Bridge Pose)",
+    "target_benefit": "Strengthens the back, glutes, and hamstrings; opens the chest.",
+    "video_url": "https://www.example-video-cdn.com/yoga/setu-bandhasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtmBWAfrzSxGu8saENKa5CqpJKHdwTxZ3WQ&s"
+  },
+  {
+    "name": "Vrikshasana (Tree Pose)",
+    "target_benefit": "Improves balance, focus, and concentration; strengthens the legs.",
+    "video_url": "https://www.example-video-cdn.com/yoga/vrikshasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4MyJiZC_mevIptKVZXoqXkCmeOLZdjVWrQ&s"
+  },
+  {
+    "name": "Yoga Nidra (Yogic Sleep)",
+    "target_benefit": "Deep guided relaxation that reduces insomnia, stress, and anxiety.",
+    "video_url": "https://www.example-video-cdn.com/yoga/yoga-nidra-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeWCVHviQY8MmUF2XYwSer0DY00VEkERL9Q&s"
+  },
+  {
+    "name": "Trataka (Candle Gazing)",
+    "target_benefit": "Improves vision, relieves eye strain, and enhances memory.",
+    "video_url": "https://www.example-video-cdn.com/yoga/trataka-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmBS1dJQ-m6FOdB3xj2Nqk9na8VdY_oLalQ&s"
+  },
+  {
+    "name": "Ustrasana (Camel Pose)",
+    "target_benefit": "Stretches the entire front of the body, improves posture, and relieves fatigue.",
+    "video_url": "https://www.example-video-cdn.com/yoga/ustrasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NRnUHWZi04lsrXLIyADnSS6vRmu3hee0xw&s"
+  },
+  {
+    "name": "Tadasana (Mountain Pose)",
+    "target_benefit": "Improves posture, strengthens thighs, and relieves sciatica.",
+    "video_url": "https://www.example-video-cdn.com/yoga/tadasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ydxKRW9IbndnQJEER60_8vh7KNZbLYEgEg&s"
+  },
+  {
+    "name": "Trikonasana (Triangle Pose)",
+    "target_benefit": "Stretches legs and torso, mobilizes hips, and relieves backache.",
+    "video_url": "https://www.example-video-cdn.com/yoga/trikonasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrn3WDwrsSy6gwuzonlomR_ixKylrDYv5Aw&s"
+  },
+  {
+    "name": "Marjaryasana-Bitilasana (Cat-Cow Pose)",
+    "target_benefit": "Improves spinal flexibility and relieves tension in the neck and back.",
+    "video_url": "https://www.example-video-cdn.com/yoga/cat-cow-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC18f4njL_pmahaxNgq67hrCqXUoR5Y8h_kQ&s"
+  },
+  {
+    "name": "Sarvangasana (Shoulder Stand)",
+    "target_benefit": "Stimulates the thyroid gland, improves circulation, and prevents hair fall.",
+    "video_url": "https://www.example-video-cdn.com/yoga/sarvangasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xDZyUfbwVTeJ7CRvCZv_Nsu8WtwTO1nLAQ&s"
+  },
+  {
+    "name": "Bhramari Pranayama (Bee Breath)",
+    "target_benefit": "Instantly calms the mind, relieves tension headaches, and reduces anger.",
+    "video_url": "https://www.example-video-cdn.com/yoga/bhramari-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfJ4WoAeyftigIsIX3A1nsrrCa7RjWX2rZg&s"
+  },
+  {
+    "name": "Navasana (Boat Pose)",
+    "target_benefit": "Strengthens the core, improves digestion, and supports weight management.",
+    "video_url": "https://www.example-video-cdn.com/yoga/navasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLp3e8-ctLoRPK8MVyyI5HQuQPX_LW3CyjQ&s"
+  },
+  {
+    "name": "Halasana (Plow Pose)",
+    "target_benefit": "Calms the brain, stimulates the thyroid, and stretches the spine and shoulders.",
+    "video_url": "https://www.example-video-cdn.com/yoga/halasana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyh7joLfHR4Xd2Jf0C-K1J3CxT0YaZBffjVA&s"
+  },
+  {
+    "name": "Agnisar Kriya",
+    "target_benefit": "Stimulates the digestive fire, tones abdominal organs, and improves sluggish metabolism.",
+    "video_url": "https://www.example-video-cdn.com/yoga/agnisar-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__XrKaJ30hhBa1iBTEdBnd-u7nSvXxSLf7A&s"
+  },
+  {
+    "name": "Griva Sanchalana (Neck Rolls)",
+    "target_benefit": "Releases accumulated tension in the cervical spine and shoulders.",
+    "video_url": "https://www.example-video-cdn.com/yoga/griva-sanchalana-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0vx34ZJdL0oK-xMfiMmWl8XBlmKMbZbqWA&s"
+  },
+  {
+    "name": "Palming",
+    "target_benefit": "Soothes the optic nerve, relaxes facial muscles, and relieves eye strain.",
+    "video_url": "https://www.example-video-cdn.com/yoga/palming-demo.mp4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoECM8aVHBoDgqQRT8oidAAyz0hGY-V1MEw&s"
+  }
+]
