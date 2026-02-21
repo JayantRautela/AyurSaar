@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import { connectDB } from "./config/db.js";
 dotenv.config();
 import UserRouter from "./routes/user.route.js";
+import ChatRouter from "./routes/chat.route.js";
 
 const app = express();
 
@@ -11,6 +12,7 @@ app.use(express.json());
 const PORT = process.env.PORT;
 
 app.use('/api/v1/user', UserRouter);
+app.use('/api/v1/chat', ChatRouter);
 
 connectDB()
 .then(() => {

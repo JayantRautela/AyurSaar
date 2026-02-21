@@ -5,6 +5,7 @@ export const classifySymptom = async (query: string): Promise<string | null> => 
   const match = symptoms.find((s: any) =>
     lower.includes(s.symptom.toLowerCase())
   );
+  console.log(match)
   return match ? match.symptom : null;
 };
 

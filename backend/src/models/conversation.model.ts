@@ -9,7 +9,7 @@ export interface IMessage {
 }
 
 export interface IConversation extends Document {
-  conversationId: string;
+  userId: string;
   messages: IMessage[];
 }
 
@@ -34,7 +34,7 @@ const MessageSchema = new Schema<IMessage>({
 }, { timestamps: true });
 
 const ConversationSchema = new Schema<IConversation>({
-  conversationId: { 
+  userId: { 
     type: String, 
     required: true, 
     unique: true 

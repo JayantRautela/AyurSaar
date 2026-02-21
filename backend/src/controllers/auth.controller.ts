@@ -89,7 +89,7 @@ export const login = async (req: Request, res: Response) => {
       token: token
     });
   } catch (error) {
-    console.error("Error in signup :- ", error);
+    console.error("Error in login :- ", error);
     return res.status(500).json({
       success: false,
       message: "Internal Server Error"

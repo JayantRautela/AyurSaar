@@ -10,7 +10,7 @@ export const isAuth = async (req: AuthenticatedRequest, res: Response, next: Nex
   try {
     const authHeader = req.headers.authorization;
 
-    if (!authHeader || authHeader.startsWith("Bearer ")) {
+    if (!authHeader || !authHeader.startsWith("Bearer ")) {
       res.status(401).json({
         message: "Please login - No auth header",
       });
@@ -31,14 +31,14 @@ export const isAuth = async (req: AuthenticatedRequest, res: Response, next: Nex
       process.env.JWT_SECRET as string,
     ) as JwtPayload;
 
-    if (!decoded || !decoded.user) {
+    if (!decoded || !decoded.newUser) {
       res.status(401).json({
         message: "Invalid Token",
       });
       return;
     }
 
-    req.user = decoded.user;
+    req.user = decoded.newUser;
     next();
   } catch (error: any) {
     console.log("JWT Verification Error :- ", error);
