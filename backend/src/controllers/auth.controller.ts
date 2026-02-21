@@ -34,7 +34,7 @@ export const signup = async (req: Request, res: Response) => {
     });
     newUser.save();
 
-    const token = jwt.sign(newUser, process.env.JWT_SECRET!, { expiresIn: '7d' });
+    const token = jwt.sign({ newUser }, process.env.JWT_SECRET!, { expiresIn: '7d' });
 
     return res.status(201).json({
       success: true,
@@ -81,7 +81,7 @@ export const login = async (req: Request, res: Response) => {
       });
     }
 
-    const token = jwt.sign(user, process.env.JWT_SECRET!, { expiresIn: '7d' });
+    const token = jwt.sign({ user }, process.env.JWT_SECRET!, { expiresIn: '7d' });
 
     return res.status(201).json({
       success: true,
