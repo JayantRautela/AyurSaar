@@ -1,7 +1,10 @@
 [
   {
     "name": "Vajrasana (Thunderbolt Pose)",
+    "about_this_pose": "Vajrasana is a kneeling posture that alters the flow of blood and nervous impulses in the pelvic region. It is uniquely known as the only yoga posture that can and should be practiced immediately after meals to enhance digestion.",
     "target_benefit": "Improves digestion, prevents acidity, and strengthens pelvic muscles.",
+    "precaution_and_contradiction": "Avoid if you have severe knee pain, recent knee or ankle surgery, or slip disc conditions.",
+    "level": "Beginner",
     "video_url": "https://media.tenor.com/F9rKPugvM1IAAAA1/eijaz-eijaz-khan.webp",
     "image_url": "https://yogajala.com/wp-content/uploads/2022/11/Yoga-Pose-How-To-Diagrams-26.jpg",
     "steps": [
@@ -14,7 +17,10 @@
   },
   {
     "name": "Sheetali Pranayama (Cooling Breath)",
+    "about_this_pose": "Sheetali means 'cooling' in Sanskrit. This breathing technique involves drawing air across a rolled tongue to physically cool the body and calm the nervous system.",
     "target_benefit": "Cools the body, reduces acidity, and calms the nervous system.",
+    "precaution_and_contradiction": "Avoid during cold weather, or if suffering from low blood pressure, severe asthma, or respiratory congestion.",
+    "level": "Beginner",
     "video_url": "https://media.tenor.com/aJW49KbUcmcAAAA1/moumita-yoga.webp",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMxmJrN7KQ0yKJ5b1jResW7eKMXK9qiv0tWg&s",
     "steps": [
@@ -27,7 +33,10 @@
   },
   {
     "name": "Malasana (Garland Pose)",
+    "about_this_pose": "A deep yogic squat that mimics a natural human resting position. It grounds energy, opens the hips, and is highly beneficial for pelvic and digestive health.",
     "target_benefit": "Stimulates metabolism, relieves constipation, and opens the hips.",
+    "precaution_and_contradiction": "Avoid if you have severe knee or lower back injuries, or tight hips that cause sharp pain during the squat.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/malasana-demo.mp4",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5008a3c6c4aa6450352d2303/1429194401502-91QP172U54J1XR4Q11LI/image-asset.jpeg?format=1500w",
     "steps": [
@@ -40,7 +49,10 @@
   },
   {
     "name": "Pawanmuktasana (Wind-Relieving Pose)",
+    "about_this_pose": "The name translates directly to 'wind-relieving pose'. It compresses the abdomen to massage the internal organs, aiding in the release of trapped digestive gases.",
     "target_benefit": "Releases abdominal gas, improves digestion, and relieves lower back pain.",
+    "precaution_and_contradiction": "Avoid during pregnancy, severe sciatica, slip disc, or if recovering from recent abdominal surgery/hernia.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/pawanmuktasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTfNVBpOlasgCNXB7WOI_fPDPCv0LBrWwQQ&s",
     "steps": [
@@ -53,7 +65,10 @@
   },
   {
     "name": "Shavasana (Corpse Pose)",
+    "about_this_pose": "A resting posture typically performed at the end of a yoga session. Despite looking simple, it is considered one of the hardest poses to master as it requires complete stillness of the body and mind.",
     "target_benefit": "Deeply relaxes the body, reduces stress, and lowers blood pressure.",
+    "precaution_and_contradiction": "Generally safe for everyone. Pregnant women should modify by lying on their left side or using a bolster to elevate the head and chest.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/shavasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAow0JEe3rsRQZqcx7HtaWTy5CczJ91MBog&s",
     "steps": [
@@ -66,7 +81,10 @@
   },
   {
     "name": "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+    "about_this_pose": "A seated half-spinal twist named after the great yogi Matsyendranath. It twists the spine and abdomen, offering a deep internal massage to the organs.",
     "target_benefit": "Massages abdominal organs, detoxifies the liver, and improves spinal mobility.",
+    "precaution_and_contradiction": "Avoid during pregnancy, or if suffering from a severe spinal injury, slipped disc, or active peptic ulcers.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/ardha-matsyendrasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPaeWGYWK3FmnlkCc1zy92x_VwwSm2HKKxKQ&s",
     "steps": [
@@ -79,7 +97,10 @@
   },
   {
     "name": "Surya Namaskar (Sun Salutation)",
+    "about_this_pose": "A dynamic sequence of 12 powerful yoga poses linked by breath. It is a complete cardiovascular workout that honors the sun and awakens the body's solar energy.",
     "target_benefit": "Full body cardiovascular workout, improves flexibility, and boosts immunity.",
+    "precaution_and_contradiction": "Avoid if you have high blood pressure, coronary artery disease, hernia, or are in the later stages of pregnancy.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/surya-namaskar-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4YfRkd3TYeDzhhwoVMSzrHt_LTPW_F4YJw&s",
     "steps": [
@@ -96,7 +117,10 @@
   },
   {
     "name": "Paschimottanasana (Seated Forward Bend)",
+    "about_this_pose": "An intense dorsal stretch that elongates the entire back of the body, from the heels to the neck, while deeply calming the central nervous system.",
     "target_benefit": "Calms the mind, stimulates the liver and kidneys, and relieves stress.",
+    "precaution_and_contradiction": "Avoid if suffering from a slipped disc, sciatica, asthma, or active diarrhea.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/paschimottanasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YG2QvgeH7DgghmuyK2k0McIH76hlneEaZg&s",
     "steps": [
@@ -109,7 +133,10 @@
   },
   {
     "name": "Kapalabhati Pranayama (Skull Shining Breath)",
+    "about_this_pose": "A highly energizing cleansing kriya (technique) rather than just a breath practice. It forcefully expels toxins from the lungs and brightens the intellect.",
     "target_benefit": "Clears the respiratory tract, boosts metabolism, and improves brain function.",
+    "precaution_and_contradiction": "Strictly avoid if you have high blood pressure, heart disease, hernia, epilepsy, or are pregnant.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/kapalabhati-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-aD6vAhZCJx-MdsxvzEAsv4mxi1fApyDkA&s",
     "steps": [
@@ -122,7 +149,10 @@
   },
   {
     "name": "Baddha Konasana (Butterfly Pose)",
+    "about_this_pose": "A classic seated posture that opens the hips and groin. The up-and-down movement of the legs resembles the fluttering wings of a butterfly.",
     "target_benefit": "Stimulates reproductive organs, relieves menstrual discomfort, and opens hips.",
+    "precaution_and_contradiction": "Avoid if you have recent knee or groin injuries. Do not force the knees to touch the ground.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/baddha-konasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLr2kLC4mn_HidWJUvp3tb0imLokmiZ84Vg&s",
     "steps": [
@@ -135,7 +165,10 @@
   },
   {
     "name": "Viparita Karani (Legs-Up-The-Wall Pose)",
+    "about_this_pose": "A highly restorative mild inversion. Using the wall for support allows the body to fully relax while reversing the effects of gravity on the legs and pelvis.",
     "target_benefit": "Improves blood circulation, reduces edema, and relieves tired legs.",
+    "precaution_and_contradiction": "Avoid during heavy menstruation, or if you have glaucoma or unmedicated high blood pressure.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/viparita-karani-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bv8l2EHSnlA1astg4cmYEy9j1L-_uVMb9w&s",
     "steps": [
@@ -148,7 +181,10 @@
   },
   {
     "name": "Balasana (Child's Pose)",
+    "about_this_pose": "A gentle resting pose that mimics the fetal position. It is used to reset the nervous system and stretch the back gently between more intense asanas.",
     "target_benefit": "Releases tension in the back and shoulders, and relieves fatigue and anxiety.",
+    "precaution_and_contradiction": "Avoid if suffering from severe knee injuries or diarrhea. Pregnant women should widen their knees to avoid compressing the belly.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/balasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2F3IsBHlckDCqWq9ob-zYQHNIP8LOMF0Mag&s",
     "steps": [
@@ -161,7 +197,10 @@
   },
   {
     "name": "Nadi Shodhana Pranayama (Alternate Nostril Breathing)",
+    "about_this_pose": "A fundamental breathing technique that balances the left and right hemispheres of the brain and purifies the subtle energy channels (Nadis).",
     "target_benefit": "Balances the left and right hemispheres of the brain, reduces anxiety.",
+    "precaution_and_contradiction": "Generally very safe. Avoid holding the breath (Kumbhaka) if you have high blood pressure or heart issues.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/nadi-shodhana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIfYG3q5rvoRkyN18hsj4vqzlGjXN_cTgI7g&s",
     "steps": [
@@ -174,7 +213,10 @@
   },
   {
     "name": "Dhanurasana (Bow Pose)",
+    "about_this_pose": "A deep backbend where the body takes the shape of an archer's bow. It intensely stretches the entire front body while strengthening the back muscles.",
     "target_benefit": "Expands the chest, stimulates abdominal organs, and improves posture.",
+    "precaution_and_contradiction": "Avoid if suffering from high blood pressure, hernia, recent abdominal surgery, or severe lower back pain.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/dhanurasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNG-rYTUDjbt2d352mr8zXCiht6alZmIFbw&s",
     "steps": [
@@ -187,7 +229,10 @@
   },
   {
     "name": "Bhujangasana (Cobra Pose)",
+    "about_this_pose": "A foundational backbend that resembles a cobra with its hood raised. It opens the heart chakra and strengthens the spinal column.",
     "target_benefit": "Strengthens the spine, opens the heart and lungs, and relieves asthma.",
+    "precaution_and_contradiction": "Avoid during pregnancy, or if you have a severe spinal injury, hyperthyroidism, or active peptic ulcers.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/bhujangasana-demo.mp4",
     "image_url": "https://www.shutterstock.com/image-vector/woman-training-yoga-asana-cobra-600nw-2277302037.jpg",
     "steps": [
@@ -200,7 +245,10 @@
   },
   {
     "name": "Matsyasana (Fish Pose)",
+    "about_this_pose": "Traditionally performed in a Lotus position, this pose opens the throat and chest. It is usually performed as a counter-pose to the Shoulder Stand (Sarvangasana).",
     "target_benefit": "Stretches the neck and chest, highly beneficial for respiratory issues.",
+    "precaution_and_contradiction": "Avoid if you have high or low blood pressure, severe neck/cervical injuries, or migraines.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/matsyasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gyEIm8GdeAB4FjznXSTN_bKcxKicDqWN3A&s",
     "steps": [
@@ -213,7 +261,10 @@
   },
   {
     "name": "Ujjayi Pranayama (Ocean Breath)",
+    "about_this_pose": "Also known as victorious breath, this technique involves slightly constricting the back of the throat to create a soothing, ocean-like sound, generating internal heat.",
     "target_benefit": "Soothes the nervous system, warms the body, and regulates blood pressure.",
+    "precaution_and_contradiction": "Generally very safe. Introverted or deeply depressed individuals are traditionally advised not to over-practice it.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/ujjayi-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHA-YECLVtRDghDmf9bMulvAcKJ6KZw50UVg&s",
     "steps": [
@@ -226,7 +277,10 @@
   },
   {
     "name": "Jal Neti (Nasal Cleansing Kriya)",
+    "about_this_pose": "A traditional yogic purification technique (Shatkarma) using a specialized pot to flush warm, salty water through the nasal passages to clear mucus and allergens.",
     "target_benefit": "Clears nasal passages, relieves sinusitis, and improves breathing.",
+    "precaution_and_contradiction": "Avoid if you suffer from chronic nosebleeds, active ear infections, or structural septal defects.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/jal-neti-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLrVIZ6F55OvmN-674nYRW3yWK8XNFBhHmA&s",
     "steps": [
@@ -239,7 +293,10 @@
   },
   {
     "name": "Gomukhasana (Cow Face Pose)",
+    "about_this_pose": "A seated posture that deeply stretches the shoulders, armpits, triceps, and hips. The folded legs and bound arms resemble the face of a cow.",
     "target_benefit": "Stretches shoulders and arms, relieves frozen shoulder and neck tension.",
+    "precaution_and_contradiction": "Avoid if you have rotator cuff injuries, severe shoulder pain, or knee issues. Use a strap if hands cannot clasp.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/gomukhasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSglasU0uIA_kKkuaeaPljhSS-TO7S2y4IQ&s",
     "steps": [
@@ -252,7 +309,10 @@
   },
   {
     "name": "Anulom Vilom Pranayama",
+    "about_this_pose": "A highly effective alternate nostril breathing technique. Unlike Nadi Shodhana, it is often practiced dynamically without retaining the breath (Kumbhaka).",
     "target_benefit": "Clears blockages in energy channels, supports respiratory and mental health.",
+    "precaution_and_contradiction": "Extremely safe for all ages. Do not force the breath; keep the flow smooth and natural.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/anulom-vilom-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBRIpgIxKw3-lF_L8J7nMNJcBM8BQi6UOYA&s",
     "steps": [
@@ -265,7 +325,10 @@
   },
   {
     "name": "Adho Mukha Svanasana (Downward-Facing Dog)",
+    "about_this_pose": "One of the most widely recognized yoga poses. It acts as a transitional pose, a resting pose, and a strengthener, resembling a dog stretching its back legs.",
     "target_benefit": "Energizes the body, stretches hamstrings, and relieves headache.",
+    "precaution_and_contradiction": "Avoid if you have carpal tunnel syndrome, high blood pressure, detached retina, or are in late-stage pregnancy.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/adho-mukha-svanasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Ub836hFsGOXoQZNW7kc3H2mLVpQvLllNFg&s",
     "steps": [
@@ -278,7 +341,10 @@
   },
   {
     "name": "Bhastrika Pranayama (Bellows Breath)",
+    "about_this_pose": "A powerful and energetic pranayama that involves rapid, forceful inhalations and exhalations, pumping the diaphragm like a blacksmith's bellows.",
     "target_benefit": "Generates internal heat, clears the lungs, and boosts immunity.",
+    "precaution_and_contradiction": "Strictly avoid if suffering from high blood pressure, heart disease, epilepsy, stroke, or during pregnancy.",
+    "level": "Advanced",
     "video_url": "https://www.example-video-cdn.com/yoga/bhastrika-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSief8C_b5a2nWamn9c2vJYr1IPS4mz1Asw&s",
     "steps": [
@@ -291,7 +357,10 @@
   },
   {
     "name": "Simhasana (Lion Pose)",
+    "about_this_pose": "A unique pose that incorporates a facial stretch and a vocal exhale. It is known for relieving tension in the jaw and throat and combating bad breath.",
     "target_benefit": "Relieves tension in the face and chest, excellent for sore throat and speech defects.",
+    "precaution_and_contradiction": "Avoid if you have severe knee injuries or acute throat infections that make vocalizing painful.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/simhasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8UGlLV6yBEwZNmVLzkhTubFs0bX-64pcvw&s",
     "steps": [
@@ -304,7 +373,10 @@
   },
   {
     "name": "Setu Bandhasana (Bridge Pose)",
+    "about_this_pose": "A beginner-friendly backbend and inversion that builds core and lower body strength while gently opening the chest and stimulating the thyroid.",
     "target_benefit": "Strengthens the back, glutes, and hamstrings; opens the chest.",
+    "precaution_and_contradiction": "Avoid if you have neck injuries, severe spinal issues, or active shoulder pain.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/setu-bandhasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtmBWAfrzSxGu8saENKa5CqpJKHdwTxZ3WQ&s",
     "steps": [
@@ -317,7 +389,10 @@
   },
   {
     "name": "Vrikshasana (Tree Pose)",
+    "about_this_pose": "A fundamental balancing posture that teaches focus, grounding, and stability by replicating the steady stance of a tree.",
     "target_benefit": "Improves balance, focus, and concentration; strengthens the legs.",
+    "precaution_and_contradiction": "Avoid if suffering from severe vertigo or inner ear issues. Those with high blood pressure should not raise their arms above their head.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/vrikshasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4MyJiZC_mevIptKVZXoqXkCmeOLZdjVWrQ&s",
     "steps": [
@@ -330,7 +405,10 @@
   },
   {
     "name": "Yoga Nidra (Yogic Sleep)",
+    "about_this_pose": "A state of conscious deep sleep. It is a guided meditation practice that brings the practitioner to the edge of sleep while maintaining full mental awareness.",
     "target_benefit": "Deep guided relaxation that reduces insomnia, stress, and anxiety.",
+    "precaution_and_contradiction": "Individuals with severe trauma or clinical depression should practice only under the guidance of a trained therapist.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/yoga-nidra-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeWCVHviQY8MmUF2XYwSer0DY00VEkERL9Q&s",
     "steps": [
@@ -343,7 +421,10 @@
   },
   {
     "name": "Trataka (Candle Gazing)",
+    "about_this_pose": "A Shatkarma (cleansing technique) that involves intensely gazing at a single point (usually a candle flame) to develop concentration and cleanse the eyes.",
     "target_benefit": "Improves vision, relieves eye strain, and enhances memory.",
+    "precaution_and_contradiction": "Avoid if you suffer from glaucoma, epilepsy, or severe myopia/astigmatism.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/trataka-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmBS1dJQ-m6FOdB3xj2Nqk9na8VdY_oLalQ&s",
     "steps": [
@@ -356,7 +437,10 @@
   },
   {
     "name": "Ustrasana (Camel Pose)",
+    "about_this_pose": "A deep kneeling backbend that opens the entire front of the body, particularly the chest and abdomen, stimulating the respiratory and digestive systems.",
     "target_benefit": "Stretches the entire front of the body, improves posture, and relieves fatigue.",
+    "precaution_and_contradiction": "Avoid if suffering from severe lower back or neck injuries, high or low blood pressure, or migraines.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/ustrasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NRnUHWZi04lsrXLIyADnSS6vRmu3hee0xw&s",
     "steps": [
@@ -369,7 +453,10 @@
   },
   {
     "name": "Tadasana (Mountain Pose)",
+    "about_this_pose": "The foundational posture for all standing yoga poses. It aligns the skeleton and brings active awareness to posture and grounding.",
     "target_benefit": "Improves posture, strengthens thighs, and relieves sciatica.",
+    "precaution_and_contradiction": "Avoid holding for long periods if you suffer from vertigo, severe headaches, or extremely low blood pressure.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/tadasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ydxKRW9IbndnQJEER60_8vh7KNZbLYEgEg&s",
     "steps": [
@@ -382,7 +469,10 @@
   },
   {
     "name": "Trikonasana (Triangle Pose)",
+    "about_this_pose": "A foundational standing pose that creates a series of triangles with the body. It promotes deep lateral stretching and improves spinal alignment.",
     "target_benefit": "Stretches legs and torso, mobilizes hips, and relieves backache.",
+    "precaution_and_contradiction": "Avoid looking up if you have neck issues; look straight ahead instead. Those with low/high blood pressure should practice cautiously.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/trikonasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrn3WDwrsSy6gwuzonlomR_ixKylrDYv5Aw&s",
     "steps": [
@@ -395,7 +485,10 @@
   },
   {
     "name": "Marjaryasana-Bitilasana (Cat-Cow Pose)",
+    "about_this_pose": "A gentle, flowing posture that links breath to movement. It warms up the spine and relieves tension stored in the back and neck.",
     "target_benefit": "Improves spinal flexibility and relieves tension in the neck and back.",
+    "precaution_and_contradiction": "Avoid dropping the head too forcefully if you have cervical spondylosis or severe neck injuries. Cushion the knees if they are sensitive.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/cat-cow-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC18f4njL_pmahaxNgq67hrCqXUoR5Y8h_kQ&s",
     "steps": [
@@ -408,7 +501,10 @@
   },
   {
     "name": "Sarvangasana (Shoulder Stand)",
+    "about_this_pose": "Often called the 'Mother of all Asanas'. It is a powerful inversion that directs blood flow to the throat and brain, stimulating the thyroid gland.",
     "target_benefit": "Stimulates the thyroid gland, improves circulation, and prevents hair fall.",
+    "precaution_and_contradiction": "Avoid during menstruation, pregnancy, or if you have high blood pressure, glaucoma, or neck injuries.",
+    "level": "Advanced",
     "video_url": "https://www.example-video-cdn.com/yoga/sarvangasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xDZyUfbwVTeJ7CRvCZv_Nsu8WtwTO1nLAQ&s",
     "steps": [
@@ -421,7 +517,10 @@
   },
   {
     "name": "Bhramari Pranayama (Bee Breath)",
+    "about_this_pose": "A soothing breathing practice where the exhalation mimics the humming sound of a bee. It relies on sound vibration to instantly calm a busy mind.",
     "target_benefit": "Instantly calms the mind, relieves tension headaches, and reduces anger.",
+    "precaution_and_contradiction": "Avoid if you have an active, painful ear infection. Never press hard on the ear cartilage.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/bhramari-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfJ4WoAeyftigIsIX3A1nsrrCa7RjWX2rZg&s",
     "steps": [
@@ -434,7 +533,10 @@
   },
   {
     "name": "Navasana (Boat Pose)",
+    "about_this_pose": "A core-intensive pose where the body balances on the sitting bones, forming a 'V' shape. It builds immense abdominal strength and focus.",
     "target_benefit": "Strengthens the core, improves digestion, and supports weight management.",
+    "precaution_and_contradiction": "Avoid if you are pregnant, menstruating, or have severe lower back pain, asthma, or a hernia.",
+    "level": "Intermediate",
     "video_url": "https://www.example-video-cdn.com/yoga/navasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLp3e8-ctLoRPK8MVyyI5HQuQPX_LW3CyjQ&s",
     "steps": [
@@ -447,7 +549,10 @@
   },
   {
     "name": "Halasana (Plow Pose)",
+    "about_this_pose": "An intense inversion where the legs are dropped behind the head, resembling an agricultural plow. It deeply stretches the spine and hamstrings.",
     "target_benefit": "Calms the brain, stimulates the thyroid, and stretches the spine and shoulders.",
+    "precaution_and_contradiction": "Avoid if you have cervical spondylosis, neck/shoulder injuries, high blood pressure, or are pregnant.",
+    "level": "Advanced",
     "video_url": "https://www.example-video-cdn.com/yoga/halasana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyh7joLfHR4Xd2Jf0C-K1J3CxT0YaZBffjVA&s",
     "steps": [
@@ -460,7 +565,10 @@
   },
   {
     "name": "Agnisar Kriya",
+    "about_this_pose": "A highly advanced yogic cleansing technique. Agni means 'fire', and this practice involves a rapid flapping of the abdominal wall to stimulate the digestive fire.",
     "target_benefit": "Stimulates the digestive fire, tones abdominal organs, and improves sluggish metabolism.",
+    "precaution_and_contradiction": "Strictly avoid during pregnancy, menstruation, and if you have high blood pressure, heart disease, or stomach ulcers.",
+    "level": "Advanced",
     "video_url": "https://www.example-video-cdn.com/yoga/agnisar-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__XrKaJ30hhBa1iBTEdBnd-u7nSvXxSLf7A&s",
     "steps": [
@@ -473,7 +581,10 @@
   },
   {
     "name": "Griva Sanchalana (Neck Rolls)",
+    "about_this_pose": "A foundational joint-freeing exercise (Sukshma Vyayama). It gently lubricates the cervical spine and releases accumulated tension in the neck.",
     "target_benefit": "Releases accumulated tension in the cervical spine and shoulders.",
+    "precaution_and_contradiction": "Avoid dropping the head backward if you have severe cervical spondylosis or dizziness.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/griva-sanchalana-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0vx34ZJdL0oK-xMfiMmWl8XBlmKMbZbqWA&s",
     "steps": [
@@ -486,7 +597,10 @@
   },
   {
     "name": "Palming",
+    "about_this_pose": "A simple, highly effective relaxation technique for the eyes, often done after Trataka (candle gazing) or long hours of screen time.",
     "target_benefit": "Soothes the optic nerve, relaxes facial muscles, and relieves eye strain.",
+    "precaution_and_contradiction": "Completely safe. Avoid pressing your palms directly onto the eyeballs; cup them over the eye sockets instead.",
+    "level": "Beginner",
     "video_url": "https://www.example-video-cdn.com/yoga/palming-demo.mp4",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoECM8aVHBoDgqQRT8oidAAyz0hGY-V1MEw&s",
     "steps": [

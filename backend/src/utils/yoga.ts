@@ -21,6 +21,9 @@ export async function yogaInfo(query: string) {
         You need to give output in the following manner :-
         {
           "name": "",
+          "about_thid_pose": "",
+          "precaution_and_contradiction": "",
+          "level": "",
           "target_benefit": "",
           "video_url": "",
           "image_url": "",
@@ -37,7 +40,10 @@ export async function yogaInfo(query: string) {
         Q: Vajrasana
         A: {
             "name": "Vajrasana (Thunderbolt Pose)",
+            "about_this_pose": "Vajrasana is a kneeling posture that alters the flow of blood and nervous impulses in the pelvic region. It is uniquely known as the only yoga posture that can and should be practiced immediately after meals to enhance digestion.",
             "target_benefit": "Improves digestion, prevents acidity, and strengthens pelvic muscles.",
+            "precaution_and_contradiction": "Avoid if you have severe knee pain, recent knee or ankle surgery, or slip disc conditions.",
+            "level": "Beginner",
             "video_url": "https://media.tenor.com/F9rKPugvM1IAAAA1/eijaz-eijaz-khan.webp",
             "image_url": "https://yogajala.com/wp-content/uploads/2022/11/Yoga-Pose-How-To-Diagrams-26.jpg",
             "steps": [
@@ -52,7 +58,10 @@ export async function yogaInfo(query: string) {
         Q: Sheetali Pranayama
         A: {
             "name": "Sheetali Pranayama (Cooling Breath)",
+            "about_this_pose": "Sheetali means 'cooling' in Sanskrit. This breathing technique involves drawing air across a rolled tongue to physically cool the body and calm the nervous system.",
             "target_benefit": "Cools the body, reduces acidity, and calms the nervous system.",
+            "precaution_and_contradiction": "Avoid during cold weather, or if suffering from low blood pressure, severe asthma, or respiratory congestion.",
+            "level": "Beginner",
             "video_url": "https://media.tenor.com/aJW49KbUcmcAAAA1/moumita-yoga.webp",
             "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMxmJrN7KQ0yKJ5b1jResW7eKMXK9qiv0tWg&s",
             "steps": [
