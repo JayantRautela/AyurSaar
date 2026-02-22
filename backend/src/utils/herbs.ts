@@ -1,10 +1,4 @@
-import Groq from "groq-sdk";
-import { tavily } from '@tavily/core';
-import dotenv from "dotenv";
-dotenv.config();
-
-const tav = tavily({ apiKey: process.env.TAVILY_API_KEY!});
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY! });
+import { groq, tav } from "../config/ai.js";
 
 export interface Message {
   role: "system" | "user" | "assistant" | "tool";
@@ -37,7 +31,7 @@ export async function getherbInfo(query: string) {
           "used_for": ["", ""],
           "preparation": "",
           "safety": "",
-          "Image_url": ""
+          "image_url": ""
         }
         Follow this json format only.
         Do not wrap in markdown.
@@ -156,7 +150,7 @@ export async function getherbInfo(query: string) {
   }
 }
 
-async function webSearch({ query }: { query: string}) {
+export async function webSearch({ query }: { query: string}) {
     console.log('Calling web search...');
 
     const response = await tav.search(query);

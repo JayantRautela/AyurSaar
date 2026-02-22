@@ -5,6 +5,7 @@ dotenv.config();
 import UserRouter from "./routes/user.route.js";
 import ChatRouter from "./routes/chat.route.js";
 import HerbRouter from "./routes/herb.route.js";
+import YogaRouter from "./routes/yoga.route.js";
 // import { indexAllData } from "./scripts/indexData.js";
 
 const app = express();
@@ -16,6 +17,7 @@ const PORT = process.env.PORT;
 app.use('/api/v1/user', UserRouter);
 app.use('/api/v1/chat', ChatRouter);
 app.use('/api/v1/herb', HerbRouter);
+app.use('/api/v1/yoga', YogaRouter);
 
 // indexAllData();
 
