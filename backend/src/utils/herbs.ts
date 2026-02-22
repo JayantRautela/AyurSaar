@@ -27,6 +27,7 @@ export async function getherbInfo(query: string) {
         webSearch(query: string): Use this to search the internet for current or unknown information.
         Decide when to use your own knowledge and when to use the tool.
         Do not mention the tool unless needed.
+        For images search the web and only give real and authentic sources.
 
         You need to give output in the following manner :-
         {
@@ -35,7 +36,8 @@ export async function getherbInfo(query: string) {
           "benefits": ["", ""],
           "used_for": ["", ""],
           "preparation": "",
-          "safety": ""
+          "safety": "",
+          "Image_url": ""
         }
         Follow this json format only.
         Do not wrap in markdown.
@@ -46,6 +48,7 @@ export async function getherbInfo(query: string) {
         Q: Ashwagandha
         A: { 
           "name": "Ashwagandha",
+          "scientific_name": "Withania somnifera",
           "benefits": [
             "Stress relief",
             "Immunity boost"
@@ -55,7 +58,8 @@ export async function getherbInfo(query: string) {
             "Fatigue"
           ],
           "preparation": "Powder with warm milk",
-          "safety": "Avoid during pregnancy; may cause drowsiness"
+          "safety": "Avoid during pregnancy; may cause drowsiness",
+          "image_url": "https://www.google.com/imgres?q=ashwagandha&imgurl=https%3A%2F%2Fwww.dabur.com%2FMedical%2520Plants%2FAshwagandha%2520%25281%2529.jpg&imgrefurl=https%3A%2F%2Fwww.dabur.com%2Fayurveda%2Fayurvedic-medicinal-plants%2Fashwagandha&docid=uUz9bU06AEgIUM&tbnid=P3ev-8aYQLkXrM&vet=12ahUKEwiCm67Q1-ySAxU0XWwGHT-JFGkQnPAOegQIERAB..i&w=450&h=450&hcb=2&ved=2ahUKEwiCm67Q1-ySAxU0XWwGHT-JFGkQnPAOegQIERAB"
         } 
 
         Q: Tulsi(Basil Leaf)
@@ -71,7 +75,8 @@ export async function getherbInfo(query: string) {
             "Mild fever"
           ],
           "preparation": "Decoction (Kadha) or fresh leaves",
-          "safety": "Generally safe; avoid excessive use if trying to conceive"
+          "safety": "Generally safe; avoid excessive use if trying to conceive",
+          "image_url": "https://www.google.com/imgres?q=neem&imgurl=https%3A%2F%2Fwww.dabur.com%2FMedical%2520Plants%2FNeem_1917057650%2520%25283%2529.jpg&imgrefurl=https%3A%2F%2Fwww.dabur.com%2Fayurveda%2Fayurvedic-medicinal-plants%2Fneem&docid=d54pEVo2ilGP6M&tbnid=jKu7NqAJhyURsM&vet=12ahUKEwj_7sPi1-ySAxU8SmwGHWqzH_MQnPAOegQIHRAB..i&w=450&h=450&hcb=2&ved=2ahUKEwj_7sPi1-ySAxU8SmwGHWqzH_MQnPAOegQIHRAB"
         },
       `
     },
