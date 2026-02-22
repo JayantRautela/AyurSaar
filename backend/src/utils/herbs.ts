@@ -31,6 +31,7 @@ export async function getherbInfo(query: string) {
         You need to give output in the following manner :-
         {
           "name": "",
+          "scientific_name: "",
           "benefits": ["", ""],
           "used_for": ["", ""],
           "preparation": "",

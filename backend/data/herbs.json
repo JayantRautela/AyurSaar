@@ -1,1509 +1,974 @@
 [
   {
     "name": "Ashwagandha",
-    "benefits": [
-      "Stress relief",
-      "Immunity boost"
-    ],
-    "used_for": [
-      "Anxiety",
-      "Fatigue"
-    ],
+    "scientific_name": "Withania somnifera",
+    "benefits": ["Stress relief", "Immunity boost"],
+    "used_for": ["Anxiety", "Fatigue"],
     "preparation": "Powder with warm milk",
-    "safety": "Avoid during pregnancy; may cause drowsiness"
+    "safety": "Avoid during pregnancy; may cause drowsiness [cite: 1]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Ashwagandha"
   },
   {
     "name": "Tulsi (Holy Basil)",
-    "benefits": [
-      "Respiratory support",
-      "Antioxidant"
-    ],
-    "used_for": [
-      "Cough",
-      "Cold",
-      "Mild fever"
-    ],
+    "scientific_name": "Ocimum tenuiflorum",
+    "benefits": ["Respiratory support", "Antioxidant"],
+    "used_for": ["Cough", "Cold", "Mild fever"],
     "preparation": "Decoction (Kadha) or fresh leaves",
-    "safety": "Generally safe; avoid excessive use if trying to conceive"
+    "safety": "Generally safe; avoid excessive use if trying to conceive [cite: 2]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Tulsi"
   },
   {
     "name": "Neem",
-    "benefits": [
-      "Blood purification",
-      "Skin health"
-    ],
-    "used_for": [
-      "Acne",
-      "Infections",
-      "Dandruff"
-    ],
+    "scientific_name": "Azadirachta indica",
+    "benefits": ["Blood purification", "Skin health"],
+    "used_for": ["Acne", "Infections", "Dandruff"],
     "preparation": "Paste for external use; juice or tablets internally",
-    "safety": "Avoid prolonged internal use; contraindicated in pregnancy"
+    "safety": "Avoid prolonged internal use; contraindicated in pregnancy [cite: 3]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Neem"
   },
   {
     "name": "Brahmi",
-    "benefits": [
-      "Cognitive enhancement",
-      "Nervous system support"
-    ],
-    "used_for": [
-      "Memory loss",
-      "Stress",
-      "Insomnia"
-    ],
+    "scientific_name": "Bacopa monnieri",
+    "benefits": ["Cognitive enhancement", "Nervous system support"],
+    "used_for": ["Memory loss", "Stress", "Insomnia"],
     "preparation": "Powder with ghee or warm water",
-    "safety": "May cause mild stomach upset on an empty stomach"
+    "safety": "May cause mild stomach upset on an empty stomach [cite: 4]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Brahmi"
   },
   {
     "name": "Amla (Indian Gooseberry)",
-    "benefits": [
-      "High Vitamin C",
-      "Hair and eye health"
-    ],
-    "used_for": [
-      "Indigestion",
-      "Immunity",
-      "Hair fall"
-    ],
+    "scientific_name": "Phyllanthus emblica",
+    "benefits": ["High Vitamin C", "Hair and eye health"],
+    "used_for": ["Indigestion", "Immunity", "Hair fall"],
     "preparation": "Fresh juice or dried powder (Churna)",
-    "safety": "May increase acidity if taken in excess on an empty stomach"
+    "safety": "May increase acidity if taken in excess on an empty stomach [cite: 5]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Amla"
   },
   {
     "name": "Turmeric (Haldi)",
-    "benefits": [
-      "Anti-inflammatory",
-      "Antimicrobial"
-    ],
-    "used_for": [
-      "Joint pain",
-      "Wounds",
-      "Coughs"
-    ],
+    "scientific_name": "Curcuma longa",
+    "benefits": ["Anti-inflammatory", "Antimicrobial"],
+    "used_for": ["Joint pain", "Wounds", "Coughs"],
     "preparation": "Powder with warm milk (Golden Milk) or in cooking",
-    "safety": "High doses may cause gastrointestinal upset; caution with blood thinners"
+    "safety": "High doses may cause gastrointestinal upset; caution with blood thinners [cite: 6]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Turmeric"
   },
   {
     "name": "Giloy (Guduchi)",
-    "benefits": [
-      "Immune modulation",
-      "Detoxification"
-    ],
-    "used_for": [
-      "Chronic fever",
-      "Gout",
-      "Immunity"
-    ],
+    "scientific_name": "Tinospora cordifolia",
+    "benefits": ["Immune modulation", "Detoxification"],
+    "used_for": ["Chronic fever", "Gout", "Immunity"],
     "preparation": "Decoction of the stem or fresh juice",
-    "safety": "May lower blood sugar; diabetics should monitor levels"
+    "safety": "May lower blood sugar; diabetics should monitor levels [cite: 7]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Giloy"
   },
   {
     "name": "Shatavari",
-    "benefits": [
-      "Female reproductive health",
-      "Cooling effect"
-    ],
-    "used_for": [
-      "Hormonal imbalance",
-      "Lactation support",
-      "Ulcers"
-    ],
+    "scientific_name": "Asparagus racemosus",
+    "benefits": ["Female reproductive health", "Cooling effect"],
+    "used_for": ["Hormonal imbalance", "Lactation support", "Ulcers"],
     "preparation": "Powder with milk or ghee",
-    "safety": "Avoid in cases of severe congestion or estrogen-sensitive conditions"
+    "safety": "Avoid in cases of severe congestion or estrogen-sensitive conditions [cite: 7]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Shatavari"
   },
   {
     "name": "Arjuna",
-    "benefits": [
-      "Cardiovascular health",
-      "Strengthens heart muscles"
-    ],
-    "used_for": [
-      "High blood pressure",
-      "Angina",
-      "Cholesterol management"
-    ],
+    "scientific_name": "Terminalia arjuna",
+    "benefits": ["Cardiovascular health", "Strengthens heart muscles"],
+    "used_for": ["High blood pressure", "Angina", "Cholesterol management"],
     "preparation": "Bark decoction (Kshir Pak) with milk",
-    "safety": "Consult a doctor if on allopathic heart medications"
+    "safety": "Consult a doctor if on allopathic heart medications [cite: 8]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Arjuna"
   },
   {
     "name": "Guggul",
-    "benefits": [
-      "Lipid metabolism",
-      "Joint health"
-    ],
-    "used_for": [
-      "Obesity",
-      "Arthritis",
-      "High cholesterol"
-    ],
+    "scientific_name": "Commiphora wightii",
+    "benefits": ["Lipid metabolism", "Joint health"],
+    "used_for": ["Obesity", "Arthritis", "High cholesterol"],
     "preparation": "Purified resin tablets",
-    "safety": "Avoid during pregnancy and if hyperthyroid; may cause mild GI distress"
+    "safety": "Avoid during pregnancy and if hyperthyroid; may cause mild GI distress [cite: 10]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Guggul"
   },
   {
     "name": "Shilajit",
-    "benefits": [
-      "Energy and vitality",
-      "Rejuvenation"
-    ],
-    "used_for": [
-      "Weakness",
-      "Anti-aging",
-      "Stamina"
-    ],
+    "scientific_name": "Asphaltum punjabianum",
+    "benefits": ["Energy and vitality", "Rejuvenation"],
+    "used_for": ["Weakness", "Anti-aging", "Stamina"],
     "preparation": "Pea-sized resin dissolved in warm milk or water",
-    "safety": "Must be purified; avoid in high uric acid conditions"
+    "safety": "Must be purified; avoid in high uric acid conditions [cite: 11]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Shilajit"
   },
   {
     "name": "Mulethi (Licorice)",
-    "benefits": [
-      "Throat soothing",
-      "Acid reflux relief"
-    ],
-    "used_for": [
-      "Sore throat",
-      "Cough",
-      "Hyperacidity"
-    ],
+    "scientific_name": "Glycyrrhiza glabra",
+    "benefits": ["Throat soothing", "Acid reflux relief"],
+    "used_for": ["Sore throat", "Cough", "Hyperacidity"],
     "preparation": "Chew raw sticks or powder with honey",
-    "safety": "High doses can cause high blood pressure and water retention"
+    "safety": "High doses can cause high blood pressure and water retention [cite: 11]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Mulethi"
   },
   {
     "name": "Haritaki",
-    "benefits": [
-      "Digestive health",
-      "Detoxification"
-    ],
-    "used_for": [
-      "Constipation",
-      "Bloating"
-    ],
+    "scientific_name": "Terminalia chebula",
+    "benefits": ["Digestive health", "Detoxification"],
+    "used_for": ["Constipation", "Bloating"],
     "preparation": "Powder with warm water at bedtime",
-    "safety": "Avoid during pregnancy and extreme dehydration"
+    "safety": "Avoid during pregnancy and extreme dehydration [cite: 12]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Haritaki"
   },
   {
     "name": "Bibhitaki",
-    "benefits": [
-      "Respiratory clearing",
-      "Astringent"
-    ],
-    "used_for": [
-      "Asthma",
-      "Mucus congestion",
-      "Sore throat"
-    ],
+    "scientific_name": "Terminalia bellirica",
+    "benefits": ["Respiratory clearing", "Astringent"],
+    "used_for": ["Asthma", "Mucus congestion", "Sore throat"],
     "preparation": "Powder with warm water or honey",
-    "safety": "Avoid in cases of extreme dryness in the body"
+    "safety": "Avoid in cases of extreme dryness in the body [cite: 13]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Bibhitaki"
   },
   {
     "name": "Aloe Vera (Ghrita Kumari)",
-    "benefits": [
-      "Skin healing",
-      "Digestive cooling"
-    ],
-    "used_for": [
-      "Burns",
-      "Acne",
-      "Constipation"
-    ],
+    "scientific_name": "Aloe barbadensis miller",
+    "benefits": ["Skin healing", "Digestive cooling"],
+    "used_for": ["Burns", "Acne", "Constipation"],
     "preparation": "Fresh gel applied topically or juice taken internally",
-    "safety": "Internal use should be avoided during pregnancy (can stimulate contractions)"
+    "safety": "Internal use should be avoided during pregnancy (can stimulate contractions) [cite: 14]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Aloe+Vera"
   },
   {
     "name": "Ginger (Adrak/Shunthi)",
-    "benefits": [
-      "Digestive fire (Agni) booster",
-      "Anti-nausea"
-    ],
-    "used_for": [
-      "Indigestion",
-      "Motion sickness",
-      "Cold"
-    ],
+    "scientific_name": "Zingiber officinale",
+    "benefits": ["Digestive fire (Agni) booster", "Anti-nausea"],
+    "used_for": ["Indigestion", "Motion sickness", "Cold"],
     "preparation": "Fresh juice, tea, or dried powder",
-    "safety": "May worsen acid reflux or bleeding disorders in high doses"
+    "safety": "May worsen acid reflux or bleeding disorders in high doses [cite: 15]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Ginger"
   },
   {
     "name": "Garlic (Lahsun)",
-    "benefits": [
-      "Cardio-protective",
-      "Antimicrobial"
-    ],
-    "used_for": [
-      "High cholesterol",
-      "Immunity",
-      "Earache"
-    ],
+    "scientific_name": "Allium sativum",
+    "benefits": ["Cardio-protective", "Antimicrobial"],
+    "used_for": ["High cholesterol", "Immunity", "Earache"],
     "preparation": "Raw cloves on an empty stomach or infused oil",
-    "safety": "Can cause bad breath, heartburn; acts as a mild blood thinner"
+    "safety": "Can cause bad breath, heartburn; acts as a mild blood thinner [cite: 16]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Garlic"
   },
   {
     "name": "Pippali (Long Pepper)",
-    "benefits": [
-      "Bioavailability enhancer",
-      "Lung health"
-    ],
-    "used_for": [
-      "Asthma",
-      "Bronchitis",
-      "Sluggish digestion"
-    ],
+    "scientific_name": "Piper longum",
+    "benefits": ["Bioavailability enhancer", "Lung health"],
+    "used_for": ["Asthma", "Bronchitis", "Sluggish digestion"],
     "preparation": "Powder with honey or in Trikatu blend",
-    "safety": "Heating nature; avoid in high Pitta (acidity/ulcer) conditions"
+    "safety": "Heating nature; avoid in high Pitta (acidity/ulcer) conditions [cite: 17]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Pippali"
   },
   {
     "name": "Black Pepper (Kali Mirch)",
-    "benefits": [
-      "Metabolism booster",
-      "Clears ama (toxins)"
-    ],
-    "used_for": [
-      "Cold",
-      "Cough",
-      "Low appetite"
-    ],
+    "scientific_name": "Piper nigrum",
+    "benefits": ["Metabolism booster", "Clears ama (toxins)"],
+    "used_for": ["Cold", "Cough", "Low appetite"],
     "preparation": "Crushed with honey or added to food",
-    "safety": "Can irritate the stomach lining in high doses"
+    "safety": "Can irritate the stomach lining in high doses [cite: 17]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Black+Pepper"
   },
   {
     "name": "Cinnamon (Dalchini)",
-    "benefits": [
-      "Blood sugar regulation",
-      "Circulation"
-    ],
-    "used_for": [
-      "Diabetes support",
-      "Cold extremities",
-      "Cramps"
-    ],
+    "scientific_name": "Cinnamomum verum",
+    "benefits": ["Blood sugar regulation", "Circulation"],
+    "used_for": ["Diabetes support", "Cold extremities", "Cramps"],
     "preparation": "Powder in tea or food",
-    "safety": "Avoid high doses of Cassia cinnamon due to coumarin content"
+    "safety": "Avoid high doses of Cassia cinnamon due to coumarin content [cite: 18]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Cinnamon"
   },
   {
     "name": "Clove (Laung)",
-    "benefits": [
-      "Analgesic",
-      "Digestive"
-    ],
-    "used_for": [
-      "Toothache",
-      "Nausea",
-      "Cough"
-    ],
+    "scientific_name": "Syzygium aromaticum",
+    "benefits": ["Analgesic", "Digestive"],
+    "used_for": ["Toothache", "Nausea", "Cough"],
     "preparation": "Chew whole clove or apply essential oil locally",
-    "safety": "Essential oil must be diluted; excessive use can damage gums"
+    "safety": "Essential oil must be diluted; excessive use can damage gums [cite: 20]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Clove"
   },
   {
     "name": "Cardamom (Elaichi)",
-    "benefits": [
-      "Breath freshener",
-      "Digestive aid"
-    ],
-    "used_for": [
-      "Halitosis",
-      "Bloating",
-      "Nausea"
-    ],
+    "scientific_name": "Elettaria cardamomum",
+    "benefits": ["Breath freshener", "Digestive aid"],
+    "used_for": ["Halitosis", "Bloating", "Nausea"],
     "preparation": "Chew seeds or add powder to tea/desserts",
-    "safety": "Very safe; excessive amounts may trigger gallstone pain in sensitive individuals"
+    "safety": "Very safe; excessive amounts may trigger gallstone pain in sensitive individuals [cite: 21]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Cardamom"
   },
   {
     "name": "Fennel (Saunf)",
-    "benefits": [
-      "Cooling digestion",
-      "Antispasmodic"
-    ],
-    "used_for": [
-      "Gas",
-      "Cramps",
-      "Acidity"
-    ],
+    "scientific_name": "Foeniculum vulgare",
+    "benefits": ["Cooling digestion", "Antispasmodic"],
+    "used_for": ["Gas", "Cramps", "Acidity"],
     "preparation": "Chew seeds after meals or make tea",
-    "safety": "Generally safe for everyone including children"
+    "safety": "Generally safe for everyone including children [cite: 21]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Fennel"
   },
   {
     "name": "Cumin (Jeera)",
-    "benefits": [
-      "Improves absorption",
-      "Digestive stimulant"
-    ],
-    "used_for": [
-      "Diarrhea",
-      "Indigestion",
-      "Bloating"
-    ],
+    "scientific_name": "Cuminum cyminum",
+    "benefits": ["Improves absorption", "Digestive stimulant"],
+    "used_for": ["Diarrhea", "Indigestion", "Bloating"],
     "preparation": "Roasted powder in buttermilk or boiled water",
-    "safety": "Generally safe in food quantities"
+    "safety": "Generally safe in food quantities [cite: 22]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Cumin"
   },
   {
     "name": "Coriander (Dhaniya)",
-    "benefits": [
-      "Cooling",
-      "Urinary tract support"
-    ],
-    "used_for": [
-      "UTI",
-      "Burning sensation",
-      "Fever"
-    ],
+    "scientific_name": "Coriandrum sativum",
+    "benefits": ["Cooling", "Urinary tract support"],
+    "used_for": ["UTI", "Burning sensation", "Fever"],
     "preparation": "Cold infusion of crushed seeds",
-    "safety": "Generally safe"
+    "safety": "Generally safe [cite: 23]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Coriander"
   },
   {
     "name": "Fenugreek (Methi)",
-    "benefits": [
-      "Regulates blood sugar",
-      "Joint lubrication"
-    ],
-    "used_for": [
-      "Diabetes",
-      "Stiffness",
-      "Lactation"
-    ],
+    "scientific_name": "Trigonella foenum-graecum",
+    "benefits": ["Regulates blood sugar", "Joint lubrication"],
+    "used_for": ["Diabetes", "Stiffness", "Lactation"],
     "preparation": "Soaked seeds chewed in the morning",
-    "safety": "May cause diarrhea in large doses; monitor blood sugar if diabetic"
+    "safety": "May cause diarrhea in large doses; monitor blood sugar if diabetic [cite: 25]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Fenugreek"
   },
   {
     "name": "Ajwain (Carom Seeds)",
-    "benefits": [
-      "Relieves gas",
-      "Bronchodilator"
-    ],
-    "used_for": [
-      "Severe bloating",
-      "Colic",
-      "Asthma"
-    ],
+    "scientific_name": "Trachyspermum ammi",
+    "benefits": ["Relieves gas", "Bronchodilator"],
+    "used_for": ["Severe bloating", "Colic", "Asthma"],
     "preparation": "Chew with a pinch of black salt or boil in water",
-    "safety": "Heating nature; may worsen hyperacidity"
+    "safety": "Heating nature; may worsen hyperacidity [cite: 26]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Ajwain"
   },
   {
     "name": "Mint (Pudina)",
-    "benefits": [
-      "Cooling",
-      "Soothes stomach"
-    ],
-    "used_for": [
-      "IBS",
-      "Nausea",
-      "Headache"
-    ],
+    "scientific_name": "Mentha spicata",
+    "benefits": ["Cooling", "Soothes stomach"],
+    "used_for": ["IBS", "Nausea", "Headache"],
     "preparation": "Fresh leaf chutney or tea",
-    "safety": "Can relax the esophageal sphincter, worsening severe GERD"
+    "safety": "Can relax the esophageal sphincter, worsening severe GERD [cite: 26]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Mint"
   },
   {
     "name": "Bhringraj",
-    "benefits": [
-      "Hair growth",
-      "Liver tonic"
-    ],
-    "used_for": [
-      "Premature graying",
-      "Hair loss",
-      "Liver sluggishness"
-    ],
+    "scientific_name": "Eclipta prostrata",
+    "benefits": ["Hair growth", "Liver tonic"],
+    "used_for": ["Premature graying", "Hair loss", "Liver sluggishness"],
     "preparation": "Infused in oil for scalp, powder for internal use",
-    "safety": "Cooling nature; use cautiously if prone to severe chills"
+    "safety": "Cooling nature; use cautiously if prone to severe chills [cite: 28]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Bhringraj"
   },
   {
     "name": "Jatamansi",
-    "benefits": [
-      "Calms the mind",
-      "Promotes sleep"
-    ],
-    "used_for": [
-      "Insomnia",
-      "Anxiety",
-      "Palpitations"
-    ],
+    "scientific_name": "Nardostachys jatamansi",
+    "benefits": ["Calms the mind", "Promotes sleep"],
+    "used_for": ["Insomnia", "Anxiety", "Palpitations"],
     "preparation": "Powder or decoction at bedtime",
-    "safety": "High doses may cause mild nausea or laxative effect"
+    "safety": "High doses may cause mild nausea or laxative effect [cite: 28]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Jatamansi"
   },
   {
     "name": "Shankhpushpi",
-    "benefits": [
-      "Brain tonic",
-      "Improves concentration"
-    ],
-    "used_for": [
-      "Mental fatigue",
-      "ADHD support",
-      "Memory"
-    ],
+    "scientific_name": "Convolvulus prostratus",
+    "benefits": ["Brain tonic", "Improves concentration"],
+    "used_for": ["Mental fatigue", "ADHD support", "Memory"],
     "preparation": "Syrup or powder with milk",
-    "safety": "Generally very safe, even for children"
+    "safety": "Generally very safe, even for children [cite: 29]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Shankhpushpi"
   },
   {
     "name": "Ashoka",
-    "benefits": [
-      "Uterine tonic",
-      "Astringent"
-    ],
-    "used_for": [
-      "Menstrual pain",
-      "Heavy bleeding",
-      "Leucorrhea"
-    ],
+    "scientific_name": "Saraca asoca",
+    "benefits": ["Uterine tonic", "Astringent"],
+    "used_for": ["Menstrual pain", "Heavy bleeding", "Leucorrhea"],
     "preparation": "Bark decoction (Kshir Pak)",
-    "safety": "Avoid during pregnancy; consult doctor for severe fibroids"
+    "safety": "Avoid during pregnancy; consult doctor for severe fibroids [cite: 31]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Ashoka"
   },
   {
     "name": "Manjistha",
-    "benefits": [
-      "Blood purifying",
-      "Lymphatic drainage"
-    ],
-    "used_for": [
-      "Pigmentation",
-      "Eczema",
-      "Gout"
-    ],
+    "scientific_name": "Rubia cordifolia",
+    "benefits": ["Blood purifying", "Lymphatic drainage"],
+    "used_for": ["Pigmentation", "Eczema", "Gout"],
     "preparation": "Powder with warm water or honey",
-    "safety": "May turn urine slightly red/orange (harmless)"
+    "safety": "May turn urine slightly red/orange (harmless) [cite: 31]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Manjistha"
   },
   {
     "name": "Kutki",
-    "benefits": [
-      "Hepato-protective",
-      "Bitter tonic"
-    ],
-    "used_for": [
-      "Jaundice",
-      "Liver detox",
-      "Sluggish digestion"
-    ],
+    "scientific_name": "Picrorhiza kurroa",
+    "benefits": ["Hepato-protective", "Bitter tonic"],
+    "used_for": ["Jaundice", "Liver detox", "Sluggish digestion"],
     "preparation": "Small pinch of powder with honey or warm water",
-    "safety": "Very bitter and cooling; avoid in severe diarrhea"
+    "safety": "Very bitter and cooling; avoid in severe diarrhea [cite: 33]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kutki"
   },
   {
     "name": "Kalmegh",
-    "benefits": [
-      "Antiviral",
-      "Liver support"
-    ],
-    "used_for": [
-      "Viral fevers",
-      "Hepatitis",
-      "Parasites"
-    ],
+    "scientific_name": "Andrographis paniculata",
+    "benefits": ["Antiviral", "Liver support"],
+    "used_for": ["Viral fevers", "Hepatitis", "Parasites"],
     "preparation": "Decoction or tablets",
-    "safety": "Extremely bitter; may cause vomiting if taken on an empty stomach"
+    "safety": "Extremely bitter; may cause vomiting if taken on an empty stomach [cite: 34]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kalmegh"
   },
   {
     "name": "Punarnava",
-    "benefits": [
-      "Diuretic",
-      "Kidney support"
-    ],
-    "used_for": [
-      "Edema",
-      "Kidney stones",
-      "Urinary issues"
-    ],
+    "scientific_name": "Boerhavia diffusa",
+    "benefits": ["Diuretic", "Kidney support"],
+    "used_for": ["Edema", "Kidney stones", "Urinary issues"],
     "preparation": "Juice of fresh plant or dried powder decoction",
-    "safety": "Monitor potassium levels if on allopathic diuretics"
+    "safety": "Monitor potassium levels if on allopathic diuretics [cite: 34]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Punarnava"
   },
   {
     "name": "Gokshura",
-    "benefits": [
-      "Rejuvenating",
-      "Urinary tract health"
-    ],
-    "used_for": [
-      "Prostate health",
-      "Kidney stones",
-      "Low libido"
-    ],
+    "scientific_name": "Tribulus terrestris",
+    "benefits": ["Rejuvenating", "Urinary tract health"],
+    "used_for": ["Prostate health", "Kidney stones", "Low libido"],
     "preparation": "Powder boiled in water or milk",
-    "safety": "Avoid in cases of severe dehydration"
+    "safety": "Avoid in cases of severe dehydration [cite: 35]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Gokshura"
   },
   {
     "name": "Bael (Bilva)",
-    "benefits": [
-      "Bowel regulation",
-      "Astringent"
-    ],
-    "used_for": [
-      "Diarrhea",
-      "Dysentery",
-      "IBS"
-    ],
+    "scientific_name": "Aegle marmelos",
+    "benefits": ["Bowel regulation", "Astringent"],
+    "used_for": ["Diarrhea", "Dysentery", "IBS"],
     "preparation": "Pulp of the raw/ripe fruit or powder of dried fruit",
-    "safety": "Overconsumption of ripe fruit can cause severe constipation"
+    "safety": "Overconsumption of ripe fruit can cause severe constipation [cite: 36]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Bael"
   },
   {
     "name": "Vasaka (Adhatoda)",
-    "benefits": [
-      "Expectorant",
-      "Bronchodilator"
-    ],
-    "used_for": [
-      "Productive cough",
-      "Asthma",
-      "Bleeding disorders"
-    ],
+    "scientific_name": "Justicia adhatoda",
+    "benefits": ["Expectorant", "Bronchodilator"],
+    "used_for": ["Productive cough", "Asthma", "Bleeding disorders"],
     "preparation": "Fresh leaf juice with honey",
-    "safety": "Avoid during pregnancy (can cause uterine contractions)"
+    "safety": "Avoid during pregnancy (can cause uterine contractions) [cite: 37]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Vasaka"
   },
   {
     "name": "Bala",
-    "benefits": [
-      "Strength promoting",
-      "Nerve tonic"
-    ],
-    "used_for": [
-      "Muscle weakness",
-      "Paralysis",
-      "Fatigue"
-    ],
+    "scientific_name": "Sida cordifolia",
+    "benefits": ["Strength promoting", "Nerve tonic"],
+    "used_for": ["Muscle weakness", "Paralysis", "Fatigue"],
     "preparation": "Powder with milk or used as massage oil",
-    "safety": "Contains mild ephedrine-like alkaloids; use cautiously with high BP"
+    "safety": "Contains mild ephedrine-like alkaloids; use cautiously with high BP [cite: 39]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Bala"
   },
   {
     "name": "Safed Musli",
-    "benefits": [
-      "Aphrodisiac",
-      "Physical stamina"
-    ],
-    "used_for": [
-      "Sexual weakness",
-      "Bodybuilding",
-      "Arthritis"
-    ],
+    "scientific_name": "Chlorophytum borivilianum",
+    "benefits": ["Aphrodisiac", "Physical stamina"],
+    "used_for": ["Sexual weakness", "Bodybuilding", "Arthritis"],
     "preparation": "Powder with warm milk",
-    "safety": "Heavy to digest; may cause weight gain"
+    "safety": "Heavy to digest; may cause weight gain [cite: 40]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Safed+Musli"
   },
   {
     "name": "Kapikacchu (Mucuna)",
-    "benefits": [
-      "L-Dopa source",
-      "Nervine tonic"
-    ],
-    "used_for": [
-      "Parkinson's support",
-      "Tremors",
-      "Low sperm count"
-    ],
+    "scientific_name": "Mucuna pruriens",
+    "benefits": ["L-Dopa source", "Nervine tonic"],
+    "used_for": ["Parkinson's support", "Tremors", "Low sperm count"],
     "preparation": "Seed powder with warm milk",
-    "safety": "Contraindicated in schizophrenia; requires medical supervision"
+    "safety": "Contraindicated in schizophrenia; requires medical supervision [cite: 41]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kapikacchu"
   },
   {
     "name": "Vidari Kand",
-    "benefits": [
-      "Nutritive tonic",
-      "Rejuvenating"
-    ],
-    "used_for": [
-      "Emaciation",
-      "Anti-aging",
-      "Lactation"
-    ],
+    "scientific_name": "Pueraria tuberosa",
+    "benefits": ["Nutritive tonic", "Rejuvenating"],
+    "used_for": ["Emaciation", "Anti-aging", "Lactation"],
     "preparation": "Tuber powder with milk and ghee",
-    "safety": "Heavy to digest; avoid if experiencing severe congestion"
+    "safety": "Heavy to digest; avoid if experiencing severe congestion [cite: 42]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Vidari+Kand"
   },
   {
     "name": "Rasna",
-    "benefits": [
-      "Anti-arthritic",
-      "Vata pacifying"
-    ],
-    "used_for": [
-      "Rheumatoid arthritis",
-      "Sciatica",
-      "Joint pain"
-    ],
+    "scientific_name": "Pluchea lanceolata",
+    "benefits": ["Anti-arthritic", "Vata pacifying"],
+    "used_for": ["Rheumatoid arthritis", "Sciatica", "Joint pain"],
     "preparation": "Decoction of the leaves",
-    "safety": "Generally safe; heating in nature"
+    "safety": "Generally safe; heating in nature [cite: 43]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Rasna"
   },
   {
     "name": "Pushkarmool",
-    "benefits": [
-      "Cardiac and lung support",
-      "Antihistamine"
-    ],
-    "used_for": [
-      "Ischemic heart disease",
-      "COPD",
-      "Cough"
-    ],
+    "scientific_name": "Inula racemosa",
+    "benefits": ["Cardiac and lung support", "Antihistamine"],
+    "used_for": ["Ischemic heart disease", "COPD", "Cough"],
     "preparation": "Root powder with honey",
-    "safety": "Use under supervision if taking allopathic cardiac drugs"
+    "safety": "Use under supervision if taking allopathic cardiac drugs [cite: 43]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Pushkarmool"
   },
   {
     "name": "Kantakari",
-    "benefits": [
-      "Throat clearing",
-      "Anti-inflammatory"
-    ],
-    "used_for": [
-      "Chronic cough",
-      "Sore throat",
-      "Asthma"
-    ],
+    "scientific_name": "Solanum virginianum",
+    "benefits": ["Throat clearing", "Anti-inflammatory"],
+    "used_for": ["Chronic cough", "Sore throat", "Asthma"],
     "preparation": "Decoction or used in formulations like Dashamoola",
-    "safety": "Heating nature; use cautiously in high Pitta conditions"
+    "safety": "Heating nature; use cautiously in high Pitta conditions [cite: 45]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kantakari"
   },
   {
     "name": "Varuna",
-    "benefits": [
-      "Lithotriptic (stone breaking)",
-      "Diuretic"
-    ],
-    "used_for": [
-      "Kidney stones",
-      "BPH (Prostate enlargement)",
-      "UTI"
-    ],
+    "scientific_name": "Crateva religiosa",
+    "benefits": ["Lithotriptic (stone breaking)", "Diuretic"],
+    "used_for": ["Kidney stones", "BPH (Prostate enlargement)", "UTI"],
     "preparation": "Bark decoction",
-    "safety": "Ensure adequate water intake when using"
+    "safety": "Ensure adequate water intake when using [cite: 45]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Varuna"
   },
   {
     "name": "Chirayata",
-    "benefits": [
-      "Reduces fever",
-      "Blood purifier"
-    ],
-    "used_for": [
-      "Malaria",
-      "Skin diseases",
-      "Liver sluggishness"
-    ],
+    "scientific_name": "Swertia chirayita",
+    "benefits": ["Reduces fever", "Blood purifier"],
+    "used_for": ["Malaria", "Skin diseases", "Liver sluggishness"],
     "preparation": "Cold infusion or decoction",
-    "safety": "Extremely bitter; may cause hypoglycemia in high doses"
+    "safety": "Extremely bitter; may cause hypoglycemia in high doses [cite: 47]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Chirayata"
   },
   {
     "name": "Nutmeg (Jaiphal)",
-    "benefits": [
-      "Sleep inducing",
-      "Digestive"
-    ],
-    "used_for": [
-      "Insomnia",
-      "Diarrhea",
-      "Acne (topical)"
-    ],
+    "scientific_name": "Myristica fragrans",
+    "benefits": ["Sleep inducing", "Digestive"],
+    "used_for": ["Insomnia", "Diarrhea", "Acne (topical)"],
     "preparation": "Tiny pinch of powder in warm milk",
-    "safety": "Toxic in high doses; strict moderation required"
+    "safety": "Toxic in high doses; strict moderation required [cite: 48]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Nutmeg"
   },
   {
     "name": "Saffron (Kesar)",
-    "benefits": [
-      "Complexion enhancer",
-      "Mood lifter"
-    ],
-    "used_for": [
-      "Depression",
-      "PMS",
-      "Skin pigmentation"
-    ],
+    "scientific_name": "Crocus sativus",
+    "benefits": ["Complexion enhancer", "Mood lifter"],
+    "used_for": ["Depression", "PMS", "Skin pigmentation"],
     "preparation": "2-3 strands infused in warm milk",
-    "safety": "Avoid large doses during early pregnancy to prevent uterine stimulation"
+    "safety": "Avoid large doses during early pregnancy to prevent uterine stimulation [cite: 48]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Saffron"
   },
   {
     "name": "Shallaki (Boswellia)",
-    "benefits": [
-      "Joint lubrication",
-      "Anti-inflammatory"
-    ],
-    "used_for": [
-      "Osteoarthritis",
-      "Rheumatoid arthritis",
-      "Asthma"
-    ],
+    "scientific_name": "Boswellia serrata",
+    "benefits": ["Joint lubrication", "Anti-inflammatory"],
+    "used_for": ["Osteoarthritis", "Rheumatoid arthritis", "Asthma"],
     "preparation": "Purified resin extract in tablet or powder form",
-    "safety": "May cause mild gastric irritation; avoid during pregnancy"
+    "safety": "May cause mild gastric irritation; avoid during pregnancy [cite: 50]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Shallaki"
   },
   {
     "name": "Bhumyamalaki",
-    "benefits": [
-      "Liver protection",
-      "Antiviral"
-    ],
-    "used_for": [
-      "Hepatitis B support",
-      "Fatty liver",
-      "Jaundice"
-    ],
+    "scientific_name": "Phyllanthus niruri",
+    "benefits": ["Liver protection", "Antiviral"],
+    "used_for": ["Hepatitis B support", "Fatty liver", "Jaundice"],
     "preparation": "Whole plant decoction or powder with water",
-    "safety": "May lower blood sugar; diabetics should monitor closely"
+    "safety": "May lower blood sugar; diabetics should monitor closely [cite: 51]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Bhumyamalaki"
   },
   {
     "name": "Sariva (Indian Sarsaparilla)",
-    "benefits": [
-      "Blood purification",
-      "Cooling effect"
-    ],
-    "used_for": [
-      "Skin rashes",
-      "Urinary infections",
-      "Excess body heat"
-    ],
+    "scientific_name": "Hemidesmus indicus",
+    "benefits": ["Blood purification", "Cooling effect"],
+    "used_for": ["Skin rashes", "Urinary infections", "Excess body heat"],
     "preparation": "Root infusion or syrup",
-    "safety": "Generally safe; heavy doses may cause stomach upset"
+    "safety": "Generally safe; heavy doses may cause stomach upset [cite: 52]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Sariva"
   },
   {
     "name": "Gudmar (Gymnema)",
-    "benefits": [
-      "Sugar metabolism",
-      "Reduces sugar cravings"
-    ],
-    "used_for": [
-      "Type 2 Diabetes",
-      "Weight management"
-    ],
+    "scientific_name": "Gymnema sylvestre",
+    "benefits": ["Sugar metabolism", "Reduces sugar cravings"],
+    "used_for": ["Type 2 Diabetes", "Weight management"],
     "preparation": "Leaf powder with water before meals",
-    "safety": "Can cause hypoglycemia if taken with allopathic diabetes drugs"
+    "safety": "Can cause hypoglycemia if taken with allopathic diabetes drugs [cite: 52]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Gudmar"
   },
   {
     "name": "Lodhra",
-    "benefits": [
-      "Uterine health",
-      "Astringent"
-    ],
-    "used_for": [
-      "Heavy menstruation",
-      "Leucorrhea",
-      "Acne (topical)"
-    ],
+    "scientific_name": "Symplocos racemosa",
+    "benefits": ["Uterine health", "Astringent"],
+    "used_for": ["Heavy menstruation", "Leucorrhea", "Acne (topical)"],
     "preparation": "Bark powder decoction or paste for skin",
-    "safety": "Avoid in cases of severe constipation due to its astringent nature"
+    "safety": "Avoid in cases of severe constipation due to its astringent nature [cite: 53]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Lodhra"
   },
   {
     "name": "Khadira (Acacia catechu)",
-    "benefits": [
-      "Skin health",
-      "Oral hygiene"
-    ],
-    "used_for": [
-      "Eczema",
-      "Gingivitis",
-      "Bleeding gums"
-    ],
+    "scientific_name": "Acacia catechu",
+    "benefits": ["Skin health", "Oral hygiene"],
+    "used_for": ["Eczema", "Gingivitis", "Bleeding gums"],
     "preparation": "Heartwood decoction or as a mouthwash",
-    "safety": "Safe for external and internal use in moderate doses"
+    "safety": "Safe for external and internal use in moderate doses [cite: 54]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Khadira"
   },
   {
     "name": "Vacha (Calamus)",
-    "benefits": [
-      "Speech enhancement",
-      "Nervine stimulant"
-    ],
-    "used_for": [
-      "Stuttering",
-      "Epilepsy support",
-      "Memory"
-    ],
+    "scientific_name": "Acorus calamus",
+    "benefits": ["Speech enhancement", "Nervine stimulant"],
+    "used_for": ["Stuttering", "Epilepsy support", "Memory"],
     "preparation": "A tiny pinch of root powder with honey",
-    "safety": "Toxic in high doses; must be purified (Shodhana) before use"
+    "safety": "Toxic in high doses; must be purified (Shodhana) before use [cite: 56]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Vacha"
   },
   {
     "name": "Chitrak",
-    "benefits": [
-      "Digestive fire booster",
-      "Metabolism enhancer"
-    ],
-    "used_for": [
-      "Indigestion",
-      "Obesity",
-      "Hemorrhoids"
-    ],
+    "scientific_name": "Plumbago zeylanica",
+    "benefits": ["Digestive fire booster", "Metabolism enhancer"],
+    "used_for": ["Indigestion", "Obesity", "Hemorrhoids"],
     "preparation": "Root powder in minimal doses with buttermilk",
-    "safety": "Extremely heating; strictly avoid in pregnancy and high Pitta"
+    "safety": "Extremely heating; strictly avoid in pregnancy and high Pitta [cite: 57]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Chitrak"
   },
   {
     "name": "Musta (Nutgrass)",
-    "benefits": [
-      "Digestive cooling",
-      "Fever reduction"
-    ],
-    "used_for": [
-      "Diarrhea",
-      "Unexplained fever",
-      "PCOS"
-    ],
+    "scientific_name": "Cyperus rotundus",
+    "benefits": ["Digestive cooling", "Fever reduction"],
+    "used_for": ["Diarrhea", "Unexplained fever", "PCOS"],
     "preparation": "Tuber decoction or powder with warm water",
-    "safety": "Generally very safe, even for children"
+    "safety": "Generally very safe, even for children [cite: 57]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Musta"
   },
   {
     "name": "Daruharidra (Tree Turmeric)",
-    "benefits": [
-      "Hepatoprotective",
-      "Antimicrobial"
-    ],
-    "used_for": [
-      "Liver disorders",
-      "Eye infections",
-      "Psoriasis"
-    ],
+    "scientific_name": "Berberis aristata",
+    "benefits": ["Hepatoprotective", "Antimicrobial"],
+    "used_for": ["Liver disorders", "Eye infections", "Psoriasis"],
     "preparation": "Stem/bark decoction (Kwath)",
-    "safety": "Avoid prolonged use; not recommended during pregnancy"
+    "safety": "Avoid prolonged use; not recommended during pregnancy [cite: 59]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Daruharidra"
   },
   {
     "name": "Shirish",
-    "benefits": [
-      "Anti-allergic",
-      "Toxin removal (Vishaghna)"
-    ],
-    "used_for": [
-      "Allergic rhinitis",
-      "Insect bites",
-      "Asthma"
-    ],
+    "scientific_name": "Albizia lebbeck",
+    "benefits": ["Anti-allergic", "Toxin removal (Vishaghna)"],
+    "used_for": ["Allergic rhinitis", "Insect bites", "Asthma"],
     "preparation": "Bark decoction or seed powder",
-    "safety": "Safe in moderate doses; use under supervision for chronic allergies"
+    "safety": "Safe in moderate doses; use under supervision for chronic allergies [cite: 60]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Shirish"
   },
   {
     "name": "Apamarga",
-    "benefits": [
-      "Diuretic",
-      "Scraping effect (Lekhana)"
-    ],
-    "used_for": [
-      "Kidney stones",
-      "Obesity",
-      "Earache (oil)"
-    ],
+    "scientific_name": "Achyranthes aspera",
+    "benefits": ["Diuretic", "Scraping effect (Lekhana)"],
+    "used_for": ["Kidney stones", "Obesity", "Earache (oil)"],
     "preparation": "Whole plant decoction or alkaline extract (Kshara)",
-    "safety": "Alkaline nature can cause irritation; avoid in ulcers"
+    "safety": "Alkaline nature can cause irritation; avoid in ulcers [cite: 61]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Apamarga"
   },
   {
     "name": "Babool",
-    "benefits": [
-      "Wound healing",
-      "Astringent"
-    ],
-    "used_for": [
-      "Bleeding gums",
-      "Diarrhea",
-      "Skin irritations"
-    ],
+    "scientific_name": "Vachellia nilotica",
+    "benefits": ["Wound healing", "Astringent"],
+    "used_for": ["Bleeding gums", "Diarrhea", "Skin irritations"],
     "preparation": "Bark decoction for gargling or oral intake",
-    "safety": "High doses may cause constipation"
+    "safety": "High doses may cause constipation [cite: 61]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Babool"
   },
   {
     "name": "Bakuchi",
-    "benefits": [
-      "Skin pigmentation regulator",
-      "Blood purifier"
-    ],
-    "used_for": [
-      "Vitiligo",
-      "Psoriasis",
-      "Leprosy"
-    ],
+    "scientific_name": "Cullen corylifolium",
+    "benefits": ["Skin pigmentation regulator", "Blood purifier"],
+    "used_for": ["Vitiligo", "Psoriasis", "Leprosy"],
     "preparation": "Purified seed powder internally or oil applied topically",
-    "safety": "Topical application followed by sun exposure can cause severe blistering"
+    "safety": "Topical application followed by sun exposure can cause severe blistering [cite: 62]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Bakuchi"
   },
   {
     "name": "Chandan (White Sandalwood)",
-    "benefits": [
-      "Cooling",
-      "Complexion enhancer"
-    ],
-    "used_for": [
-      "Burning urination",
-      "Acne",
-      "Fever"
-    ],
+    "scientific_name": "Santalum album",
+    "benefits": ["Cooling", "Complexion enhancer"],
+    "used_for": ["Burning urination", "Acne", "Fever"],
     "preparation": "Heartwood paste topically or powder infused in water",
-    "safety": "Extremely safe; avoid adulterated essential oils internally"
+    "safety": "Extremely safe; avoid adulterated essential oils internally [cite: 64]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Chandan"
   },
   {
     "name": "Eranda (Castor)",
-    "benefits": [
-      "Purgative",
-      "Vata pacifying"
-    ],
-    "used_for": [
-      "Severe constipation",
-      "Sciatica",
-      "Lower back pain"
-    ],
+    "scientific_name": "Ricinus communis",
+    "benefits": ["Purgative", "Vata pacifying"],
+    "used_for": ["Severe constipation", "Sciatica", "Lower back pain"],
     "preparation": "Root decoction or purified oil with warm milk",
-    "safety": "Avoid in pregnancy; overdose causes severe diarrhea and dehydration"
+    "safety": "Avoid in pregnancy; overdose causes severe diarrhea and dehydration [cite: 65]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Eranda"
   },
   {
     "name": "Hingu (Asafoetida)",
-    "benefits": [
-      "Carminative",
-      "Antispasmodic"
-    ],
-    "used_for": [
-      "Severe bloating",
-      "Menstrual cramps",
-      "Asthma"
-    ],
+    "scientific_name": "Ferula assa-foetida",
+    "benefits": ["Carminative", "Antispasmodic"],
+    "used_for": ["Severe bloating", "Menstrual cramps", "Asthma"],
     "preparation": "Roasted in ghee and added to food or warm water",
-    "safety": "Heating nature; avoid in acid reflux or bleeding disorders"
+    "safety": "Heating nature; avoid in acid reflux or bleeding disorders [cite: 66]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Hingu"
   },
   {
     "name": "Jamun (Indian Blackberry)",
-    "benefits": [
-      "Blood sugar regulation",
-      "Astringent"
-    ],
-    "used_for": [
-      "Diabetes management",
-      "Frequent urination",
-      "Diarrhea"
-    ],
+    "scientific_name": "Syzygium cumini",
+    "benefits": ["Blood sugar regulation", "Astringent"],
+    "used_for": ["Diabetes management", "Frequent urination", "Diarrhea"],
     "preparation": "Seed powder with warm water before meals",
-    "safety": "May lower blood sugar too much if combined with insulin"
+    "safety": "May lower blood sugar too much if combined with insulin [cite: 66]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Jamun"
   },
   {
     "name": "Jyotishmati",
-    "benefits": [
-      "Cognitive stimulant",
-      "Memory enhancer"
-    ],
-    "used_for": [
-      "Dementia",
-      "Lack of focus",
-      "Nerve pain"
-    ],
+    "scientific_name": "Celastrus paniculatus",
+    "benefits": ["Cognitive stimulant", "Memory enhancer"],
+    "used_for": ["Dementia", "Lack of focus", "Nerve pain"],
     "preparation": "Seed oil in drops or seed powder",
-    "safety": "Highly heating; can cause acidity or restlessness in high doses"
+    "safety": "Highly heating; can cause acidity or restlessness in high doses [cite: 68]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Jyotishmati"
   },
   {
     "name": "Kanchanar",
-    "benefits": [
-      "Lymphatic support",
-      "Thyroid regulation"
-    ],
-    "used_for": [
-      "Hypothyroidism",
-      "Swollen lymph nodes",
-      "PCOS"
-    ],
+    "scientific_name": "Bauhinia variegata",
+    "benefits": ["Lymphatic support", "Thyroid regulation"],
+    "used_for": ["Hypothyroidism", "Swollen lymph nodes", "PCOS"],
     "preparation": "Bark decoction (often with Guggulu)",
-    "safety": "Avoid in pregnancy; monitor thyroid hormone levels regularly"
+    "safety": "Avoid in pregnancy; monitor thyroid hormone levels regularly [cite: 69]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kanchanar"
   },
   {
     "name": "Karanja",
-    "benefits": [
-      "Antimicrobial",
-      "Skin healing"
-    ],
-    "used_for": [
-      "Eczema",
-      "Wounds",
-      "Ulcers"
-    ],
+    "scientific_name": "Pongamia pinnata",
+    "benefits": ["Antimicrobial", "Skin healing"],
+    "used_for": ["Eczema", "Wounds", "Ulcers"],
     "preparation": "Seed oil applied topically; leaf decoction internally",
-    "safety": "Seed oil is strictly for external use"
+    "safety": "Seed oil is strictly for external use [cite: 70]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Karanja"
   },
   {
     "name": "Karpura (Edible Camphor)",
-    "benefits": [
-      "Cooling initially, then heating",
-      "Bronchodilator"
-    ],
-    "used_for": [
-      "Cough congestion",
-      "Toothache",
-      "Digestive sluggishness"
-    ],
+    "scientific_name": "Cinnamomum camphora",
+    "benefits": ["Cooling initially, then heating", "Bronchodilator"],
+    "used_for": ["Cough congestion", "Toothache", "Digestive sluggishness"],
     "preparation": "Micro-doses (must be edible grade) in water or food",
-    "safety": "Toxic in large doses; strictly avoid synthetic camphor internally"
+    "safety": "Toxic in large doses; strictly avoid synthetic camphor internally [cite: 71]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Karpura"
   },
   {
     "name": "Kasni (Chicory)",
-    "benefits": [
-      "Liver tonic",
-      "Kidney cleanser"
-    ],
-    "used_for": [
-      "Fatty liver",
-      "Gallbladder support",
-      "Sluggish digestion"
-    ],
+    "scientific_name": "Cichorium intybus",
+    "benefits": ["Liver tonic", "Kidney cleanser"],
+    "used_for": ["Fatty liver", "Gallbladder support", "Sluggish digestion"],
     "preparation": "Seed or root powder with water",
-    "safety": "Generally safe; may cause contact dermatitis in sensitive individuals"
+    "safety": "Generally safe; may cause contact dermatitis in sensitive individuals [cite: 72]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kasni"
   },
   {
     "name": "Khus (Vetiver)",
-    "benefits": [
-      "Deeply cooling",
-      "Nervine relaxant"
-    ],
-    "used_for": [
-      "Summer heat exhaustion",
-      "Burning sensation",
-      "Fever"
-    ],
+    "scientific_name": "Chrysopogon zizanioides",
+    "benefits": ["Deeply cooling", "Nervine relaxant"],
+    "used_for": ["Summer heat exhaustion", "Burning sensation", "Fever"],
     "preparation": "Root infused in drinking water (cold infusion)",
-    "safety": "Very safe for all age groups"
+    "safety": "Very safe for all age groups [cite: 72]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Khus"
   },
   {
     "name": "Kutaja",
-    "benefits": [
-      "Anti-dysenteric",
-      "Astringent"
-    ],
-    "used_for": [
-      "Amoebic dysentery",
-      "Severe diarrhea",
-      "IBS"
-    ],
+    "scientific_name": "Holarrhena antidysenterica",
+    "benefits": ["Anti-dysenteric", "Astringent"],
+    "used_for": ["Amoebic dysentery", "Severe diarrhea", "IBS"],
     "preparation": "Bark decoction or powder",
-    "safety": "Prolonged use without active diarrhea can cause severe constipation"
+    "safety": "Prolonged use without active diarrhea can cause severe constipation [cite: 73]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kutaja"
   },
   {
     "name": "Lajjalu (Touch-me-not)",
-    "benefits": [
-      "Wound healing",
-      "Hemostatic (stops bleeding)"
-    ],
-    "used_for": [
-      "Bleeding piles",
-      "Diarrhea",
-      "Cuts"
-    ],
+    "scientific_name": "Mimosa pudica",
+    "benefits": ["Wound healing", "Hemostatic (stops bleeding)"],
+    "used_for": ["Bleeding piles", "Diarrhea", "Cuts"],
     "preparation": "Whole plant paste or powder",
-    "safety": "Avoid if trying to conceive, historically used as a mild contraceptive in folk medicine"
+    "safety": "Avoid if trying to conceive, historically used as a mild contraceptive in folk medicine [cite: 74]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Lajjalu"
   },
   {
     "name": "Mandukaparni (Gotu Kola)",
-    "benefits": [
-      "Brain tonic",
-      "Tissue regeneration"
-    ],
-    "used_for": [
-      "Memory loss",
-      "Varicose veins",
-      "Anxiety"
-    ],
+    "scientific_name": "Centella asiatica",
+    "benefits": ["Brain tonic", "Tissue regeneration"],
+    "used_for": ["Memory loss", "Varicose veins", "Anxiety"],
     "preparation": "Fresh juice or dried powder with water",
-    "safety": "Safe in recommended doses; rare cases of mild headache reported"
+    "safety": "Safe in recommended doses; rare cases of mild headache reported [cite: 76]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Mandukaparni"
   },
   {
     "name": "Nagkesar",
-    "benefits": [
-      "Hemostatic",
-      "Anti-inflammatory"
-    ],
-    "used_for": [
-      "Bleeding piles",
-      "Heavy periods",
-      "Excessive sweating"
-    ],
+    "scientific_name": "Mesua ferrea",
+    "benefits": ["Hemostatic", "Anti-inflammatory"],
+    "used_for": ["Bleeding piles", "Heavy periods", "Excessive sweating"],
     "preparation": "Stamen powder with butter or water",
-    "safety": "Avoid during early pregnancy unless supervised"
+    "safety": "Avoid during early pregnancy unless supervised [cite: 76]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Nagkesar"
   },
   {
     "name": "Nirgundi",
-    "benefits": [
-      "Analgesic",
-      "Muscle relaxant"
-    ],
-    "used_for": [
-      "Joint pain",
-      "Sciatica",
-      "Menstrual cramps"
-    ],
+    "scientific_name": "Vitex negundo",
+    "benefits": ["Analgesic", "Muscle relaxant"],
+    "used_for": ["Joint pain", "Sciatica", "Menstrual cramps"],
     "preparation": "Leaf decoction or infused oil for massage",
-    "safety": "Heating nature; external use is safer for high Pitta individuals"
+    "safety": "Heating nature; external use is safer for high Pitta individuals [cite: 78]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Nirgundi"
   },
   {
     "name": "Palasha",
-    "benefits": [
-      "Anti-parasitic",
-      "Astringent"
-    ],
-    "used_for": [
-      "Intestinal worms",
-      "Diarrhea",
-      "Skin diseases"
-    ],
+    "scientific_name": "Butea monosperma",
+    "benefits": ["Anti-parasitic", "Astringent"],
+    "used_for": ["Intestinal worms", "Diarrhea", "Skin diseases"],
     "preparation": "Seed powder with warm water (for worms)",
-    "safety": "Seeds can be toxic in high doses; requires medical supervision"
+    "safety": "Seeds can be toxic in high doses; requires medical supervision [cite: 79]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Palasha"
   },
   {
     "name": "Pashanbhed",
-    "benefits": [
-      "Lithotriptic (breaks stones)",
-      "Diuretic"
-    ],
-    "used_for": [
-      "Kidney stones",
-      "UTI",
-      "Painful urination"
-    ],
+    "scientific_name": "Bergenia ligulata",
+    "benefits": ["Lithotriptic (breaks stones)", "Diuretic"],
+    "used_for": ["Kidney stones", "UTI", "Painful urination"],
     "preparation": "Root decoction",
-    "safety": "Safe, but must be accompanied by high water intake"
+    "safety": "Safe, but must be accompanied by high water intake [cite: 79]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Pashanbhed"
   },
   {
     "name": "Raktachandan (Red Sandalwood)",
-    "benefits": [
-      "Cooling",
-      "Blood purifier"
-    ],
-    "used_for": [
-      "Acne",
-      "Hyperpigmentation",
-      "Bleeding disorders"
-    ],
+    "scientific_name": "Pterocarpus santalinus",
+    "benefits": ["Cooling", "Blood purifier"],
+    "used_for": ["Acne", "Hyperpigmentation", "Bleeding disorders"],
     "preparation": "Heartwood paste applied topically or decoction internally",
-    "safety": "Safe; internal use should be moderated"
+    "safety": "Safe; internal use should be moderated [cite: 81]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Raktachandan"
   },
   {
     "name": "Saptaparna",
-    "benefits": [
-      "Anti-malarial",
-      "Bitter tonic"
-    ],
-    "used_for": [
-      "Chronic fevers",
-      "Skin conditions",
-      "Lactation stimulation"
-    ],
+    "scientific_name": "Alstonia scholaris",
+    "benefits": ["Anti-malarial", "Bitter tonic"],
+    "used_for": ["Chronic fevers", "Skin conditions", "Lactation stimulation"],
     "preparation": "Bark decoction",
-    "safety": "Strong bitter; may cause nausea on an empty stomach"
+    "safety": "Strong bitter; may cause nausea on an empty stomach [cite: 82]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Saptaparna"
   },
   {
     "name": "Shalaparni",
-    "benefits": [
-      "Cardio-tonic",
-      "Reduces inflammation"
-    ],
-    "used_for": [
-      "Arrhythmia",
-      "Fever",
-      "Asthma"
-    ],
+    "scientific_name": "Desmodium gangeticum",
+    "benefits": ["Cardio-tonic", "Reduces inflammation"],
+    "used_for": ["Arrhythmia", "Fever", "Asthma"],
     "preparation": "Root decoction (often part of Dashamoola)",
-    "safety": "Generally very safe"
+    "safety": "Generally very safe [cite: 82]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Shalaparni"
   },
   {
     "name": "Tagar (Indian Valerian)",
-    "benefits": [
-      "Sedative",
-      "Anxiolytic"
-    ],
-    "used_for": [
-      "Insomnia",
-      "Anxiety",
-      "Muscle spasms"
-    ],
+    "scientific_name": "Valeriana jatamansi",
+    "benefits": ["Sedative", "Anxiolytic"],
+    "used_for": ["Insomnia", "Anxiety", "Muscle spasms"],
     "preparation": "Root powder at bedtime",
-    "safety": "Can cause drowsiness; do not mix with alcohol or allopathic sedatives"
+    "safety": "Can cause drowsiness; do not mix with alcohol or allopathic sedatives [cite: 84]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Tagar"
   },
   {
     "name": "Tamarind (Imli)",
-    "benefits": [
-      "Digestive stimulant",
-      "Cooling"
-    ],
-    "used_for": [
-      "Loss of appetite",
-      "Sunstroke",
-      "Constipation"
-    ],
+    "scientific_name": "Tamarindus indica",
+    "benefits": ["Digestive stimulant", "Cooling"],
+    "used_for": ["Loss of appetite", "Sunstroke", "Constipation"],
     "preparation": "Fruit pulp soaked in water",
-    "safety": "High acidity can erode tooth enamel and worsen acid reflux"
+    "safety": "High acidity can erode tooth enamel and worsen acid reflux [cite: 84]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Tamarind"
   },
   {
     "name": "Tejpatra (Bay Leaf)",
-    "benefits": [
-      "Improves insulin sensitivity",
-      "Digestive aid"
-    ],
-    "used_for": [
-      "Diabetes support",
-      "Gas",
-      "Cough"
-    ],
+    "scientific_name": "Cinnamomum tamala",
+    "benefits": ["Improves insulin sensitivity", "Digestive aid"],
+    "used_for": ["Diabetes support", "Gas", "Cough"],
     "preparation": "Powdered leaf in food or as a tea",
-    "safety": "Generally safe in culinary amounts"
+    "safety": "Generally safe in culinary amounts [cite: 85]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Tejpatra"
   },
   {
     "name": "Trivrit",
-    "benefits": [
-      "Strong purgative",
-      "Bowel cleanser"
-    ],
-    "used_for": [
-      "Severe constipation",
-      "Panchakarma (Virechana)"
-    ],
+    "scientific_name": "Operculina turpethum",
+    "benefits": ["Strong purgative", "Bowel cleanser"],
+    "used_for": ["Severe constipation", "Panchakarma (Virechana)"],
     "preparation": "Root powder with warm water or milk",
-    "safety": "Contraindicated in pregnancy, children, and elderly; causes strong bowel movements"
+    "safety": "Contraindicated in pregnancy, children, and elderly; causes strong bowel movements [cite: 87]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Trivrit"
   },
   {
     "name": "Vamsha (Bamboo Manna)",
-    "benefits": [
-      "Rich in natural silica",
-      "Lung tonic"
-    ],
-    "used_for": [
-      "Dry cough",
-      "Osteoporosis support",
-      "Bleeding disorders"
-    ],
+    "scientific_name": "Bambusa arundinacea",
+    "benefits": ["Rich in natural silica", "Lung tonic"],
+    "used_for": ["Dry cough", "Osteoporosis support", "Bleeding disorders"],
     "preparation": "Powder mixed with honey or in formulations like Sitopaladi",
-    "safety": "Extremely safe for all ages"
+    "safety": "Extremely safe for all ages [cite: 87]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Vamsha"
   },
   {
     "name": "Vidanga",
-    "benefits": [
-      "Anti-helminthic",
-      "Fat burner"
-    ],
-    "used_for": [
-      "Intestinal worms",
-      "Obesity",
-      "Indigestion"
-    ],
+    "scientific_name": "Embelia ribes",
+    "benefits": ["Anti-helminthic", "Fat burner"],
+    "used_for": ["Intestinal worms", "Obesity", "Indigestion"],
     "preparation": "Berry powder with warm water",
-    "safety": "Avoid during pregnancy; traditional texts suggest mild contraceptive properties"
+    "safety": "Avoid during pregnancy; traditional texts suggest mild contraceptive properties [cite: 89]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Vidanga"
   },
   {
     "name": "Dhataki",
-    "benefits": [
-      "Fermentation initiator",
-      "Astringent"
-    ],
-    "used_for": [
-      "Making Asavas/Arishtas",
-      "Diarrhea",
-      "Heavy bleeding"
-    ],
+    "scientific_name": "Woodfordia fruticosa",
+    "benefits": ["Fermentation initiator", "Astringent"],
+    "used_for": ["Making Asavas/Arishtas", "Diarrhea", "Heavy bleeding"],
     "preparation": "Dried flowers used in formulations or decoctions",
-    "safety": "Safe in standard doses; can cause constipation"
+    "safety": "Safe in standard doses; can cause constipation [cite: 90]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Dhataki"
   },
   {
     "name": "Makoy (Black Nightshade)",
-    "benefits": [
-      "Liver and spleen support",
-      "Anti-inflammatory"
-    ],
-    "used_for": [
-      "Hepatomegaly",
-      "Edema",
-      "Mouth ulcers"
-    ],
+    "scientific_name": "Solanum nigrum",
+    "benefits": ["Liver and spleen support", "Anti-inflammatory"],
+    "used_for": ["Hepatomegaly", "Edema", "Mouth ulcers"],
     "preparation": "Fresh juice of the whole plant or boiled leaves",
-    "safety": "Unripe green berries are toxic; only use ripe berries or leaves under supervision"
+    "safety": "Unripe green berries are toxic; only use ripe berries or leaves under supervision [cite: 91]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Makoy"
   },
   {
     "name": "Kamala (Lotus)",
-    "benefits": [
-      "Heart tonic",
-      "Cooling and calming"
-    ],
-    "used_for": [
-      "Palpitations",
-      "Bleeding disorders",
-      "Anxiety"
-    ],
+    "scientific_name": "Nelumbo nucifera",
+    "benefits": ["Heart tonic", "Cooling and calming"],
+    "used_for": ["Palpitations", "Bleeding disorders", "Anxiety"],
     "preparation": "Flower petal infusion or seed powder",
-    "safety": "Very safe and balancing for all doshas"
+    "safety": "Very safe and balancing for all doshas [cite: 91]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kamala"
   },
   {
     "name": "Karela (Bitter Gourd)",
-    "benefits": [
-      "Hypoglycemic",
-      "Blood purifier"
-    ],
-    "used_for": [
-      "Diabetes",
-      "Skin infections",
-      "Liver sluggishness"
-    ],
+    "scientific_name": "Momordica charantia",
+    "benefits": ["Hypoglycemic", "Blood purifier"],
+    "used_for": ["Diabetes", "Skin infections", "Liver sluggishness"],
     "preparation": "Fresh juice on an empty stomach or dried powder",
-    "safety": "May drop blood sugar excessively if on diabetes meds; avoid large amounts in pregnancy"
+    "safety": "May drop blood sugar excessively if on diabetes meds; avoid large amounts in pregnancy [cite: 93]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Karela"
   },
   {
     "name": "Moringa (Shigru)",
-    "benefits": [
-      "Nutrient-dense",
-      "Joint support"
-    ],
-    "used_for": [
-      "Malnutrition",
-      "Osteoarthritis",
-      "High blood pressure"
-    ],
+    "scientific_name": "Moringa oleifera",
+    "benefits": ["Nutrient-dense", "Joint support"],
+    "used_for": ["Malnutrition", "Osteoarthritis", "High blood pressure"],
     "preparation": "Leaf powder in smoothies/water or drumstick soup",
-    "safety": "Heating nature; root and bark extracts should be avoided in pregnancy"
+    "safety": "Heating nature; root and bark extracts should be avoided in pregnancy [cite: 94]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Moringa"
   },
   {
     "name": "Pippali Mool (Long Pepper Root)",
-    "benefits": [
-      "Deep digestive stimulant",
-      "Sleep aid (paradoxical)"
-    ],
-    "used_for": [
-      "Insomnia due to poor digestion",
-      "Flatulence",
-      "Asthma"
-    ],
+    "scientific_name": "Piper longum",
+    "benefits": ["Deep digestive stimulant", "Sleep aid (paradoxical)"],
+    "used_for": ["Insomnia due to poor digestion", "Flatulence", "Asthma"],
     "preparation": "Root powder boiled with milk at night",
-    "safety": "Highly heating; avoid in ulcers and severe acidity"
+    "safety": "Highly heating; avoid in ulcers and severe acidity [cite: 95]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Pippali+Mool"
   },
   {
     "name": "Priyal (Chironji)",
-    "benefits": [
-      "Nourishing",
-      "Skin softening"
-    ],
-    "used_for": [
-      "Weakness",
-      "Dry skin",
-      "Burning sensation"
-    ],
+    "scientific_name": "Buchanania lanzan",
+    "benefits": ["Nourishing", "Skin softening"],
+    "used_for": ["Weakness", "Dry skin", "Burning sensation"],
     "preparation": "Seeds eaten raw or ground into a paste with milk",
-    "safety": "Heavy to digest; overconsumption may cause stomach upset"
+    "safety": "Heavy to digest; overconsumption may cause stomach upset [cite: 96]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Priyal"
   },
   {
     "name": "Senna (Swarnapatri)",
-    "benefits": [
-      "Bowel stimulant",
-      "Laxative"
-    ],
-    "used_for": [
-      "Acute constipation",
-      "Bowel prep"
-    ],
+    "scientific_name": "Senna alexandrina",
+    "benefits": ["Bowel stimulant", "Laxative"],
+    "used_for": ["Acute constipation", "Bowel prep"],
     "preparation": "Leaf powder or tea infused in hot water",
-    "safety": "Causes dependency if used daily; can cause severe cramping and electrolyte imbalance"
+    "safety": "Causes dependency if used daily; can cause severe cramping and electrolyte imbalance [cite: 97]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Senna"
   },
   {
     "name": "Guggulu (Purified Commiphora)",
-    "benefits": [
-      "Scraping action (Lekhana)",
-      "Cholesterol management"
-    ],
-    "used_for": [
-      "High cholesterol",
-      "Hypothyroidism",
-      "Cysts"
-    ],
+    "scientific_name": "Commiphora wightii",
+    "benefits": ["Scraping action (Lekhana)", "Cholesterol management"],
+    "used_for": ["High cholesterol", "Hypothyroidism", "Cysts"],
     "preparation": "Purified resin in tablet form",
-    "safety": "Must be purified; raw Guggul damages kidneys. Avoid in hyperthyroidism."
+    "safety": "Must be purified; raw Guggul damages kidneys.  Avoid in hyperthyroidism. [cite: 98]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Guggulu"
   },
   {
     "name": "Kupilu (Purified Nux Vomica)",
-    "benefits": [
-      "Nerve stimulant",
-      "Pain relief"
-    ],
-    "used_for": [
-      "Paralysis",
-      "Severe nerve pain",
-      "Erectile dysfunction"
-    ],
+    "scientific_name": "Strychnos nux-vomica",
+    "benefits": ["Nerve stimulant", "Pain relief"],
+    "used_for": ["Paralysis", "Severe nerve pain", "Erectile dysfunction"],
     "preparation": "Strictly processed and purified seeds only",
-    "safety": "Extremely toxic in raw form; MUST only be prescribed by a certified AYUSH doctor"
+    "safety": "Extremely toxic in raw form;  MUST only be prescribed by a certified AYUSH doctor [cite: 99]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Kupilu"
   },
   {
     "name": "Triphala",
-    "benefits": [
-      "Digestive detox",
-      "Antioxidant"
-    ],
-    "used_for": [
-      "Constipation",
-      "Eye health",
-      "Immunity"
-    ],
+    "scientific_name": "Terminalia chebula, Terminalia bellirica, Phyllanthus emblica",
+    "benefits": ["Digestive detox", "Antioxidant"],
+    "used_for": ["Constipation", "Eye health", "Immunity"],
     "preparation": "Powder with warm water at bedtime",
-    "safety": "Safe for regular use; may cause mild loose stools initially"
+    "safety": "Safe for regular use; may cause mild loose stools initially [cite: 100]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Triphala"
   },
   {
     "name": "Isabgol (Psyllium Husk)",
-    "benefits": [
-      "Bowel regulation",
-      "Cholesterol reduction"
-    ],
-    "used_for": [
-      "Constipation",
-      "IBS",
-      "Acidity"
-    ],
+    "scientific_name": "Plantago ovata",
+    "benefits": ["Bowel regulation", "Cholesterol reduction"],
+    "used_for": ["Constipation", "IBS", "Acidity"],
     "preparation": "Husk mixed in warm water or milk",
-    "safety": "Must be taken with plenty of fluids to avoid choking or bowel obstruction"
+    "safety": "Must be taken with plenty of fluids to avoid choking or bowel obstruction [cite: 100]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Isabgol"
   },
   {
     "name": "Surana (Elephant Foot Yam)",
-    "benefits": [
-      "Bowel tonic",
-      "Digestive stimulant"
-    ],
-    "used_for": [
-      "Hemorrhoids (Piles)",
-      "Fistula",
-      "Indigestion"
-    ],
+    "scientific_name": "Amorphophallus paeoniifolius",
+    "benefits": ["Bowel tonic", "Digestive stimulant"],
+    "used_for": ["Hemorrhoids (Piles)", "Fistula", "Indigestion"],
     "preparation": "Cooked as a vegetable or purified powder (Vati)",
-    "safety": "Must be properly cooked or purified; raw yam causes severe throat itching"
+    "safety": "Must be properly cooked or purified; raw yam causes severe throat itching [cite: 102]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Surana"
   },
   {
     "name": "Eucalyptus (Nilgiri)",
-    "benefits": [
-      "Decongestant",
-      "Antimicrobial"
-    ],
-    "used_for": [
-      "Sinusitis",
-      "Cold",
-      "Bronchitis"
-    ],
+    "scientific_name": "Eucalyptus globulus",
+    "benefits": ["Decongestant", "Antimicrobial"],
+    "used_for": ["Sinusitis", "Cold", "Bronchitis"],
     "preparation": "Essential oil drops in hot water for steam inhalation",
-    "safety": "Essential oil is strictly for external use/inhalation; highly toxic if ingested"
+    "safety": "Essential oil is strictly for external use/inhalation; highly toxic if ingested [cite: 103]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Eucalyptus"
   },
   {
     "name": "Godanti Bhasma",
-    "benefits": [
-      "Cooling effect",
-      "Analgesic"
-    ],
-    "used_for": [
-      "Migraine",
-      "Fever",
-      "Leucorrhea"
-    ],
+    "scientific_name": "Gypsum (Calcium sulfate dihydrate)",
+    "benefits": ["Cooling effect", "Analgesic"],
+    "used_for": ["Migraine", "Fever", "Leucorrhea"],
     "preparation": "Purified gypsum ash mixed with honey or ghee",
-    "safety": "Must be strictly prepared according to Ayurvedic texts; use under medical supervision"
+    "safety": "Must be strictly prepared according to Ayurvedic texts; use under medical supervision [cite: 104]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Godanti+Bhasma"
   },
   {
     "name": "Curry Leaves (Kadi Patta)",
-    "benefits": [
-      "Hair health",
-      "Blood sugar management"
-    ],
-    "used_for": [
-      "Premature graying",
-      "Indigestion",
-      "Morning sickness"
-    ],
+    "scientific_name": "Murraya koenigii",
+    "benefits": ["Hair health", "Blood sugar management"],
+    "used_for": ["Premature graying", "Indigestion", "Morning sickness"],
     "preparation": "Chewed fresh, boiled in oil for hair, or added to meals",
-    "safety": "Generally very safe for everyone in culinary amounts"
+    "safety": "Generally very safe for everyone in culinary amounts [cite: 104]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Curry+Leaves"
   },
   {
     "name": "Sarpagandha (Indian Snakeroot)",
-    "benefits": [
-      "Hypotensive",
-      "Tranquilizer"
-    ],
-    "used_for": [
-      "High blood pressure",
-      "Severe anxiety",
-      "Insomnia"
-    ],
+    "scientific_name": "Rauvolfia serpentina",
+    "benefits": ["Hypotensive", "Tranquilizer"],
+    "used_for": ["High blood pressure", "Severe anxiety", "Insomnia"],
     "preparation": "Root powder or tablets in prescribed micro-doses",
-    "safety": "Can cause severe depression or dangerously low BP; requires strict medical supervision"
+    "safety": "Can cause severe depression or dangerously low BP; requires strict medical supervision [cite: 106]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Sarpagandha"
   },
   {
     "name": "Rose (Gulab)",
-    "benefits": [
-      "Deeply cooling",
-      "Mood lifter"
-    ],
-    "used_for": [
-      "Dry eyes",
-      "Skin inflammation",
-      "Acidity"
-    ],
+    "scientific_name": "Rosa damascena",
+    "benefits": ["Deeply cooling", "Mood lifter"],
+    "used_for": ["Dry eyes", "Skin inflammation", "Acidity"],
     "preparation": "Petal jam (Gulkand) internally or pure rose water topically/as eye drops",
-    "safety": "Ensure rose water used for eyes is 100% pure and free from synthetic preservatives"
+    "safety": "Ensure rose water used for eyes is 100% pure and free from synthetic preservatives [cite: 107]",
+    "image_url": "https://placehold.co/600x400/e8f5e9/2e7d32?text=Rose"
   }
 ]
