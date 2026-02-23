@@ -21,7 +21,7 @@ export default function TabsLayout() {
           paddingHorizontal: 8,
           paddingTop: 8,
           position: 'absolute',
-          marginHorizontal: 16,
+          marginHorizontal: 8,
           borderRadius: 20,
         }
       }}
