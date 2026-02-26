@@ -2,6 +2,7 @@ import { type Request, type Response } from "express";
 import User from "../models/user.model.js";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
+import type { AuthenticatedRequest } from "../middlewares/auth.middleware.js";
 
 export const signup = async (req: Request, res: Response) => {
   try {
@@ -90,6 +91,25 @@ export const login = async (req: Request, res: Response) => {
     });
   } catch (error) {
     console.error("Error in login :- ", error);
+    return res.status(500).json({
+      success: false,
+      message: "Internal Server Error"
+    });
+  }
+}
+
+export const me = async (req: AuthenticatedRequest, res: Response) => {
+  try {
+    res.status(200).json({
+      success: true,
+      message: "User fetched successfully",
+      data: {
+        name: req.user?.name,
+        email: req.user?.email,
+      }
+    });
+  } catch (error) {
+    console.error("Error in me :- ", error);
     return res.status(500).json({
       success: false,
       message: "Internal Server Error"
