@@ -6,13 +6,14 @@ import UserRouter from "./routes/user.route.js";
 import ChatRouter from "./routes/chat.route.js";
 import HerbRouter from "./routes/herb.route.js";
 import YogaRouter from "./routes/yoga.route.js";
+import { type Response, type Request } from "express";
 // import { indexAllData } from "./scripts/indexData.js";
 
 const app = express();
 
 app.use(express.json());
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT as unknown as number;
 
 app.use('/api/v1/user', UserRouter);
 app.use('/api/v1/chat', ChatRouter);
@@ -21,9 +22,16 @@ app.use('/api/v1/yoga', YogaRouter);
 
 // indexAllData();
 
+app.get('/', (req: Request, res: Response) => {
+  return res.status(200).json({
+    success: false,
+    message: 'All running fine'
+  });
+})
+
 connectDB()
 .then(() => {
-  app.listen(PORT, () => {
+  app.listen(PORT, "0.0.0.0", () => {
     console.log(`Server started at http://localhost:${PORT}`);
   })
   .on("error", (err) => {
