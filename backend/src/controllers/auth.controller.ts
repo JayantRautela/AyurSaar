@@ -40,7 +40,8 @@ export const signup = async (req: Request, res: Response) => {
     return res.status(201).json({
       success: true,
       message: "User signed up",
-      token: token
+      token: token,
+      user: newUser
     });
   } catch (error) {
     console.error("Error in signup :- ", error);
@@ -87,7 +88,8 @@ export const login = async (req: Request, res: Response) => {
     return res.status(201).json({
       success: true,
       message: "User logged in",
-      token: token
+      token: token,
+      user: user
     });
   } catch (error) {
     console.error("Error in login :- ", error);
