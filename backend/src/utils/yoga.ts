@@ -1,5 +1,6 @@
 import { groq } from "../config/ai.js";
-import { webSearch, type Message } from "./herbs.js";
+import type { Message } from "../types/types.js";
+import { webSearch } from "./webSearch.js";
 
 export async function yogaInfo(query: string) {
   const baseMessages: Message[] = [

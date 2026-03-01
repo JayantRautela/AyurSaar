@@ -1,12 +1,6 @@
 import { groq, tav } from "../config/ai.js";
-
-export interface Message {
-  role: "system" | "user" | "assistant" | "tool";
-  content: string;
-  tool_call_id?: string;
-  name?: string;
-  tool_call?: any;
-}
+import type { Message } from "../types/types.js";
+import { webSearch } from "./webSearch.js";
 
 export async function getherbInfo(query: string) {
   const baseMessages: Message[] = [
@@ -148,14 +142,4 @@ export async function getherbInfo(query: string) {
     }
     continue;
   }
-}
-
-export async function webSearch({ query }: { query: string}) {
-    console.log('Calling web search...');
-
-    const response = await tav.search(query);
-
-    const finalResult = response.results.map((result) => result.content).join('\n\n');
-
-    return finalResult;
 }
